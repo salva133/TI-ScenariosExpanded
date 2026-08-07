@@ -1,6 +1,3 @@
-// 1898 - War for our World
-// 30 Staaten mit eigenem Namen oder ueberschriebenem Unionsnamen
-
 TINationTemplate.displayName.BGM.1898=Belgien
 TINationTemplate.displayNameWithArticle.BGM.1898=Belgien
 TINationTemplate.nationAdjective.BGM.1898=Belgiens
@@ -241,8 +238,6 @@ TINationTemplate.unionDisplayName.USA.1898=Vereinigte Staaten
 TINationTemplate.unionDisplayNameWithArticle.USA.1898=die Vereinigten Staaten
 TINationTemplate.unionAdjective.USA.1898=der Vereinigten Staaten
 TINationTemplate.unionDisplayNameWithArticlePrep.USA.1898=in den Vereinigten Staaten
-// 1947 - Roswell
-// 30 Staaten mit eigenem Namen oder ueberschriebenem Unionsnamen
 
 TINationTemplate.displayName.AUS.1947=Australien
 TINationTemplate.displayNameWithArticle.AUS.1947=Australien
