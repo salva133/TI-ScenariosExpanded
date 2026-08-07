@@ -1,0 +1,10 @@
+{
+   "id_prefixes": [
+      "1898_",
+      "WarForOurWorld"
+   ],
+   "reference_language": "en",
+   "ignore_reference_fields": [
+      "federation"
+   ]
+}

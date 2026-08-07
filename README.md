@@ -8,7 +8,7 @@ campaigns. Every record carries the `1898_` prefix and is appended to the base
 data, so the 2022, 2026, 2030 and 2070 scenarios — and the Dark Skies scenarios
 — remain untouched.
 
-**Version 1.5.0** · Terra Invicta 1.0.26
+**Version 1.6.0** · Terra Invicta 1.0.51
 
 ## Installation
 
@@ -104,6 +104,14 @@ Portugal — the Anglo-Japanese Alliance does not arrive until 1902.
 
 ## Changelog
 
+### 1.6.0
+
+- Retargeted to Terra Invicta 1.0.51.
+- The scenario's nation list uses vanilla's `ALN` instead of the mod's own
+  `1898_ALN` copy of the Alien Nation, which is now gone.
+- Mod description rewritten in English; the German scenario descriptions carry
+  real umlauts again.
+
 ### 1.5.0
 
 - Added the second scenario, *1898 — War for our World from Mars*. The alien
@@ -144,3 +152,28 @@ Portugal — the Anglo-Japanese Alliance does not arrive until 1902.
 ### 1.0.0
 
 - Initial release.
+
+## Continuous integration
+
+Every push and pull request runs the Terra Invicta mod validator from
+[`salva133/My-Workflows`](https://github.com/salva133/My-Workflows). It reads the
+mod the way the game does and reports what the game would swallow in silence:
+
+* `ModInfo.json` parses, carries the fields the mod menu reads, and lists every
+  template file present — a template missing from `TemplatesToConcatArrays` is a
+  file the game never opens.
+* Every `1898_` name a record points at resolves to a record the mod defines, so
+  a mistyped region in an army or a bilateral relation is caught rather than
+  quietly dropping that army or claim.
+* Every nation, region, army, habitat and start time is listed in the
+  `TIMetaTemplate` entry for its type. A record the meta template does not list
+  is a record no scenario ever loads.
+* Every localization key resolves through `scenarioPrefix` and
+  `scenarioLocalizationPostfix` to a record that exists, English and German
+  carry the same keys, and both files are valid UTF-8 — a `.deu` file saved as
+  cp1252 reaches the game as mojibake rather than as an error.
+
+A release is cut by bumping `Version` in `ModInfo.json` and pushing to `master`:
+the checks run again, and a green run publishes `WarForOurWorld-v<version>.zip`
+— a `WarForOurWorld` folder ready to drop into `Mods\Enabled` — as a GitHub
+release tagged `v<version>`.
