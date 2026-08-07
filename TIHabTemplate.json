@@ -1,6 +1,6 @@
 [
  {
-  "dataName": "1898_AlienHQMars",
+  "dataName": "1898M_AlienHQ",
   "friendlyName": "Alien HQ",
   "habType": "Base",
   "tier": 3,
@@ -59,7 +59,7 @@
   ]
  },
  {
-  "dataName": "1898_AlienHQStationMars",
+  "dataName": "1898M_AlienHQStation",
   "friendlyName": "Alien Station Alpha",
   "habType": "Station",
   "tier": 3,

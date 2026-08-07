@@ -9,7 +9,7 @@ The mod adds scenarios and changes nothing in existing campaigns. Every record
 carries a scenario prefix and is appended to the base data, so the 2022, 2026,
 2030 and 2070 scenarios — and the Dark Skies scenarios — remain untouched.
 
-**Version 2.3.1** · Terra Invicta 1.0.51
+**Version 2.4.0** · Terra Invicta 1.0.51
 
 ## Installation
 
@@ -69,6 +69,11 @@ The same world, but the invaders come from Mars as in Wells: headquarters on
 Olympus Mons, station in low Mars orbit. The enemy is known from the start and
 far closer to Earth than usual. Both 1898 scenarios share nations, regions,
 armies and start time, and differ only in their habitat group.
+
+The two scenarios carry separate prefixes, `1898_` and `1898M_`, and therefore
+duplicate their data. That is not tidiness lost for nothing: `AlienHQ` is
+hard-coded in the game's assembly, so both variants would otherwise have to
+share one headquarters.
 
 ### 1947 — Roswell
 
@@ -159,6 +164,19 @@ warns on any duplicate identifier. `checkall.py` then validates the merged mod
 against the base game's templates.
 
 ## Changelog
+
+### 2.4.0
+
+- Fixed the crash when starting the Mars variant. `AlienHQ` is hard-coded in the
+  game's assembly: the alien headquarters must carry exactly that name or
+  `TIFactionState.NewCampaign()` cannot find it. Renaming it to
+  `1898_AlienHQMars` broke the scenario. The Mars variant now has its own prefix
+  `1898M_` and defines `1898M_AlienHQ`, which the game resolves through
+  `scenarioPrefix` before falling back to the base entry.
+- As a consequence the two 1898 scenarios no longer share their data; each ships
+  a full prefixed set. The mod grows from 2.1 to 3.1 MB.
+- `build.py` now clears each generator's output folder before running, so no
+  file survives from an earlier build that the generator no longer writes.
 
 ### 2.3.1
 
