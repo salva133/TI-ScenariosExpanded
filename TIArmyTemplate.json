@@ -1377,7 +1377,7 @@
   "startingStrength": 0.54
  },
  {
-  "dataName": "1947_Garrison1",
+  "dataName": "1947_Occupation1",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_Bavaria",
   "homeRegionStr": "1947_Shenandoah",
@@ -1386,7 +1386,7 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Garrison2",
+  "dataName": "1947_Occupation2",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_EastGermany",
   "homeRegionStr": "1947_Moskva",
@@ -1395,7 +1395,7 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Garrison3",
+  "dataName": "1947_Occupation3",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_Germany",
   "homeRegionStr": "1947_England",
@@ -1404,7 +1404,7 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Garrison4",
+  "dataName": "1947_Occupation4",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_Hokkaido",
   "homeRegionStr": "1947_Shenandoah",
@@ -1413,7 +1413,7 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Garrison5",
+  "dataName": "1947_Occupation5",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_KyushuandShikoku",
   "homeRegionStr": "1947_Shenandoah",
@@ -1422,7 +1422,7 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Garrison6",
+  "dataName": "1947_Occupation6",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_NorthHonshu",
   "homeRegionStr": "1947_Shenandoah",
@@ -1431,7 +1431,7 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Garrison7",
+  "dataName": "1947_Occupation7",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_NorthKorea",
   "homeRegionStr": "1947_Moskva",
@@ -1440,7 +1440,7 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Garrison8",
+  "dataName": "1947_Occupation8",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_Ryukus",
   "homeRegionStr": "1947_Shenandoah",
@@ -1449,7 +1449,7 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Garrison9",
+  "dataName": "1947_Occupation9",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_SouthHonshu",
   "homeRegionStr": "1947_Shenandoah",
@@ -1458,7 +1458,7 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Garrison10",
+  "dataName": "1947_Occupation10",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_SouthKorea",
   "homeRegionStr": "1947_Shenandoah",
@@ -1467,7 +1467,7 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Garrison11",
+  "dataName": "1947_Occupation11",
   "friendlyName": "Garrison",
   "startRegionStr": "1947_Vienna",
   "homeRegionStr": "1947_Moskva",
