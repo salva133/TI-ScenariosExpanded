@@ -22,4 +22,4 @@ jobs:
       contents: write
     uses: salva133/My-Workflows/.github/workflows/release-ti-mod.yml@latest
     with:
-      folder_name: WarForOurWorld
+      folder_name: ScenariosExpanded

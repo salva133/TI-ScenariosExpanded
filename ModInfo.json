@@ -1,8 +1,8 @@
 {
    "Title": "Scenarios Expanded",
    "Author": "Steve",
-   "Description": "Three start scenarios for Terra Invicta, each built on the world as it actually stood on the day it begins.\n\n- 1898 - War for our World: the year H. G. Wells published The War of the Worlds. 52 sovereign states, a fully colonial map, no spaceflight, no nuclear weapons.\n- 1898 - War for our World from Mars: the same world, but the invaders come from Mars as in Wells, with their headquarters on Olympus Mons.\n- 1947 - Roswell: the day Roswell Army Air Field reported recovering a flying disc. The Cold War is starting, India is five weeks from independence, Germany, Austria, Japan and Korea have been carved up among the victors, and only the United States has the bomb. The disc comes down over New Mexico.\n- Don't ask me how it is possible that councilors can move that quick without actual planes. They just can. They fly now.\n\nAdds scenarios and changes nothing in existing campaigns.",
-   "Version": "2.4.0",
+   "Description": "Two start scenarios for Terra Invicta, each built on the world as it actually stood on the day it begins.\n\n- 1898 - War for our World: the year H. G. Wells published The War of the Worlds. 52 sovereign states, a fully colonial map, no spaceflight, no nuclear weapons.\n- 1947 - Roswell: the day Roswell Army Air Field reported recovering a flying disc. The Cold War is starting, India is five weeks from independence, Germany, Austria, Japan and Korea have been carved up among the victors, and only the United States has the bomb. The disc comes down over New Mexico.\n- Don't ask me how it is possible that councilors can move that quick without actual planes. They just can. They fly now.\n\nAdds scenarios and changes nothing in existing campaigns.",
+   "Version": "2.5.0",
    "GameVersion": "1.0.51",
    "ModURL": "",
    "TemplatesToConcatArrays": [
@@ -12,7 +12,6 @@
       "TIArmyTemplate.json",
       "TIStartTimeTemplate.json",
       "TIMetaTemplate.json",
-      "TIHabTemplate.json",
       "TINationTemplate.deu",
       "TINationTemplate.en",
       "TIMetaTemplate.deu",
