@@ -9,7 +9,7 @@ The mod adds scenarios and changes nothing in existing campaigns. Every record
 carries a scenario prefix and is appended to the base data, so the 2022, 2026,
 2030 and 2070 scenarios — and the Dark Skies scenarios — remain untouched.
 
-**Version 2.3.0** · Terra Invicta 1.0.51
+**Version 2.3.1** · Terra Invicta 1.0.51
 
 ## Installation
 
@@ -160,6 +160,15 @@ against the base game's templates.
 
 ## Changelog
 
+### 2.3.1
+
+- Fixed nations taking the name of a future union. The base game gives 30 of the
+  states in these scenarios a union name that applies once they hold enough
+  ground: France becomes the European Union, Australia the Republic of the
+  Southern Cross, Colombia Greater Colombia, Poland the Intermarium, China the
+  Pan-Asian Cooperative. All union names now match the national name. Version
+  2.3.0 made this worse by dropping the entries that had been masking it.
+
 ### 2.3.0
 
 - Nation names carry no form of government any more. Kingdom, Empire, Sultanate,
@@ -167,9 +176,8 @@ against the base game's templates.
   Italy is Italy and not the Kingdom of Italy. Four names keep theirs because
   nothing usable is left otherwise: the Ottoman Empire, the Soviet Union, the
   United States and the Dominican Republic.
-- Localisation files now list only the names that actually differ from the base
-  game — 20 of 52 states in 1898, 17 of 67 in 1947. Everything else falls back
-  to the standard name on its own.
+- Localisation files list only the states that need their own entry: a name that
+  differs from the base game, or a union name that has to be overridden.
 
 ### 2.2.0
 
