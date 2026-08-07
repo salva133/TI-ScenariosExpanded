@@ -1,0 +1,59 @@
+[h1]Scenarios Expanded[/h1]
+
+Three start scenarios for Terra Invicta, each built on the world as it actually stood on the day it begins. Sovereignty, colonies, economies, alliances and occupations come from the historical record.
+
+[hr][/hr]
+
+[h2]1898 — War for our World[/h2]
+
+The year H. G. Wells published [i]The War of the Worlds[/i]. 52 sovereign states rule a fully colonial map.
+
+[table]
+[tr][th]Power[/th][th]Regions[/th][th]of which colonial[/th][/tr]
+[tr][td]British Empire[/td][td]93[/td][td]86[/td][/tr]
+[tr][td]Russian Empire[/td][td]40[/td][td]—[/td][/tr]
+[tr][td]French Republic[/td][td]34[/td][td]26[/td][/tr]
+[tr][td]Great Qing[/td][td]26[/td][td]—[/td][/tr]
+[tr][td]Ottoman Empire[/td][td]19[/td][td]—[/td][/tr]
+[tr][td]United States[/td][td]16[/td][td]—[/td][/tr]
+[/table]
+
+World economic output stands at two percent of the present-day figure, distributed by the 1900 GDP shares from the Maddison Project. World population 1.68 billion. Miltech runs from 0.2 to 1.6. The air holds 295 ppm of CO2 and the sea lies 20 cm below today's level.
+
+Spaceflight and the atom belong to the future. Every road off the planet has to be built from the ground up, and that is the challenge.
+
+Spain still holds Cuba, Puerto Rico and the Philippines — the start date is 1 January.
+
+[b]Federations.[/b] The Triple Alliance, the Franco-Russian Alliance and the Union of Sweden and Norway. Austria-Hungary comes as two nations, because Cisleithania and Transleithania were separate states sharing a foreign policy and an army.
+
+[h2]1898 — War for our World from Mars[/h2]
+
+The same world, with the invaders coming from Mars as in Wells.
+
+[h2]1947 — Roswell[/h2]
+
+The day Roswell Army Air Field reported recovering a flying disc. It comes down over New Mexico.
+
+67 sovereign states. The Cold War is four weeks past the Marshall Plan announcement, and (historically speaking, there is no event yet that actually progresses that) India is five weeks from independence — on 8 July it is still British, and so are Pakistan, Bangladesh, Burma, Ceylon and Malaya.
+
+[table]
+[tr][th]Power[/th][th]Regions[/th][th]of which colonial[/th][/tr]
+[tr][td]British Empire[/td][td]79[/td][td]73[/td][/tr]
+[tr][td]Soviet Union[/td][td]42[/td][td]3[/td][/tr]
+[tr][td]French Republic[/td][td]38[/td][td]30[/td][/tr]
+[tr][td]Republic of China[/td][td]26[/td][td]—[/td][/tr]
+[tr][td]United States[/td][td]25[/td][td]8[/td][/tr]
+[tr][td]Netherlands[/td][td]11[/td][td]9[/td][/tr]
+[/table]
+
+World economic output stands at five percent of the present-day figure, and the United States alone holds close to a quarter of it. World population 2.46 billion. The United States holds the world's only nuclear arsenal. Space funding exists (remember Paperclip?)).
+
+[b]The spoils of war.[/b] The territory of Germany, Austria, Japan and Korea belongs to the victors and is held as colonies: the British north-west of Germany, the American south, the Soviet east, Vienna Soviet (bc Austria in this game is one state), all four Japanese regions and Okinawa American, Korea split between the two superpowers. East Prussia goes to the Soviet Union, Danzig and Upper Silesia to Poland. Libya, Eritrea and Somalia stand under British military administration.
+
+[b]Blocs.[/b] The Soviet Union, Poland, Czechoslovakia, Hungary, Romania, Bulgaria and Albania form a federation. Because Russia is authoritarian it reads as a dark federation: members leave only with Moscow's consent (and of course comrade Stalin will gladly want to discuss your ambitions to leave the union). Yugoslavia holds Croatia, Slovenia, Bosnia, Macedonia, Montenegro and Kosovo; Czechoslovakia is a thing.
+
+[hr][/hr]
+
+[h2]One more thing on the 1898 scenario[/h2]
+
+Don't ask me how it is possible that councilors can move that quick without actual planes. They just can. They fly now.
