@@ -19079,11 +19079,10 @@
    "illustrations/illus_Vienna_1",
    "illustrations/illus_Vienna_2"
   ],
-  "occupationValue": 0.8,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "referenceAlias": "Vienna",
-  "localizationAlias": "Vienna",
-  "occupyingNation": "1947_RUS"
+  "localizationAlias": "Vienna"
  },
  {
   "dataName": "1947_Azerbaijan",
@@ -24356,12 +24355,11 @@
    "illustrations/illus_Bavaria_1",
    "illustrations/illus_Bavaria_2"
   ],
-  "occupationValue": 0.95,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "composedOf": "Baden-Wurttemberg, Bavaria, Hesse, Rhineland-Palatinate, Saarland",
   "referenceAlias": "Bavaria",
-  "localizationAlias": "Bavaria",
-  "occupyingNation": "1947_USA"
+  "localizationAlias": "Bavaria"
  },
  {
   "dataName": "1947_EastGermany",
@@ -24406,12 +24404,11 @@
    "illustrations/illus_EastGermany_2",
    "illustrations/illus_EastGermany_3"
   ],
-  "occupationValue": 0.95,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "composedOf": "Berlin, Brandenburg, Mecklenburg-Western Pomerania, Saxony, Saxony-Anhalt, Thuringia",
   "referenceAlias": "EastGermany",
-  "localizationAlias": "EastGermany",
-  "occupyingNation": "1947_RUS"
+  "localizationAlias": "EastGermany"
  },
  {
   "dataName": "1947_Germany",
@@ -24461,12 +24458,11 @@
    "illustrations/illus_Germany_1",
    "illustrations/illus_Germany_2"
   ],
-  "occupationValue": 0.95,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "composedOf": "Bremen, Hamburg, Lower Saxony(Hanover), North Rhine-Westphalia, Schleswig-Holstein",
   "referenceAlias": "Germany",
-  "localizationAlias": "Germany",
-  "occupyingNation": "1947_GBR"
+  "localizationAlias": "Germany"
  },
  {
   "dataName": "1947_Accra",
@@ -26802,11 +26798,10 @@
    "illustrations/illus_Hokkaido_1",
    "illustrations/illus_Hokkaido_2"
   ],
-  "occupationValue": 0.95,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "referenceAlias": "Hokkaido",
-  "localizationAlias": "Hokkaido",
-  "occupyingNation": "1947_USA"
+  "localizationAlias": "Hokkaido"
  },
  {
   "dataName": "1947_KyushuandShikoku",
@@ -26836,11 +26831,10 @@
    "illustrations/illus_KyushuandShikoku_1",
    "illustrations/illus_KyushuandShikoku_2"
   ],
-  "occupationValue": 0.95,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "referenceAlias": "KyushuandShikoku",
-  "localizationAlias": "KyushuandShikoku",
-  "occupyingNation": "1947_USA"
+  "localizationAlias": "KyushuandShikoku"
  },
  {
   "dataName": "1947_NorthHonshu",
@@ -26871,12 +26865,11 @@
    "illustrations/illus_NorthHonshu_1",
    "illustrations/illus_NorthHonshu_2"
   ],
-  "occupationValue": 0.95,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "composedOf": "Tohoku, Kanto, Niigata Prefecture",
   "referenceAlias": "NorthHonshu",
-  "localizationAlias": "NorthHonshu",
-  "occupyingNation": "1947_USA"
+  "localizationAlias": "NorthHonshu"
  },
  {
   "dataName": "1947_Ryukus",
@@ -26906,11 +26899,10 @@
    "illustrations/illus_Ryukus_1",
    "illustrations/illus_Ryukus_2"
   ],
-  "occupationValue": 1.0,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "referenceAlias": "Ryukus",
-  "localizationAlias": "Ryukus",
-  "occupyingNation": "1947_USA"
+  "localizationAlias": "Ryukus"
  },
  {
   "dataName": "1947_SouthHonshu",
@@ -26940,12 +26932,11 @@
    "illustrations/illus_SouthHonshu_1",
    "illustrations/illus_SouthHonshu_2"
   ],
-  "occupationValue": 0.95,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "composedOf": "Chubu, Kansai, Chukobu (except Niigata)",
   "referenceAlias": "SouthHonshu",
-  "localizationAlias": "SouthHonshu",
-  "occupyingNation": "1947_USA"
+  "localizationAlias": "SouthHonshu"
  },
  {
   "dataName": "1947_Jordan",
@@ -29231,11 +29222,10 @@
    "illustrations/illus_NorthKorea_1",
    "illustrations/illus_NorthKorea_2"
   ],
-  "occupationValue": 0.9,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "referenceAlias": "NorthKorea",
-  "localizationAlias": "NorthKorea",
-  "occupyingNation": "1947_RUS"
+  "localizationAlias": "NorthKorea"
  },
  {
   "dataName": "1947_NorthMacedonia",
@@ -31921,11 +31911,10 @@
    "illustrations/illus_SouthKorea_1",
    "illustrations/illus_SouthKorea_2"
   ],
-  "occupationValue": 0.9,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "referenceAlias": "SouthKorea",
-  "localizationAlias": "SouthKorea",
-  "occupyingNation": "1947_USA"
+  "localizationAlias": "SouthKorea"
  },
  {
   "dataName": "1947_SouthSudan",

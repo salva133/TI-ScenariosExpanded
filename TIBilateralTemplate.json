@@ -19986,8 +19986,7 @@
   "relationType": "Claim",
   "nation1": "1947_ALP",
   "region1": "1947_Vienna",
-  "capitalClaim": true,
-  "initialOwner": true
+  "capitalClaim": true
  },
  {
   "dataName": "1947_ClaimAMBWestCameroon",
@@ -22691,8 +22690,7 @@
   "dataName": "1947_ClaimDEUBavaria",
   "relationType": "Claim",
   "nation1": "1947_DEU",
-  "region1": "1947_Bavaria",
-  "initialOwner": true
+  "region1": "1947_Bavaria"
  },
  {
   "dataName": "1947_ClaimDEUBelgium",
@@ -22720,15 +22718,13 @@
   "relationType": "Claim",
   "nation1": "1947_DEU",
   "region1": "1947_EastGermany",
-  "capitalClaim": true,
-  "initialOwner": true
+  "capitalClaim": true
  },
  {
   "dataName": "1947_ClaimDEUGermany",
   "relationType": "Claim",
   "nation1": "1947_DEU",
-  "region1": "1947_Germany",
-  "initialOwner": true
+  "region1": "1947_Germany"
  },
  {
   "dataName": "1947_ClaimDEUKaliningrad",
@@ -25793,8 +25789,7 @@
   "dataName": "1947_ClaimJPNHokkaido",
   "relationType": "Claim",
   "nation1": "1947_JPN",
-  "region1": "1947_Hokkaido",
-  "initialOwner": true
+  "region1": "1947_Hokkaido"
  },
  {
   "dataName": "1947_ClaimJPNKamchatka",
@@ -25807,8 +25802,7 @@
   "dataName": "1947_ClaimJPNKyushuandShikoku",
   "relationType": "Claim",
   "nation1": "1947_JPN",
-  "region1": "1947_KyushuandShikoku",
-  "initialOwner": true
+  "region1": "1947_KyushuandShikoku"
  },
  {
   "dataName": "1947_ClaimJPNLuzon",
@@ -25850,8 +25844,7 @@
   "relationType": "Claim",
   "nation1": "1947_JPN",
   "region1": "1947_NorthHonshu",
-  "capitalClaim": true,
-  "initialOwner": true
+  "capitalClaim": true
  },
  {
   "dataName": "1947_ClaimJPNNorthKorea",
@@ -25878,8 +25871,7 @@
   "dataName": "1947_ClaimJPNRyukus",
   "relationType": "Claim",
   "nation1": "1947_JPN",
-  "region1": "1947_Ryukus",
-  "initialOwner": true
+  "region1": "1947_Ryukus"
  },
  {
   "dataName": "1947_ClaimJPNSakhalinKurils",
@@ -25891,8 +25883,7 @@
   "dataName": "1947_ClaimJPNSouthHonshu",
   "relationType": "Claim",
   "nation1": "1947_JPN",
-  "region1": "1947_SouthHonshu",
-  "initialOwner": true
+  "region1": "1947_SouthHonshu"
  },
  {
   "dataName": "1947_ClaimJPNSouthKorea",
@@ -26064,16 +26055,14 @@
   "dataName": "1947_ClaimKORNorthKorea",
   "relationType": "Claim",
   "nation1": "1947_KOR",
-  "region1": "1947_NorthKorea",
-  "initialOwner": true
+  "region1": "1947_NorthKorea"
  },
  {
   "dataName": "1947_ClaimKORSouthKorea",
   "relationType": "Claim",
   "nation1": "1947_KOR",
   "region1": "1947_SouthKorea",
-  "capitalClaim": true,
-  "initialOwner": true
+  "capitalClaim": true
  },
  {
   "dataName": "1947_ClaimKOSKosovo",
@@ -27769,7 +27758,8 @@
   "relationType": "Claim",
   "nation1": "1947_RUS",
   "region1": "1947_EastGermany",
-  "projectUnlockName": "Project_RestoredWarsawPact"
+  "initialOwner": true,
+  "initialColony": true
  },
  {
   "dataName": "1947_ClaimRUSEstonia",
@@ -28200,8 +28190,8 @@
   "relationType": "Claim",
   "nation1": "1947_RUS",
   "region1": "1947_Vienna",
-  "projectUnlockName": "Project_ForwardRussia",
-  "hostileClaim": true
+  "initialOwner": true,
+  "initialColony": true
  },
  {
   "dataName": "1947_ClaimRUSVolga",
@@ -33083,6 +33073,22 @@
   "initialColony": true
  },
  {
+  "dataName": "1947_ClaimUSABavaria",
+  "relationType": "Claim",
+  "nation1": "1947_USA",
+  "region1": "1947_Bavaria",
+  "initialOwner": true,
+  "initialColony": true
+ },
+ {
+  "dataName": "1947_ClaimGBRGermany",
+  "relationType": "Claim",
+  "nation1": "1947_GBR",
+  "region1": "1947_Germany",
+  "initialOwner": true,
+  "initialColony": true
+ },
+ {
   "dataName": "1947_ClaimEUADjibouti",
   "relationType": "Claim",
   "nation1": "1947_EUA",
@@ -33403,6 +33409,46 @@
   "initialColony": true
  },
  {
+  "dataName": "1947_ClaimUSAHokkaido",
+  "relationType": "Claim",
+  "nation1": "1947_USA",
+  "region1": "1947_Hokkaido",
+  "initialOwner": true,
+  "initialColony": true
+ },
+ {
+  "dataName": "1947_ClaimUSAKyushuandShikoku",
+  "relationType": "Claim",
+  "nation1": "1947_USA",
+  "region1": "1947_KyushuandShikoku",
+  "initialOwner": true,
+  "initialColony": true
+ },
+ {
+  "dataName": "1947_ClaimUSANorthHonshu",
+  "relationType": "Claim",
+  "nation1": "1947_USA",
+  "region1": "1947_NorthHonshu",
+  "initialOwner": true,
+  "initialColony": true
+ },
+ {
+  "dataName": "1947_ClaimUSARyukus",
+  "relationType": "Claim",
+  "nation1": "1947_USA",
+  "region1": "1947_Ryukus",
+  "initialOwner": true,
+  "initialColony": true
+ },
+ {
+  "dataName": "1947_ClaimUSASouthHonshu",
+  "relationType": "Claim",
+  "nation1": "1947_USA",
+  "region1": "1947_SouthHonshu",
+  "initialOwner": true,
+  "initialColony": true
+ },
+ {
   "dataName": "1947_ClaimGBRKenya",
   "relationType": "Claim",
   "nation1": "1947_GBR",
@@ -33423,6 +33469,14 @@
   "relationType": "Claim",
   "nation1": "1947_EUA",
   "region1": "1947_Cambodia",
+  "initialOwner": true,
+  "initialColony": true
+ },
+ {
+  "dataName": "1947_ClaimUSASouthKorea",
+  "relationType": "Claim",
+  "nation1": "1947_USA",
+  "region1": "1947_SouthKorea",
   "initialOwner": true,
   "initialColony": true
  },
@@ -33687,6 +33741,14 @@
   "relationType": "Claim",
   "nation1": "1947_EUA",
   "region1": "1947_Polynesia",
+  "initialOwner": true,
+  "initialColony": true
+ },
+ {
+  "dataName": "1947_ClaimRUSNorthKorea",
+  "relationType": "Claim",
+  "nation1": "1947_RUS",
+  "region1": "1947_NorthKorea",
   "initialOwner": true,
   "initialColony": true
  },

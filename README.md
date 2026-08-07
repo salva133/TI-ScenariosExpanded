@@ -9,7 +9,7 @@ The mod adds scenarios and changes nothing in existing campaigns. Every record
 carries a scenario prefix and is appended to the base data, so the 2022, 2026,
 2030 and 2070 scenarios — and the Dark Skies scenarios — remain untouched.
 
-**Version 2.0.0** · Terra Invicta 1.0.51
+**Version 2.3.1** · Terra Invicta 1.0.51
 
 ## Installation
 
@@ -75,36 +75,46 @@ armies and start time, and differ only in their habitat group.
 The day Roswell Army Air Field reported recovering a flying disc. The disc comes
 down over New Mexico, which is the `RockyMountains` region.
 
-71 sovereign states. The Cold War is four weeks past the Marshall Plan
+67 sovereign states. The Cold War is four weeks past the Marshall Plan
 announcement and India is five weeks from independence — on 8 July it is still
 British, and so are Pakistan, Bangladesh, Burma, Ceylon and Malaya.
 
 | Power | Regions | of which colonial |
 | --- | ---: | ---: |
-| British Empire | 78 | 72 |
-| Soviet Union | 39 | — |
+| British Empire | 79 | 73 |
+| Soviet Union | 42 | 3 |
 | French Republic | 38 | 30 |
 | Republic of China | 26 | — |
-| United States | 18 | 1 |
+| United States | 25 | 8 |
 | Netherlands | 11 | 9 |
 
 World economic output is five percent of the present-day figure; the United
-States alone holds a fifth of it. World population 2.46 billion, growing fast.
-Only the United States has nuclear weapons — the Soviet test is two years away.
-Space funding exists only as captured German rocket programmes.
+States alone holds close to a quarter of it. World population 2.46 billion,
+growing fast. Only the United States has nuclear weapons — the Soviet test is
+two years away. Space funding exists only as captured German rocket programmes.
 
-**Occupations**, modelled with `occupyingNation`:
+**The spoils of war.** Germany, Austria, Japan and Korea do not exist as states
+in 1947. Their territory belongs to the victors and is held as colonies:
 
-| Region | Occupier |
+| Region | Held by |
 | --- | --- |
-| Germany (north-west) | Britain |
-| Bavaria (south) | United States |
-| EastGermany (Berlin, Saxony) | Soviet Union |
-| Vienna | Soviet Union |
-| All four Japanese regions | United States |
-| Ryukyus (Okinawa) | United States, total |
+| Germany (Bremen, Hamburg, Lower Saxony, North Rhine-Westphalia) | Britain |
+| Bavaria (the American and French zones in the south) | United States |
+| EastGermany (Berlin, Brandenburg, Mecklenburg, Saxony) | Soviet Union |
+| Vienna (all of Austria) | Soviet Union |
+| Hokkaido, North Honshu, South Honshu, Kyushu and Shikoku | United States |
+| Ryukyus (Okinawa) | United States |
 | SouthKorea | United States |
 | NorthKorea | Soviet Union |
+
+The four names remain defined, so if any of them re-emerges during a campaign it
+is called Germany, Austria, Japan or Korea rather than something occupied. Their
+economic weight is counted towards whoever holds the ground. Garrisons of the
+respective victor stand in each region.
+
+Austria is a single region covering the whole country. Vienna itself lay in the
+Soviet zone and was administered jointly by all four powers, so the Soviet Union
+holds it here.
 
 East Prussia goes to the Soviet Union, Danzig and Upper Silesia to Poland. Libya,
 Eritrea and Somalia are under British military administration after Italy lost
@@ -120,6 +130,9 @@ Yugoslavia holds Croatia, Slovenia, Bosnia, Macedonia, Montenegro and Kosovo;
 Czechoslovakia holds Slovakia. The Indo-Pakistani rivalry is absent — it begins
 with partition five weeks after the scenario starts.
 
+The Soviet Union is dark red and flies the USSR flag from the base game's flag
+bundle. Afghanistan and Yemen use their period flags.
+
 ## Known limitations
 
 - Organisations, councillors and portraits come from the present-day set,
@@ -131,11 +144,57 @@ with partition five weeks after the scenario starts.
   only ownership differs.
 - In 1898 no nation has space funding, boost capacity or mission control at all.
   Getting off the planet has to be built from nothing.
+- The flag bundle holds nothing for the empires of 1898, so those nations fly
+  their modern flags. Britain and Germany at least fly the union jack and the
+  German tricolour rather than the flags of England and East Germany.
 - Federation names are not localised. This is also true of the base game's.
 - Rivalries cannot exist inside a federation, which costs the Italian irredenta
   against Austria in 1898 and the Tito-Stalin split in 1947.
 
+## Building
+
+`build.py` runs each scenario generator into its own folder and merges the
+results, because Terra Invicta reads only one file per template type per mod. It
+warns on any duplicate identifier. `checkall.py` then validates the merged mod
+against the base game's templates.
+
 ## Changelog
+
+### 2.3.1
+
+- Fixed nations taking the name of a future union. The base game gives 30 of the
+  states in these scenarios a union name that applies once they hold enough
+  ground: France becomes the European Union, Australia the Republic of the
+  Southern Cross, Colombia Greater Colombia, Poland the Intermarium, China the
+  Pan-Asian Cooperative. All union names now match the national name. Version
+  2.3.0 made this worse by dropping the entries that had been masking it.
+
+### 2.3.0
+
+- Nation names carry no form of government any more. Kingdom, Empire, Sultanate,
+  Emirate, Republic and the like are dropped; only the country name remains, so
+  Italy is Italy and not the Kingdom of Italy. Four names keep theirs because
+  nothing usable is left otherwise: the Ottoman Empire, the Soviet Union, the
+  United States and the Dominican Republic.
+- Localisation files list only the states that need their own entry: a name that
+  differs from the base game, or a union name that has to be overridden.
+
+### 2.2.0
+
+- No nation switches to the flag of a future union any more. The base game has
+  36 of them do that — France to the European Union, Russia to the Eurasian
+  Union, China to the Pan-Asian Cooperative — none of which existed in either
+  period. `unionFlagResource` now matches the national flag everywhere.
+- Britain flies the union jack instead of the flag of England, Germany the
+  German tricolour instead of East Germany's, and Yugoslavia its own flag
+  in 1947.
+
+### 2.1.0
+
+- Germany, Austria, Japan and Korea no longer exist as occupied states in 1947.
+  Their territory passes to the victors as colonies, zone by zone, and the four
+  names are kept for the case that they re-emerge.
+- The Soviet Union is dark red and flies the USSR flag.
 
 ### 2.0.0
 
@@ -143,7 +202,7 @@ with partition five weeks after the scenario starts.
   now carries more than one period.
 - Added *1947 — Roswell*.
 - Build pipeline reworked: each scenario is generated separately and merged into
-  one mod, because Terra Invicta reads only one file per template type per mod.
+  one mod.
 
 ### 1.7.0
 
