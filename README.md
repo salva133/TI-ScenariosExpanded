@@ -12,14 +12,21 @@ data, so the 2022, 2026, 2030 and 2070 scenarios — and the Dark Skies scenario
 
 ## Installation
 
-Copy this folder to:
+Download `WarForOurWorld-v<version>.zip` from the [releases](../../releases) and
+unpack the `WarForOurWorld` folder from it into:
 
 ```
-...\Steam\steamapps\common\Terra Invicta\Mods\Enabled\WarForOurWorld\
+...\Steam\steamapps\common\Terra Invicta\Mods\Enabled\
 ```
 
 Restart the game, enable **Use Mods** on the start screen, then restart once
 more. Both scenarios then appear under **Scenario** in the new campaign screen.
+
+Do **not** copy the whole repository there. Terra Invicta's mod manager parses
+every `.json` file it finds anywhere under a mod folder and expects each one to
+be a template array, so a tooling file that happens to be JSON stops the mod
+from installing with *MOD MANAGER FAILED TO LOAD JSON*. The release archive
+holds only `ModInfo.json`, the eleven template files and this README.
 
 ## The two scenarios
 
