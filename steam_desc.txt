@@ -52,12 +52,12 @@ World economic output stands at five percent of the present-day figure, and the 
 
 [h2]One more thing on the 1898 scenario[/h2]
 
-Don't ask me how it is possible that councilors can move that quick without actual planes. They just can. They fly now.
+Don't ask me how it is possible that councilors can move that quick without actual planes.
+They just can.
+They fly now.
 
 [h3]FAQs[/h3]
-
 [i]Do you realise that the tech tree is way too advanced to keep a starting scenario in 1898 plausible?[/i]
 - ye
-
 [i]Do you even care?[/i]
 - nah
