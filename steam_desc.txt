@@ -50,10 +50,18 @@ World economic output stands at five percent of the present-day figure, and the 
 
 [b]The spoils of war.[/b] The territory of Germany, Austria, Japan and Korea belongs to the victors and is held as colonies: the British north-west of Germany, the American south, the Soviet east, Vienna Soviet (bc Austria in this game is one state), all four Japanese regions and Okinawa American, Korea split between the two superpowers. East Prussia goes to the Soviet Union, Danzig and Upper Silesia to Poland. Libya, Eritrea and Somalia stand under British military administration.
 
-[b]Blocs.[/b] The Soviet Union, Poland, Czechoslovakia, Hungary, Romania, Bulgaria and Albania form a federation. Because Russia is authoritarian it reads as a dark federation: members leave only with Moscow's consent (and of course comrade Stalin will gladly want to discuss your ambitions to leave the union). Yugoslavia holds Croatia, Slovenia, Bosnia, Macedonia, Montenegro and Kosovo; Czechoslovakia is a thing.
+[b]Blocs.[/b] The Soviet Union, Poland, Czechoslovakia, Hungary, Romania, Bulgaria and Albania form a federation. Because it is the CCCP, members leave only with Moscow's consent (and of course comrade Stalin will gladly want to discuss your ambitions to leave the union). Yugoslavia holds Croatia, Slovenia, Bosnia, Macedonia, Montenegro and Kosovo; Czechoslovakia is a thing.
 
 [hr][/hr]
 
 [h2]One more thing on the 1898 scenario[/h2]
 
 Don't ask me how it is possible that councilors can move that quick without actual planes. They just can. They fly now.
+
+[h3]FAQs[/h3]
+
+[i]Do you realise that the tech tree is way too advanced to keep a starting scenario in 1898 plausible?[/i]
+- ye
+
+[i]Do you even care?[/i]
+- nah
