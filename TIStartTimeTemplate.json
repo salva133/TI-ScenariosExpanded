@@ -1,0 +1,50 @@
+[
+ {
+  "dataName": "1898_Start",
+  "year": 1898,
+  "month": 1,
+  "day": 1,
+  "hour": 0,
+  "minute": 0,
+  "second": 0,
+  "bonusMoney": 0,
+  "bonusInfluence": 0,
+  "bonusOps": 0,
+  "bonusBoost": 0,
+  "bonusMissionControl": 0,
+  "bonusWater": 0,
+  "bonusVolatiles": 0,
+  "bonusMetals": 0,
+  "bonusNobles": 0,
+  "bonusFissiles": 0,
+  "bonusAntimatter": 0,
+  "bonusExotics": 0,
+  "initialCrashdownRegionTemplateName": "random",
+  "initialAtmosphericCO2_ppm": 295.0,
+  "initialAtmosphericCH4_ppm": 0.9,
+  "initialAtmosphericN2O_ppm": 0.29,
+  "initialStratosphericAerosols_ppm": 0.0,
+  "initialGlobalSeaLevelAnomaly_cm": -20,
+  "initialLooseNukes": 0,
+  "globalStartingGDPScaling": 1,
+  "distributeFactionlessHabsAndFleets": false,
+  "startingTechs": [
+   "WeAreNotAlone",
+   "Skywatch",
+   "MissionToSpace"
+  ],
+  "techTreeUIStarters": [
+   "WeAreNotAlone",
+   "MissionToSpace"
+  ],
+  "startingAlienCouncilorFleets": [
+   "alienFleet12020",
+   "alienFleet22020",
+   "alienFleet32020",
+   "alienFleet42020",
+   "alienFleet52020"
+  ],
+  "scaleCPMaintenanceWithStartingGDP": true,
+  "scaleEconomyDefenseWithStartingGDP": true
+ }
+]

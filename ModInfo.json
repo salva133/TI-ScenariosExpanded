@@ -1,0 +1,20 @@
+{
+   "Title": "War for our World",
+   "Author": "Steve",
+   "Description": "Startszenario zum 1. Januar 1898. Die Welt der Kolonialreiche: rund 50 souveraene Staaten, der gesamte Rest des Planeten in kolonialem Besitz, eine Weltwirtschaft von zwei Prozent der heutigen Groesse, keine Raumfahrt, keine Kernwaffen. Dreibund, Zweiverband und die schwedisch-norwegische Union sind als Foederationen abgebildet. Fuegt ein zusaetzliches Szenario hinzu und veraendert keine bestehenden Kampagnen.",
+   "Version": "1.1.0",
+   "GameVersion": "1.0.26",
+   "ModURL": "",
+   "TemplatesToConcatArrays": [
+      "TINationTemplate.json",
+      "TIRegionTemplate.json",
+      "TIBilateralTemplate.json",
+      "TIArmyTemplate.json",
+      "TIStartTimeTemplate.json",
+      "TIMetaTemplate.json",
+      "TINationTemplate.deu",
+      "TINationTemplate.en",
+      "TIMetaTemplate.deu",
+      "TIMetaTemplate.en"
+   ]
+}

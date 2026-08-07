@@ -1,0 +1,686 @@
+[
+ {
+  "dataName": "1898_AFGArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Afghanistan",
+  "homeRegionStr": "1898_Afghanistan",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1898_ALPArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Vienna",
+  "homeRegionStr": "1898_Vienna",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_ALPArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_Czechia",
+  "homeRegionStr": "1898_Czechia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_ALPArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1898_Sarajevo",
+  "homeRegionStr": "1898_Sarajevo",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_ARGArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Pampas",
+  "homeRegionStr": "1898_Pampas",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.35
+ },
+ {
+  "dataName": "1898_BGMArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Belgium",
+  "homeRegionStr": "1898_Belgium",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.4
+ },
+ {
+  "dataName": "1898_BRAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Brasilia",
+  "homeRegionStr": "1898_Brasilia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.35
+ },
+ {
+  "dataName": "1898_BULArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Bulgaria",
+  "homeRegionStr": "1898_Bulgaria",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.35
+ },
+ {
+  "dataName": "1898_CHLArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Santiago",
+  "homeRegionStr": "1898_Santiago",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.35
+ },
+ {
+  "dataName": "1898_CHNArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Beijing",
+  "homeRegionStr": "1898_Beijing",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.3
+ },
+ {
+  "dataName": "1898_CHNArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_Anhui",
+  "homeRegionStr": "1898_Anhui",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.3
+ },
+ {
+  "dataName": "1898_CHNArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1898_Chongqing",
+  "homeRegionStr": "1898_Chongqing",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.3
+ },
+ {
+  "dataName": "1898_CHNArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1898_Fujian",
+  "homeRegionStr": "1898_Fujian",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.3
+ },
+ {
+  "dataName": "1898_COLArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Colombia",
+  "homeRegionStr": "1898_Colombia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1898_DEUArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_EastGermany",
+  "homeRegionStr": "1898_EastGermany",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_DEUArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_Bavaria",
+  "homeRegionStr": "1898_Bavaria",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_DEUArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1898_Gdansk",
+  "homeRegionStr": "1898_Gdansk",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_DEUArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1898_Germany",
+  "homeRegionStr": "1898_Germany",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_DEUArmy5",
+  "friendlyName": "5th Army",
+  "startRegionStr": "1898_Kaliningrad",
+  "homeRegionStr": "1898_Kaliningrad",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_DEUArmy6",
+  "friendlyName": "6th Army",
+  "startRegionStr": "1898_Katowice",
+  "homeRegionStr": "1898_Katowice",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_DEUArmy7",
+  "friendlyName": "7th Army",
+  "startRegionStr": "1898_EastGermany",
+  "homeRegionStr": "1898_EastGermany",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_ESPArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Spain",
+  "homeRegionStr": "1898_Spain",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.45
+ },
+ {
+  "dataName": "1898_ESPArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_Barcelona",
+  "homeRegionStr": "1898_Barcelona",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.45
+ },
+ {
+  "dataName": "1898_ESPArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1898_BasqueCountry",
+  "homeRegionStr": "1898_BasqueCountry",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.45
+ },
+ {
+  "dataName": "1898_ETHArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Ethiopia",
+  "homeRegionStr": "1898_Ethiopia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1898_ETHArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_DireDiwa",
+  "homeRegionStr": "1898_DireDiwa",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1898_EUAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Paris",
+  "homeRegionStr": "1898_Paris",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.75
+ },
+ {
+  "dataName": "1898_EUAArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_FrenchGuiana",
+  "homeRegionStr": "1898_FrenchGuiana",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.75
+ },
+ {
+  "dataName": "1898_EUAArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1898_FrenchPacific",
+  "homeRegionStr": "1898_FrenchPacific",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.75
+ },
+ {
+  "dataName": "1898_EUAArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1898_FrenchRatnakara",
+  "homeRegionStr": "1898_FrenchRatnakara",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.75
+ },
+ {
+  "dataName": "1898_EUAArmy5",
+  "friendlyName": "5th Army",
+  "startRegionStr": "1898_FrenchWestIndies",
+  "homeRegionStr": "1898_FrenchWestIndies",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.75
+ },
+ {
+  "dataName": "1898_EUAArmy6",
+  "friendlyName": "6th Army",
+  "startRegionStr": "1898_Lyon",
+  "homeRegionStr": "1898_Lyon",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.75
+ },
+ {
+  "dataName": "1898_EUAArmy7",
+  "friendlyName": "7th Army",
+  "startRegionStr": "1898_Nantes",
+  "homeRegionStr": "1898_Nantes",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.75
+ },
+ {
+  "dataName": "1898_GBRArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_England",
+  "homeRegionStr": "1898_England",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_GBRArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_BritishWestIndies",
+  "homeRegionStr": "1898_BritishWestIndies",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_GBRArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1898_EnglishMidlands",
+  "homeRegionStr": "1898_EnglishMidlands",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_GBRArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1898_Ireland",
+  "homeRegionStr": "1898_Ireland",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_GBRArmy5",
+  "friendlyName": "5th Army",
+  "startRegionStr": "1898_NorthernIreland",
+  "homeRegionStr": "1898_NorthernIreland",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.8
+ },
+ {
+  "dataName": "1898_GREArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Greece",
+  "homeRegionStr": "1898_Greece",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.3
+ },
+ {
+  "dataName": "1898_HUNArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Hungary",
+  "homeRegionStr": "1898_Hungary",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.55
+ },
+ {
+  "dataName": "1898_HUNArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_Hungary",
+  "homeRegionStr": "1898_Hungary",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.55
+ },
+ {
+  "dataName": "1898_IRNArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Tehran",
+  "homeRegionStr": "1898_Tehran",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1898_ITAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Italy",
+  "homeRegionStr": "1898_Italy",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.55
+ },
+ {
+  "dataName": "1898_ITAArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_Milan",
+  "homeRegionStr": "1898_Milan",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.55
+ },
+ {
+  "dataName": "1898_ITAArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1898_Naples",
+  "homeRegionStr": "1898_Naples",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.55
+ },
+ {
+  "dataName": "1898_ITAArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1898_Italy",
+  "homeRegionStr": "1898_Italy",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.55
+ },
+ {
+  "dataName": "1898_JPNArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_NorthHonshu",
+  "homeRegionStr": "1898_NorthHonshu",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1898_JPNArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_Hokkaido",
+  "homeRegionStr": "1898_Hokkaido",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1898_JPNArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1898_KyushuandShikoku",
+  "homeRegionStr": "1898_KyushuandShikoku",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1898_KORArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_SouthKorea",
+  "homeRegionStr": "1898_SouthKorea",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1898_MARArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Rabat",
+  "homeRegionStr": "1898_Rabat",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1898_MEXArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_MexicoCity",
+  "homeRegionStr": "1898_MexicoCity",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.3
+ },
+ {
+  "dataName": "1898_NETArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Netherlands",
+  "homeRegionStr": "1898_Netherlands",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.4
+ },
+ {
+  "dataName": "1898_NORArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Norway",
+  "homeRegionStr": "1898_Norway",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1898_PERArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Peru",
+  "homeRegionStr": "1898_Peru",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1898_PRTArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Portugal",
+  "homeRegionStr": "1898_Portugal",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.3
+ },
+ {
+  "dataName": "1898_ROMArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Romania",
+  "homeRegionStr": "1898_Romania",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.35
+ },
+ {
+  "dataName": "1898_RUSArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Moskva",
+  "homeRegionStr": "1898_Moskva",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_RUSArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_Almaty",
+  "homeRegionStr": "1898_Almaty",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_RUSArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1898_Arkhangelsk",
+  "homeRegionStr": "1898_Arkhangelsk",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_RUSArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1898_Armenia",
+  "homeRegionStr": "1898_Armenia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_RUSArmy5",
+  "friendlyName": "5th Army",
+  "startRegionStr": "1898_Astana",
+  "homeRegionStr": "1898_Astana",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_RUSArmy6",
+  "friendlyName": "6th Army",
+  "startRegionStr": "1898_Azerbaijan",
+  "homeRegionStr": "1898_Azerbaijan",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_RUSArmy7",
+  "friendlyName": "7th Army",
+  "startRegionStr": "1898_Belarus",
+  "homeRegionStr": "1898_Belarus",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_RUSArmy8",
+  "friendlyName": "8th Army",
+  "startRegionStr": "1898_Crimea",
+  "homeRegionStr": "1898_Crimea",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_RUSArmy9",
+  "friendlyName": "9th Army",
+  "startRegionStr": "1898_Donetsk",
+  "homeRegionStr": "1898_Donetsk",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.65
+ },
+ {
+  "dataName": "1898_SCAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Sweden",
+  "homeRegionStr": "1898_Sweden",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.4
+ },
+ {
+  "dataName": "1898_SERArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Belgrade",
+  "homeRegionStr": "1898_Belgrade",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.3
+ },
+ {
+  "dataName": "1898_SWIArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Zurich",
+  "homeRegionStr": "1898_Zurich",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.35
+ },
+ {
+  "dataName": "1898_THAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Bangkok",
+  "homeRegionStr": "1898_Bangkok",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1898_TURArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Anatolia",
+  "homeRegionStr": "1898_Anatolia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.4
+ },
+ {
+  "dataName": "1898_TURArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_Baghdad",
+  "homeRegionStr": "1898_Baghdad",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.4
+ },
+ {
+  "dataName": "1898_TURArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1898_Cyrenaica",
+  "homeRegionStr": "1898_Cyrenaica",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.4
+ },
+ {
+  "dataName": "1898_TURArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1898_Diyarbakir",
+  "homeRegionStr": "1898_Diyarbakir",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.4
+ },
+ {
+  "dataName": "1898_USAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1898_Shenandoah",
+  "homeRegionStr": "1898_Shenandoah",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1898_USAArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1898_Alaska",
+  "homeRegionStr": "1898_Alaska",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.6
+ }
+]
