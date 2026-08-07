@@ -173,7 +173,7 @@
   "friendlyName": "1898_Algeria",
   "dataName": "1898_DZA",
   "flagResource": "nationflags/Algeria",
-  "unionFlagResource": "nationflags/MaghrebUnion",
+  "unionFlagResource": "nationflags/Algeria",
   "unionTrigger": 3,
   "color32": {
    "r": 210,
@@ -252,7 +252,7 @@
   "friendlyName": "1898_Angola",
   "dataName": "1898_AGO",
   "flagResource": "nationflags/Angola",
-  "unionFlagResource": "nationflags/UnitedBantuNation",
+  "unionFlagResource": "nationflags/Angola",
   "unionTrigger": 3,
   "color32": {
    "r": 255,
@@ -538,7 +538,7 @@
   "friendlyName": "1898_Australia",
   "dataName": "1898_AUS",
   "flagResource": "nationflags/Australia",
-  "unionFlagResource": "nationflags/Republic_Of_The_Southern_Cross",
+  "unionFlagResource": "nationflags/Australia",
   "unionTrigger": 7,
   "color32": {
    "r": 8,
@@ -1249,7 +1249,7 @@
   "friendlyName": "1898_Bolivia",
   "dataName": "1898_BOL",
   "flagResource": "nationflags/Bolivia",
-  "unionFlagResource": "nationflags/South_American_Union",
+  "unionFlagResource": "nationflags/Bolivia",
   "unionTrigger": 2,
   "color32": {
    "r": 200,
@@ -1844,7 +1844,7 @@
   "friendlyName": "1898_Cameroon",
   "dataName": "1898_CMR",
   "flagResource": "nationflags/Cameroon",
-  "unionFlagResource": "nationflags/CentralAfricanCommunity",
+  "unionFlagResource": "nationflags/Cameroon",
   "unionTrigger": 3,
   "color32": {
    "r": 220,
@@ -2247,7 +2247,7 @@
   "friendlyName": "1898_China",
   "dataName": "1898_CHN",
   "flagResource": "nationflags/China",
-  "unionFlagResource": "nationflags/PanAsian_Cooperative",
+  "unionFlagResource": "nationflags/China",
   "unionTrigger": 29,
   "color32": {
    "r": 255,
@@ -2305,7 +2305,7 @@
   "friendlyName": "1898_Colombia",
   "dataName": "1898_COL",
   "flagResource": "nationflags/Colombia",
-  "unionFlagResource": "nationflags/ColombiaUnion",
+  "unionFlagResource": "nationflags/Colombia",
   "unionTrigger": 7,
   "color32": {
    "r": 255,
@@ -3048,7 +3048,7 @@
   "friendlyName": "1898_Egypt",
   "dataName": "1898_EGY",
   "flagResource": "nationflags/Egypt",
-  "unionFlagResource": "nationflags/United_Arab_League",
+  "unionFlagResource": "nationflags/Egypt",
   "unionTrigger": 4,
   "color32": {
    "r": 188,
@@ -3306,7 +3306,7 @@
   "friendlyName": "1898_Ethiopia",
   "dataName": "1898_ETH",
   "flagResource": "nationflags/Ethiopia",
-  "unionFlagResource": "nationflags/African_Union",
+  "unionFlagResource": "nationflags/Ethiopia",
   "unionTrigger": 5,
   "color32": {
    "r": 210,
@@ -3478,7 +3478,7 @@
   "friendlyName": "1898_France",
   "dataName": "1898_EUA",
   "flagResource": "nationflags/France",
-  "unionFlagResource": "nationflags/European_Union",
+  "unionFlagResource": "nationflags/France",
   "unionTrigger": 5,
   "color32": {
    "r": 135,
@@ -3731,7 +3731,7 @@
  {
   "friendlyName": "1898_Germany",
   "dataName": "1898_DEU",
-  "flagResource": "nationflags/East_Germany",
+  "flagResource": "nationflags/Germany",
   "unionFlagResource": "nationflags/Germany",
   "unionTrigger": 2,
   "color32": {
@@ -4901,7 +4901,7 @@
   "friendlyName": "1898_Ireland",
   "dataName": "1898_IRL",
   "flagResource": "nationflags/Ireland",
-  "unionFlagResource": "nationflags/Celtic_League",
+  "unionFlagResource": "nationflags/Ireland",
   "unionTrigger": 3,
   "color32": {
    "r": 22,
@@ -5118,7 +5118,7 @@
   "friendlyName": "1898_Jamaica",
   "dataName": "1898_JAM",
   "flagResource": "nationflags/Jamaica",
-  "unionFlagResource": "nationflags/Caricom",
+  "unionFlagResource": "nationflags/Jamaica",
   "unionTrigger": 2,
   "color32": {
    "r": 255,
@@ -5197,7 +5197,7 @@
   "friendlyName": "1898_Japan",
   "dataName": "1898_JPN",
   "flagResource": "nationflags/Japan",
-  "unionFlagResource": "nationflags/PacificDefenseLeague",
+  "unionFlagResource": "nationflags/Japan",
   "unionTrigger": 7,
   "color32": {
    "r": 224,
@@ -6590,7 +6590,7 @@
   "friendlyName": "1898_Mali",
   "dataName": "1898_MLI",
   "flagResource": "nationflags/Mali",
-  "unionFlagResource": "nationflags/Sahel",
+  "unionFlagResource": "nationflags/Mali",
   "unionTrigger": 3,
   "color32": {
    "r": 160,
@@ -7007,7 +7007,7 @@
   "friendlyName": "1898_Morocco",
   "dataName": "1898_MAR",
   "flagResource": "nationflags/Morocco",
-  "unionFlagResource": "nationflags/Tamazgha",
+  "unionFlagResource": "nationflags/Morocco",
   "unionTrigger": 3,
   "color32": {
    "r": 193,
@@ -7600,7 +7600,7 @@
   "friendlyName": "1898_Nigeria",
   "dataName": "1898_NGA",
   "flagResource": "nationflags/Nigeria",
-  "unionFlagResource": "nationflags/West_African_Alliance",
+  "unionFlagResource": "nationflags/Nigeria",
   "unionTrigger": 5,
   "color32": {
    "r": 0,
@@ -8520,7 +8520,7 @@
   "friendlyName": "1898_Poland",
   "dataName": "1898_POL",
   "flagResource": "nationflags/Poland",
-  "unionFlagResource": "nationflags/Slavic_Commonwealth",
+  "unionFlagResource": "nationflags/Poland",
   "unionTrigger": 5,
   "color32": {
    "r": 220,
@@ -9277,7 +9277,7 @@
   "friendlyName": "1898_Russia",
   "dataName": "1898_RUS",
   "flagResource": "nationflags/Russia",
-  "unionFlagResource": "nationflags/Eurasian_Union",
+  "unionFlagResource": "nationflags/Russia",
   "unionTrigger": 25,
   "color32": {
    "r": 58,
@@ -9528,7 +9528,7 @@
   "friendlyName": "1898_Saudi Arabia",
   "dataName": "1898_SAU",
   "flagResource": "nationflags/Saudi_Arabia",
-  "unionFlagResource": "nationflags/GulfUnion",
+  "unionFlagResource": "nationflags/Saudi_Arabia",
   "unionTrigger": 5,
   "color32": {
    "r": 0,
@@ -9648,7 +9648,7 @@
   "friendlyName": "1898_Serbia",
   "dataName": "1898_SER",
   "flagResource": "nationflags/Serbia",
-  "unionFlagResource": "nationflags/Yugoslavia",
+  "unionFlagResource": "nationflags/Serbia",
   "unionTrigger": 3,
   "color32": {
    "r": 172,
@@ -10205,7 +10205,7 @@
   "friendlyName": "1898_South Africa",
   "dataName": "1898_ZAF",
   "flagResource": "nationflags/South_Africa",
-  "unionFlagResource": "nationflags/Southern_African_Commonwealth",
+  "unionFlagResource": "nationflags/South_Africa",
   "unionTrigger": 4,
   "color32": {
    "r": 240,
@@ -10669,7 +10669,7 @@
   "friendlyName": "1898_Sweden",
   "dataName": "1898_SCA",
   "flagResource": "nationflags/Sweden",
-  "unionFlagResource": "nationflags/UnitedNordicStates",
+  "unionFlagResource": "nationflags/Sweden",
   "unionTrigger": 2,
   "color32": {
    "r": 227,
@@ -10905,7 +10905,7 @@
   "friendlyName": "1898_Tanzania",
   "dataName": "1898_TZA",
   "flagResource": "nationflags/Tanzania",
-  "unionFlagResource": "nationflags/East_African_Federation",
+  "unionFlagResource": "nationflags/Tanzania",
   "unionTrigger": 4,
   "color32": {
    "r": 166,
@@ -11021,7 +11021,7 @@
   "friendlyName": "1898_Thailand",
   "dataName": "1898_THA",
   "flagResource": "nationflags/Thailand",
-  "unionFlagResource": "nationflags/Southeast_Asian_Alliance",
+  "unionFlagResource": "nationflags/Thailand",
   "unionTrigger": 3,
   "color32": {
    "r": 0,
@@ -11310,7 +11310,7 @@
   "friendlyName": "1898_Turkey",
   "dataName": "1898_TUR",
   "flagResource": "nationflags/Turkey",
-  "unionFlagResource": "nationflags/Turkestan",
+  "unionFlagResource": "nationflags/Turkey",
   "unionTrigger": 5,
   "color32": {
    "r": 178,
@@ -11527,7 +11527,7 @@
  {
   "friendlyName": "1898_United Kingdom",
   "dataName": "1898_GBR",
-  "flagResource": "nationflags/England",
+  "flagResource": "nationflags/United_Kingdom",
   "unionFlagResource": "nationflags/United_Kingdom",
   "unionTrigger": 3,
   "color32": {
@@ -11625,7 +11625,7 @@
   "friendlyName": "1898_United States of America",
   "dataName": "1898_USA",
   "flagResource": "nationflags/United_States",
-  "unionFlagResource": "nationflags/United_States_of_NorthAmerica",
+  "unionFlagResource": "nationflags/United_States",
   "unionTrigger": 21,
   "color32": {
    "r": 13,
@@ -12515,7 +12515,7 @@
   "friendlyName": "1947_Algeria",
   "dataName": "1947_DZA",
   "flagResource": "nationflags/Algeria",
-  "unionFlagResource": "nationflags/MaghrebUnion",
+  "unionFlagResource": "nationflags/Algeria",
   "unionTrigger": 3,
   "color32": {
    "r": 210,
@@ -12594,7 +12594,7 @@
   "friendlyName": "1947_Angola",
   "dataName": "1947_AGO",
   "flagResource": "nationflags/Angola",
-  "unionFlagResource": "nationflags/UnitedBantuNation",
+  "unionFlagResource": "nationflags/Angola",
   "unionTrigger": 3,
   "color32": {
    "r": 255,
@@ -12880,7 +12880,7 @@
   "friendlyName": "1947_Australia",
   "dataName": "1947_AUS",
   "flagResource": "nationflags/Australia",
-  "unionFlagResource": "nationflags/Republic_Of_The_Southern_Cross",
+  "unionFlagResource": "nationflags/Australia",
   "unionTrigger": 7,
   "color32": {
    "r": 8,
@@ -12973,23 +12973,7 @@
    "LIE"
   ],
   "referenceAlias": "ALP",
-  "localizationAlias": "ALP",
-  "initialGDP": 35388653943.0,
-  "cohesion": 2.5,
-  "unrest": 3.5,
-  "inequality": 4.0,
-  "democracy": 3.5,
-  "education": 7.0,
-  "greenEconomy": 0.0,
-  "spaceFunding_year": 0,
-  "miltech": 0.2,
-  "foundMilitaryIPs": 1,
-  "nuclearWeapons": 0,
-  "initSpaceIPs": 0,
-  "nuclearProgramIPs": 0,
-  "buildNukeIPs": 0,
-  "buildArmyIPs": 0.2,
-  "buildNavyIPs": 0
+  "localizationAlias": "ALP"
  },
  {
   "friendlyName": "1947_Azawad",
@@ -13607,7 +13591,7 @@
   "friendlyName": "1947_Bolivia",
   "dataName": "1947_BOL",
   "flagResource": "nationflags/Bolivia",
-  "unionFlagResource": "nationflags/South_American_Union",
+  "unionFlagResource": "nationflags/Bolivia",
   "unionTrigger": 2,
   "color32": {
    "r": 200,
@@ -14202,7 +14186,7 @@
   "friendlyName": "1947_Cameroon",
   "dataName": "1947_CMR",
   "flagResource": "nationflags/Cameroon",
-  "unionFlagResource": "nationflags/CentralAfricanCommunity",
+  "unionFlagResource": "nationflags/Cameroon",
   "unionTrigger": 3,
   "color32": {
    "r": 220,
@@ -14621,7 +14605,7 @@
   "friendlyName": "1947_China",
   "dataName": "1947_CHN",
   "flagResource": "nationflags/China",
-  "unionFlagResource": "nationflags/PanAsian_Cooperative",
+  "unionFlagResource": "nationflags/China",
   "unionTrigger": 29,
   "color32": {
    "r": 255,
@@ -14679,7 +14663,7 @@
   "friendlyName": "1947_Colombia",
   "dataName": "1947_COL",
   "flagResource": "nationflags/Colombia",
-  "unionFlagResource": "nationflags/ColombiaUnion",
+  "unionFlagResource": "nationflags/Colombia",
   "unionTrigger": 7,
   "color32": {
    "r": 255,
@@ -15454,7 +15438,7 @@
   "friendlyName": "1947_Egypt",
   "dataName": "1947_EGY",
   "flagResource": "nationflags/Egypt",
-  "unionFlagResource": "nationflags/United_Arab_League",
+  "unionFlagResource": "nationflags/Egypt",
   "unionTrigger": 4,
   "color32": {
    "r": 188,
@@ -15728,7 +15712,7 @@
   "friendlyName": "1947_Ethiopia",
   "dataName": "1947_ETH",
   "flagResource": "nationflags/Ethiopia",
-  "unionFlagResource": "nationflags/African_Union",
+  "unionFlagResource": "nationflags/Ethiopia",
   "unionTrigger": 5,
   "color32": {
    "r": 210,
@@ -15916,7 +15900,7 @@
   "friendlyName": "1947_France",
   "dataName": "1947_EUA",
   "flagResource": "nationflags/France",
-  "unionFlagResource": "nationflags/European_Union",
+  "unionFlagResource": "nationflags/France",
   "unionTrigger": 5,
   "color32": {
    "r": 135,
@@ -16170,7 +16154,7 @@
   "friendlyName": "1947_Germany",
   "dataName": "1947_DEU",
   "flagResource": "nationflags/East_Germany",
-  "unionFlagResource": "nationflags/Germany",
+  "unionFlagResource": "nationflags/East_Germany",
   "unionTrigger": 2,
   "color32": {
    "r": 105,
@@ -16206,23 +16190,7 @@
    "DEU"
   ],
   "referenceAlias": "DEU",
-  "localizationAlias": "DEU",
-  "initialGDP": 193029021510.0,
-  "cohesion": 1.5,
-  "unrest": 4.5,
-  "inequality": 4.2,
-  "democracy": 2.0,
-  "education": 7.6,
-  "greenEconomy": 0.0,
-  "spaceFunding_year": 0,
-  "miltech": 0.2,
-  "foundMilitaryIPs": 1,
-  "nuclearWeapons": 0,
-  "initSpaceIPs": 0,
-  "nuclearProgramIPs": 0,
-  "buildNukeIPs": 0,
-  "buildArmyIPs": 0.2,
-  "buildNavyIPs": 0
+  "localizationAlias": "DEU"
  },
  {
   "friendlyName": "1947_Ghana",
@@ -17371,7 +17339,7 @@
   "friendlyName": "1947_Ireland",
   "dataName": "1947_IRL",
   "flagResource": "nationflags/Ireland",
-  "unionFlagResource": "nationflags/Celtic_League",
+  "unionFlagResource": "nationflags/Ireland",
   "unionTrigger": 3,
   "color32": {
    "r": 22,
@@ -17604,7 +17572,7 @@
   "friendlyName": "1947_Jamaica",
   "dataName": "1947_JAM",
   "flagResource": "nationflags/Jamaica",
-  "unionFlagResource": "nationflags/Caricom",
+  "unionFlagResource": "nationflags/Jamaica",
   "unionTrigger": 2,
   "color32": {
    "r": 255,
@@ -17683,7 +17651,7 @@
   "friendlyName": "1947_Japan",
   "dataName": "1947_JPN",
   "flagResource": "nationflags/Japan",
-  "unionFlagResource": "nationflags/PacificDefenseLeague",
+  "unionFlagResource": "nationflags/Japan",
   "unionTrigger": 7,
   "color32": {
    "r": 224,
@@ -17719,23 +17687,7 @@
    "JPN"
   ],
   "referenceAlias": "JPN",
-  "localizationAlias": "JPN",
-  "initialGDP": 144771766132.0,
-  "cohesion": 4.5,
-  "unrest": 3.0,
-  "inequality": 3.8,
-  "democracy": 3.0,
-  "education": 7.0,
-  "greenEconomy": 0.0,
-  "spaceFunding_year": 0,
-  "miltech": 0.2,
-  "foundMilitaryIPs": 1,
-  "nuclearWeapons": 0,
-  "initSpaceIPs": 0,
-  "nuclearProgramIPs": 0,
-  "buildNukeIPs": 0,
-  "buildArmyIPs": 0.2,
-  "buildNavyIPs": 0
+  "localizationAlias": "JPN"
  },
  {
   "friendlyName": "1947_Jefferson",
@@ -19108,7 +19060,7 @@
   "friendlyName": "1947_Mali",
   "dataName": "1947_MLI",
   "flagResource": "nationflags/Mali",
-  "unionFlagResource": "nationflags/Sahel",
+  "unionFlagResource": "nationflags/Mali",
   "unionTrigger": 3,
   "color32": {
    "r": 160,
@@ -19541,7 +19493,7 @@
   "friendlyName": "1947_Morocco",
   "dataName": "1947_MAR",
   "flagResource": "nationflags/Morocco",
-  "unionFlagResource": "nationflags/Tamazgha",
+  "unionFlagResource": "nationflags/Morocco",
   "unionTrigger": 3,
   "color32": {
    "r": 193,
@@ -20118,7 +20070,7 @@
   "friendlyName": "1947_Nigeria",
   "dataName": "1947_NGA",
   "flagResource": "nationflags/Nigeria",
-  "unionFlagResource": "nationflags/West_African_Alliance",
+  "unionFlagResource": "nationflags/Nigeria",
   "unionTrigger": 5,
   "color32": {
    "r": 0,
@@ -21070,7 +21022,7 @@
   "friendlyName": "1947_Poland",
   "dataName": "1947_POL",
   "flagResource": "nationflags/Poland",
-  "unionFlagResource": "nationflags/Slavic_Commonwealth",
+  "unionFlagResource": "nationflags/Poland",
   "unionTrigger": 5,
   "color32": {
    "r": 220,
@@ -21880,7 +21832,7 @@
   ],
   "referenceAlias": "RUS",
   "localizationAlias": "RUS",
-  "initialGDP": 820373341415.0,
+  "initialGDP": 929756453604.0,
   "cohesion": 4.0,
   "unrest": 2.0,
   "inequality": 3.2,
@@ -22094,7 +22046,7 @@
   "friendlyName": "1947_Saudi Arabia",
   "dataName": "1947_SAU",
   "flagResource": "nationflags/Saudi_Arabia",
-  "unionFlagResource": "nationflags/GulfUnion",
+  "unionFlagResource": "nationflags/Saudi_Arabia",
   "unionTrigger": 5,
   "color32": {
    "r": 0,
@@ -22229,7 +22181,7 @@
  {
   "friendlyName": "1947_Serbia",
   "dataName": "1947_SER",
-  "flagResource": "nationflags/Serbia",
+  "flagResource": "nationflags/Yugoslavia",
   "unionFlagResource": "nationflags/Yugoslavia",
   "unionTrigger": 3,
   "color32": {
@@ -22787,7 +22739,7 @@
   "friendlyName": "1947_South Africa",
   "dataName": "1947_ZAF",
   "flagResource": "nationflags/South_Africa",
-  "unionFlagResource": "nationflags/Southern_African_Commonwealth",
+  "unionFlagResource": "nationflags/South_Africa",
   "unionTrigger": 4,
   "color32": {
    "r": 240,
@@ -22881,23 +22833,7 @@
    "KOR"
   ],
   "referenceAlias": "KOR",
-  "localizationAlias": "KOR",
-  "initialGDP": 32171503585.0,
-  "cohesion": 2.0,
-  "unrest": 4.5,
-  "inequality": 5.0,
-  "democracy": 2.0,
-  "education": 2.8,
-  "greenEconomy": 0.0,
-  "spaceFunding_year": 0,
-  "miltech": 0.3,
-  "foundMilitaryIPs": 1,
-  "nuclearWeapons": 0,
-  "initSpaceIPs": 0,
-  "nuclearProgramIPs": 0,
-  "buildNukeIPs": 0,
-  "buildArmyIPs": 0.2,
-  "buildNavyIPs": 0
+  "localizationAlias": "KOR"
  },
  {
   "friendlyName": "1947_South Peru",
@@ -23267,7 +23203,7 @@
   "friendlyName": "1947_Sweden",
   "dataName": "1947_SCA",
   "flagResource": "nationflags/Sweden",
-  "unionFlagResource": "nationflags/UnitedNordicStates",
+  "unionFlagResource": "nationflags/Sweden",
   "unionTrigger": 2,
   "color32": {
    "r": 227,
@@ -23519,7 +23455,7 @@
   "friendlyName": "1947_Tanzania",
   "dataName": "1947_TZA",
   "flagResource": "nationflags/Tanzania",
-  "unionFlagResource": "nationflags/East_African_Federation",
+  "unionFlagResource": "nationflags/Tanzania",
   "unionTrigger": 4,
   "color32": {
    "r": 166,
@@ -23635,7 +23571,7 @@
   "friendlyName": "1947_Thailand",
   "dataName": "1947_THA",
   "flagResource": "nationflags/Thailand",
-  "unionFlagResource": "nationflags/Southeast_Asian_Alliance",
+  "unionFlagResource": "nationflags/Thailand",
   "unionTrigger": 3,
   "color32": {
    "r": 0,
@@ -23924,7 +23860,7 @@
   "friendlyName": "1947_Turkey",
   "dataName": "1947_TUR",
   "flagResource": "nationflags/Turkey",
-  "unionFlagResource": "nationflags/Turkestan",
+  "unionFlagResource": "nationflags/Turkey",
   "unionTrigger": 5,
   "color32": {
    "r": 178,
@@ -24141,7 +24077,7 @@
  {
   "friendlyName": "1947_United Kingdom",
   "dataName": "1947_GBR",
-  "flagResource": "nationflags/England",
+  "flagResource": "nationflags/United_Kingdom",
   "unionFlagResource": "nationflags/United_Kingdom",
   "unionTrigger": 3,
   "color32": {
@@ -24181,7 +24117,7 @@
   ],
   "referenceAlias": "GBR",
   "localizationAlias": "GBR",
-  "initialGDP": 559784162378.0,
+  "initialGDP": 617692868830.0,
   "cohesion": 4.5,
   "unrest": 2.0,
   "inequality": 3.9,
@@ -24239,7 +24175,7 @@
   "friendlyName": "1947_United States of America",
   "dataName": "1947_USA",
   "flagResource": "nationflags/United_States",
-  "unionFlagResource": "nationflags/United_States_of_NorthAmerica",
+  "unionFlagResource": "nationflags/United_States",
   "unionTrigger": 21,
   "color32": {
    "r": 13,
@@ -24277,7 +24213,7 @@
   ],
   "referenceAlias": "USA",
   "localizationAlias": "USA",
-  "initialGDP": 2342085460982.0,
+  "initialGDP": 2580154587510.0,
   "cohesion": 4.5,
   "unrest": 1.0,
   "inequality": 3.6,

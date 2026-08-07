@@ -1377,8 +1377,8 @@
   "startingStrength": 0.54
  },
  {
-  "dataName": "1947_Occupation1",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison1",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_Bavaria",
   "homeRegionStr": "1947_Shenandoah",
   "armyType": "Human",
@@ -1386,8 +1386,8 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Occupation2",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison2",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_EastGermany",
   "homeRegionStr": "1947_Moskva",
   "armyType": "Human",
@@ -1395,8 +1395,8 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Occupation3",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison3",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_Germany",
   "homeRegionStr": "1947_England",
   "armyType": "Human",
@@ -1404,8 +1404,8 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Occupation4",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison4",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_Hokkaido",
   "homeRegionStr": "1947_Shenandoah",
   "armyType": "Human",
@@ -1413,8 +1413,8 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Occupation5",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison5",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_KyushuandShikoku",
   "homeRegionStr": "1947_Shenandoah",
   "armyType": "Human",
@@ -1422,8 +1422,8 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Occupation6",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison6",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_NorthHonshu",
   "homeRegionStr": "1947_Shenandoah",
   "armyType": "Human",
@@ -1431,8 +1431,8 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Occupation7",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison7",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_NorthKorea",
   "homeRegionStr": "1947_Moskva",
   "armyType": "Human",
@@ -1440,8 +1440,8 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Occupation8",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison8",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_Ryukus",
   "homeRegionStr": "1947_Shenandoah",
   "armyType": "Human",
@@ -1449,8 +1449,8 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Occupation9",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison9",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_SouthHonshu",
   "homeRegionStr": "1947_Shenandoah",
   "armyType": "Human",
@@ -1458,8 +1458,8 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Occupation10",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison10",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_SouthKorea",
   "homeRegionStr": "1947_Shenandoah",
   "armyType": "Human",
@@ -1467,8 +1467,8 @@
   "startingStrength": 0.6
  },
  {
-  "dataName": "1947_Occupation11",
-  "friendlyName": "Occupation Force",
+  "dataName": "1947_Garrison11",
+  "friendlyName": "Garrison",
   "startRegionStr": "1947_Vienna",
   "homeRegionStr": "1947_Moskva",
   "armyType": "Human",
