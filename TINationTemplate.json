@@ -11076,43 +11076,6 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_The Alien Nation",
-  "dataName": "1898_ALN",
-  "flagResource": "nationflags/Alien_Nation",
-  "color32": {
-   "r": 105,
-   "g": 0,
-   "b": 105
-  },
-  "color": {
-   "r": 0.412,
-   "g": 0,
-   "b": 0.412,
-   "a": 0.15
-  },
-  "popGrowthModifier": -1,
-  "initialPriorityPreset": [
-   "Alien",
-   "Alien",
-   "Alien",
-   "Alien",
-   "Alien",
-   "Alien"
-  ],
-  "tankSeries": [
-   "DEU",
-   "DEU",
-   "DEU",
-   "RUS",
-   "RUS",
-   "RUS",
-   "RUS",
-   "RUS"
-  ],
-  "referenceAlias": "ALN",
-  "localizationAlias": "ALN"
- },
- {
   "friendlyName": "1898_Tibet",
   "dataName": "1898_TBT",
   "flagResource": "nationflags/Tibet",

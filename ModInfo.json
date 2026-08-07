@@ -1,9 +1,9 @@
 {
    "Title": "1898 - War for our World",
    "Author": "Steve",
-   "Description": "Startszenario zum 1. Januar 1898. Die Welt der Kolonialreiche: rund 50 souveraene Staaten, der gesamte Rest des Planeten in kolonialem Besitz, eine Weltwirtschaft von zwei Prozent der heutigen Groesse, keine Raumfahrt, keine Kernwaffen. Dreibund, Zweiverband und die schwedisch-norwegische Union sind als Foederationen abgebildet. Enthaelt zusaetzlich eine Marsvariante, in der die Invasoren wie bei Wells vom Mars kommen. Fuegt zwei Szenarien hinzu und veraendert keine bestehenden Kampagnen.",
-   "Version": "1.5.0",
-   "GameVersion": "1.0.26",
+   "Description": "Two start scenarios set on 1 January 1898, the year H. G. Wells published The War of the Worlds.\n\n- Adds 1898 scenarios for a Wells-esque world\n- 52 sovereign states and a fully colonial map. The British Empire holds 93 of the 363 regions, 86 of them colonial.\n- World economy at two percent of the present-day figure, distributed by the 1900 GDP shares from the Maddison Project. No nuclear weapons, no space budget, no human habitats.\n- Triple Alliance, Franco-Russian Alliance and the Union of Sweden and Norway as federations. Austria-Hungary is split into its two halves.\n- A Mars variant where the invaders come from Mars as in Wells, with their headquarters on Olympus Mons and their station in low Mars orbit.\n- Don't ask me how it is possible that councilors can move that quick without actual planes. They just can. They fly now.\n\nAdds two scenarios and changes nothing in existing campaigns.",
+   "Version": "1.6.0",
+   "GameVersion": "1.0.51",
    "ModURL": "",
    "TemplatesToConcatArrays": [
       "TINationTemplate.json",

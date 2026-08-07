@@ -43,6 +43,7 @@
   "friendlyName": "Nations of 1898",
   "templateType": "TINationTemplate",
   "templateNames": [
+   "ALN",
    "1898_ACE",
    "1898_AFG",
    "1898_AKA",
@@ -307,7 +308,6 @@
    "1898_TAR",
    "1898_TEW",
    "1898_THA",
-   "1898_ALN",
    "1898_TBT",
    "1898_TIG",
    "1898_TLS",
