@@ -12,10 +12,6 @@ permissions:
 jobs:
   validate:
     uses: salva133/My-Workflows/.github/workflows/validate-ti-mod.yml@latest
-    # The settings live here rather than in a file beside the mod, because the
-    # game's mod manager parses every .json under the mod folder and refuses to
-    # install a mod when one of them is not a template array.
     with:
       id_prefixes: 1898_, WarForOurWorld, Roswell
-      # A federation value names a union the scenario forms, not a record.
       ignore_reference_fields: federation
