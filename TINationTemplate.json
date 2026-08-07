@@ -12365,7 +12365,7 @@
  {
   "friendlyName": "1947_Afghanistan",
   "dataName": "1947_AFG",
-  "flagResource": "nationflags/Afghanistan",
+  "flagResource": "nationflags/Afghanistan_1931_1973",
   "color32": {
    "r": 153,
    "g": 28,
@@ -21842,18 +21842,18 @@
  {
   "friendlyName": "1947_Russia",
   "dataName": "1947_RUS",
-  "flagResource": "nationflags/Russia",
-  "unionFlagResource": "nationflags/Eurasian_Union",
+  "flagResource": "nationflags/USSR",
+  "unionFlagResource": "nationflags/USSR",
   "unionTrigger": 25,
   "color32": {
-   "r": 200,
-   "g": 125,
-   "b": 200
+   "r": 145,
+   "g": 20,
+   "b": 25
   },
   "color": {
-   "r": 0.784,
-   "g": 0.49,
-   "b": 0.784,
+   "r": 0.569,
+   "g": 0.078,
+   "b": 0.098,
    "a": 0.05
   },
   "popGrowthModifier": 0,
@@ -24711,7 +24711,7 @@
  {
   "friendlyName": "1947_Yemen",
   "dataName": "1947_YEM",
-  "flagResource": "nationflags/Yemen",
+  "flagResource": "nationflags/Kingdom_of_Yemen",
   "color32": {
    "r": 225,
    "g": 198,
