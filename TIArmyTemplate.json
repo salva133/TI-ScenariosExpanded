@@ -682,5 +682,797 @@
   "armyType": "Human",
   "deploymentType": "Standard",
   "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_AFGArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Afghanistan",
+  "homeRegionStr": "1947_Afghanistan",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1947_ARGArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Pampas",
+  "homeRegionStr": "1947_Pampas",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.45
+ },
+ {
+  "dataName": "1947_AUSArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Sydney",
+  "homeRegionStr": "1947_Sydney",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.68
+ },
+ {
+  "dataName": "1947_BGMArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Belgium",
+  "homeRegionStr": "1947_Belgium",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.5
+ },
+ {
+  "dataName": "1947_BRAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Brasilia",
+  "homeRegionStr": "1947_Brasilia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.45
+ },
+ {
+  "dataName": "1947_BULArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Bulgaria",
+  "homeRegionStr": "1947_Bulgaria",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.36
+ },
+ {
+  "dataName": "1947_CANArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Ontario",
+  "homeRegionStr": "1947_Ontario",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.72
+ },
+ {
+  "dataName": "1947_CHNArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Beijing",
+  "homeRegionStr": "1947_Beijing",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.63
+ },
+ {
+  "dataName": "1947_CHNArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_Anhui",
+  "homeRegionStr": "1947_Anhui",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.63
+ },
+ {
+  "dataName": "1947_CHNArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1947_Chongqing",
+  "homeRegionStr": "1947_Chongqing",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.63
+ },
+ {
+  "dataName": "1947_CHNArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1947_Fujian",
+  "homeRegionStr": "1947_Fujian",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.63
+ },
+ {
+  "dataName": "1947_CHNArmy5",
+  "friendlyName": "5th Army",
+  "startRegionStr": "1947_Gansu",
+  "homeRegionStr": "1947_Gansu",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.63
+ },
+ {
+  "dataName": "1947_CHNArmy6",
+  "friendlyName": "6th Army",
+  "startRegionStr": "1947_Guangzhou",
+  "homeRegionStr": "1947_Guangzhou",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.63
+ },
+ {
+  "dataName": "1947_CHNArmy7",
+  "friendlyName": "7th Army",
+  "startRegionStr": "1947_Guizhou",
+  "homeRegionStr": "1947_Guizhou",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.63
+ },
+ {
+  "dataName": "1947_CHNArmy8",
+  "friendlyName": "8th Army",
+  "startRegionStr": "1947_Hangzhou",
+  "homeRegionStr": "1947_Hangzhou",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.63
+ },
+ {
+  "dataName": "1947_CZEArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Czechia",
+  "homeRegionStr": "1947_Czechia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.54
+ },
+ {
+  "dataName": "1947_EGYArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Cairo",
+  "homeRegionStr": "1947_Cairo",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.36
+ },
+ {
+  "dataName": "1947_ESPArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Spain",
+  "homeRegionStr": "1947_Spain",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.45
+ },
+ {
+  "dataName": "1947_ESPArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_Barcelona",
+  "homeRegionStr": "1947_Barcelona",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.45
+ },
+ {
+  "dataName": "1947_ETHArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Ethiopia",
+  "homeRegionStr": "1947_Ethiopia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.27
+ },
+ {
+  "dataName": "1947_EUAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Paris",
+  "homeRegionStr": "1947_Paris",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.85
+ },
+ {
+  "dataName": "1947_EUAArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_FrenchGuiana",
+  "homeRegionStr": "1947_FrenchGuiana",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.85
+ },
+ {
+  "dataName": "1947_EUAArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1947_FrenchPacific",
+  "homeRegionStr": "1947_FrenchPacific",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.85
+ },
+ {
+  "dataName": "1947_EUAArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1947_FrenchRatnakara",
+  "homeRegionStr": "1947_FrenchRatnakara",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.85
+ },
+ {
+  "dataName": "1947_EUAArmy5",
+  "friendlyName": "5th Army",
+  "startRegionStr": "1947_FrenchWestIndies",
+  "homeRegionStr": "1947_FrenchWestIndies",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.85
+ },
+ {
+  "dataName": "1947_FINArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Finland",
+  "homeRegionStr": "1947_Finland",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.5
+ },
+ {
+  "dataName": "1947_GBRArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_England",
+  "homeRegionStr": "1947_England",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_GBRArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_BritishWestIndies",
+  "homeRegionStr": "1947_BritishWestIndies",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_GBRArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1947_EnglishMidlands",
+  "homeRegionStr": "1947_EnglishMidlands",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_GBRArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1947_NorthernIreland",
+  "homeRegionStr": "1947_NorthernIreland",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_GBRArmy5",
+  "friendlyName": "5th Army",
+  "startRegionStr": "1947_Scotland",
+  "homeRegionStr": "1947_Scotland",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_GBRArmy6",
+  "friendlyName": "6th Army",
+  "startRegionStr": "1947_Wales",
+  "homeRegionStr": "1947_Wales",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_GBRArmy7",
+  "friendlyName": "7th Army",
+  "startRegionStr": "1947_England",
+  "homeRegionStr": "1947_England",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_GREArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Greece",
+  "homeRegionStr": "1947_Greece",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.5
+ },
+ {
+  "dataName": "1947_GREArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_Greece",
+  "homeRegionStr": "1947_Greece",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.5
+ },
+ {
+  "dataName": "1947_HUNArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Hungary",
+  "homeRegionStr": "1947_Hungary",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.36
+ },
+ {
+  "dataName": "1947_IRNArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Tehran",
+  "homeRegionStr": "1947_Tehran",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.36
+ },
+ {
+  "dataName": "1947_IRQArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Baghdad",
+  "homeRegionStr": "1947_Baghdad",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.27
+ },
+ {
+  "dataName": "1947_ITAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Italy",
+  "homeRegionStr": "1947_Italy",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.45
+ },
+ {
+  "dataName": "1947_ITAArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_Milan",
+  "homeRegionStr": "1947_Milan",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.45
+ },
+ {
+  "dataName": "1947_MEXArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_MexicoCity",
+  "homeRegionStr": "1947_MexicoCity",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.36
+ },
+ {
+  "dataName": "1947_NETArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Netherlands",
+  "homeRegionStr": "1947_Netherlands",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.59
+ },
+ {
+  "dataName": "1947_NETArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_DutchCaribbean",
+  "homeRegionStr": "1947_DutchCaribbean",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.59
+ },
+ {
+  "dataName": "1947_POLArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Poland",
+  "homeRegionStr": "1947_Poland",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.54
+ },
+ {
+  "dataName": "1947_POLArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_Gdansk",
+  "homeRegionStr": "1947_Gdansk",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.54
+ },
+ {
+  "dataName": "1947_PRTArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Portugal",
+  "homeRegionStr": "1947_Portugal",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.36
+ },
+ {
+  "dataName": "1947_ROMArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Romania",
+  "homeRegionStr": "1947_Romania",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.41
+ },
+ {
+  "dataName": "1947_RUSArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Moskva",
+  "homeRegionStr": "1947_Moskva",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_Almaty",
+  "homeRegionStr": "1947_Almaty",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1947_Arkhangelsk",
+  "homeRegionStr": "1947_Arkhangelsk",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1947_Armenia",
+  "homeRegionStr": "1947_Armenia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy5",
+  "friendlyName": "5th Army",
+  "startRegionStr": "1947_Astana",
+  "homeRegionStr": "1947_Astana",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy6",
+  "friendlyName": "6th Army",
+  "startRegionStr": "1947_Azerbaijan",
+  "homeRegionStr": "1947_Azerbaijan",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy7",
+  "friendlyName": "7th Army",
+  "startRegionStr": "1947_Belarus",
+  "homeRegionStr": "1947_Belarus",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy8",
+  "friendlyName": "8th Army",
+  "startRegionStr": "1947_Crimea",
+  "homeRegionStr": "1947_Crimea",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy9",
+  "friendlyName": "9th Army",
+  "startRegionStr": "1947_Donetsk",
+  "homeRegionStr": "1947_Donetsk",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy10",
+  "friendlyName": "10th Army",
+  "startRegionStr": "1947_EasternSiberia",
+  "homeRegionStr": "1947_EasternSiberia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy11",
+  "friendlyName": "11th Army",
+  "startRegionStr": "1947_Estonia",
+  "homeRegionStr": "1947_Estonia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_RUSArmy12",
+  "friendlyName": "12th Army",
+  "startRegionStr": "1947_Georgia",
+  "homeRegionStr": "1947_Georgia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_SAUArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Najd",
+  "homeRegionStr": "1947_Najd",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.25
+ },
+ {
+  "dataName": "1947_SCAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Sweden",
+  "homeRegionStr": "1947_Sweden",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.54
+ },
+ {
+  "dataName": "1947_SERArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Belgrade",
+  "homeRegionStr": "1947_Belgrade",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.54
+ },
+ {
+  "dataName": "1947_SERArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_Kosovo",
+  "homeRegionStr": "1947_Kosovo",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.54
+ },
+ {
+  "dataName": "1947_SWIArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Zurich",
+  "homeRegionStr": "1947_Zurich",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.45
+ },
+ {
+  "dataName": "1947_THAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Bangkok",
+  "homeRegionStr": "1947_Bangkok",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.32
+ },
+ {
+  "dataName": "1947_TURArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Anatolia",
+  "homeRegionStr": "1947_Anatolia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.59
+ },
+ {
+  "dataName": "1947_TURArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_Diyarbakir",
+  "homeRegionStr": "1947_Diyarbakir",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.59
+ },
+ {
+  "dataName": "1947_TURArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1947_Istanbul",
+  "homeRegionStr": "1947_Istanbul",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.59
+ },
+ {
+  "dataName": "1947_USAArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Shenandoah",
+  "homeRegionStr": "1947_Shenandoah",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_USAArmy2",
+  "friendlyName": "2nd Army",
+  "startRegionStr": "1947_Alaska",
+  "homeRegionStr": "1947_Alaska",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_USAArmy3",
+  "friendlyName": "3rd Army",
+  "startRegionStr": "1947_AmericanCaribbean",
+  "homeRegionStr": "1947_AmericanCaribbean",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_USAArmy4",
+  "friendlyName": "4th Army",
+  "startRegionStr": "1947_AmericanPacific",
+  "homeRegionStr": "1947_AmericanPacific",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_USAArmy5",
+  "friendlyName": "5th Army",
+  "startRegionStr": "1947_Boise",
+  "homeRegionStr": "1947_Boise",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_USAArmy6",
+  "friendlyName": "6th Army",
+  "startRegionStr": "1947_California",
+  "homeRegionStr": "1947_California",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_USAArmy7",
+  "friendlyName": "7th Army",
+  "startRegionStr": "1947_Cascadia",
+  "homeRegionStr": "1947_Cascadia",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_USAArmy8",
+  "friendlyName": "8th Army",
+  "startRegionStr": "1947_Cumberland",
+  "homeRegionStr": "1947_Cumberland",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 1.0
+ },
+ {
+  "dataName": "1947_ZAFArmy1",
+  "friendlyName": "1st Army",
+  "startRegionStr": "1947_Johannesburg",
+  "homeRegionStr": "1947_Johannesburg",
+  "armyType": "Human",
+  "deploymentType": "Standard",
+  "startingStrength": 0.54
+ },
+ {
+  "dataName": "1947_Occupation1",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_Bavaria",
+  "homeRegionStr": "1947_Shenandoah",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_Occupation2",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_EastGermany",
+  "homeRegionStr": "1947_Moskva",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_Occupation3",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_Germany",
+  "homeRegionStr": "1947_England",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_Occupation4",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_Hokkaido",
+  "homeRegionStr": "1947_Shenandoah",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_Occupation5",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_KyushuandShikoku",
+  "homeRegionStr": "1947_Shenandoah",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_Occupation6",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_NorthHonshu",
+  "homeRegionStr": "1947_Shenandoah",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_Occupation7",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_NorthKorea",
+  "homeRegionStr": "1947_Moskva",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_Occupation8",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_Ryukus",
+  "homeRegionStr": "1947_Shenandoah",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_Occupation9",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_SouthHonshu",
+  "homeRegionStr": "1947_Shenandoah",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_Occupation10",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_SouthKorea",
+  "homeRegionStr": "1947_Shenandoah",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
+ },
+ {
+  "dataName": "1947_Occupation11",
+  "friendlyName": "Occupation Force",
+  "startRegionStr": "1947_Vienna",
+  "homeRegionStr": "1947_Moskva",
+  "armyType": "Human",
+  "deploymentType": "Naval",
+  "startingStrength": 0.6
  }
 ]

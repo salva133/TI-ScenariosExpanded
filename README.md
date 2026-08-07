@@ -1,46 +1,41 @@
-# 1898 — War for our World
+# Scenarios Expanded
 
-Two start scenarios for Terra Invicta set on 1 January 1898, the year H. G. Wells
-published *The War of the Worlds*.
+Three start scenarios for Terra Invicta, each built on the world as it actually
+stood on the day it begins — sovereignty, colonies, economies, alliances and
+occupations taken from the historical record rather than reskinned from the
+present.
 
-The mod adds two entries to the scenario list and changes nothing in existing
-campaigns. Every record carries the `1898_` prefix and is appended to the base
-data, so the 2022, 2026, 2030 and 2070 scenarios — and the Dark Skies scenarios
-— remain untouched.
+The mod adds scenarios and changes nothing in existing campaigns. Every record
+carries a scenario prefix and is appended to the base data, so the 2022, 2026,
+2030 and 2070 scenarios — and the Dark Skies scenarios — remain untouched.
 
-**Version 1.6.0** · Terra Invicta 1.0.51
+**Version 2.0.0** · Terra Invicta 1.0.51
 
 ## Installation
 
-Download `WarForOurWorld-v<version>.zip` from the [releases](../../releases) and
-unpack the `WarForOurWorld` folder from it into:
+Copy this folder to:
 
 ```
-...\Steam\steamapps\common\Terra Invicta\Mods\Enabled\
+...\Steam\steamapps\common\Terra Invicta\Mods\Enabled\ScenariosExpanded\
 ```
 
 Restart the game, enable **Use Mods** on the start screen, then restart once
-more. Both scenarios then appear under **Scenario** in the new campaign screen.
+more. All three scenarios then appear under **Scenario**.
 
-## The two scenarios
+## The scenarios
 
-| Scenario | Alien headquarters |
-| --- | --- |
-| 1898 — War for our World | Placed by the game, as in every base scenario |
-| 1898 — War for our World from Mars | Olympus Mons, with the station in low Mars orbit |
+| Scenario | Starts | Landing site |
+| --- | --- | --- |
+| 1898 — War for our World | 1 January 1898 | random |
+| 1898 — War for our World from Mars | 1 January 1898 | random, but the aliens are based on Olympus Mons |
+| 1947 — Roswell | 8 July 1947 | New Mexico |
 
-The Mars variant is the one closer to Wells, where the invaders explicitly come
-from Mars and astronomers watch the launches through telescopes before the first
-cylinder lands. The enemy is therefore known from the start and far closer to
-Earth than usual.
+---
 
-Both scenarios share nations, regions, armies and start time. They differ only
-in their habitat group, so any later change to the world applies to both.
+### 1898 — War for our World
 
-## The world of 1898
-
-52 sovereign states, 243 nations without statehood, 363 regions, 2,445 bilateral
-relations and 76 standing armies.
+The year H. G. Wells published *The War of the Worlds*. 52 sovereign states,
+243 nations without statehood, a fully colonial map.
 
 | Power | Regions | of which colonial |
 | --- | ---: | ---: |
@@ -50,101 +45,136 @@ relations and 76 standing armies.
 | Great Qing | 26 | — |
 | Ottoman Empire | 19 | — |
 | United States | 16 | — |
-| German Empire | 14 | 8 |
-| Kingdom of Spain | 13 | 8 |
 
-World economic output is 2.83 trillion instead of 141.7 trillion, that is two
-percent of the present-day figure, distributed according to the 1900 GDP shares
-from the Maddison Project. World population is 1.68 billion.
-
-No nuclear weapons, no space budget, no human habitats. Miltech ranges from 0.2
-to 1.6 rather than 4.2 to 4.5. The atmosphere holds 295 ppm of CO₂ and sea level
-sits 20 cm below today's.
+World economic output is two percent of the present-day figure, distributed by
+the 1900 GDP shares from the Maddison Project. World population 1.68 billion. No
+nuclear weapons, no space budget, no human habitats. Miltech runs 0.2 to 1.6
+instead of 4.2 to 4.5. 295 ppm of CO₂, sea level 20 cm below today's.
 
 Spain still holds Cuba, Puerto Rico and the Philippines: the start date is
-1 January, three months before the Spanish-American War breaks out. That war
-will happen during your campaign rather than before it.
+1 January, three months before the Spanish-American War breaks out.
 
-## Federations
-
-| Federation | Members |
-| --- | --- |
-| Triple Alliance | German Empire, Empire of Austria, Kingdom of Hungary, Kingdom of Italy |
-| Franco-Russian Alliance | French Republic, Russian Empire |
-| Union of Sweden and Norway | Sweden, Norway |
-
+**Federations.** Triple Alliance (German Empire, Empire of Austria, Kingdom of
+Hungary, Kingdom of Italy), Franco-Russian Alliance, Union of Sweden and Norway.
 Austria-Hungary is modelled as two nations because Cisleithania and
-Transleithania were separate states sharing a common foreign policy and army.
-Since a nation can belong to only one federation, the real union is absorbed
-into the Triple Alliance, which it belonged to as a whole anyway.
+Transleithania were separate states sharing a foreign policy and army. Britain
+keeps to its splendid isolation; its only alliance is the old one with Portugal.
 
-Federations pledge mutual defence, share space funding and boost, and grant a
-bonus to Economy investment. Germany and Russia are likely to count as
-authoritarian, making their federations *dark*: members may only leave with the
-lead nation's consent. Italy will not walk out of the Triple Alliance cheaply.
+Russia is coloured green and Portugal purple, as in the colonial atlases of the
+period. The base game has those two the other way round.
 
-Britain keeps to its splendid isolation. Its only alliance is the old one with
-Portugal — the Anglo-Japanese Alliance does not arrive until 1902.
+### 1898 — War for our World from Mars
+
+The same world, but the invaders come from Mars as in Wells: headquarters on
+Olympus Mons, station in low Mars orbit. The enemy is known from the start and
+far closer to Earth than usual. Both 1898 scenarios share nations, regions,
+armies and start time, and differ only in their habitat group.
+
+### 1947 — Roswell
+
+The day Roswell Army Air Field reported recovering a flying disc. The disc comes
+down over New Mexico, which is the `RockyMountains` region.
+
+71 sovereign states. The Cold War is four weeks past the Marshall Plan
+announcement and India is five weeks from independence — on 8 July it is still
+British, and so are Pakistan, Bangladesh, Burma, Ceylon and Malaya.
+
+| Power | Regions | of which colonial |
+| --- | ---: | ---: |
+| British Empire | 78 | 72 |
+| Soviet Union | 39 | — |
+| French Republic | 38 | 30 |
+| Republic of China | 26 | — |
+| United States | 18 | 1 |
+| Netherlands | 11 | 9 |
+
+World economic output is five percent of the present-day figure; the United
+States alone holds a fifth of it. World population 2.46 billion, growing fast.
+Only the United States has nuclear weapons — the Soviet test is two years away.
+Space funding exists only as captured German rocket programmes.
+
+**Occupations**, modelled with `occupyingNation`:
+
+| Region | Occupier |
+| --- | --- |
+| Germany (north-west) | Britain |
+| Bavaria (south) | United States |
+| EastGermany (Berlin, Saxony) | Soviet Union |
+| Vienna | Soviet Union |
+| All four Japanese regions | United States |
+| Ryukyus (Okinawa) | United States, total |
+| SouthKorea | United States |
+| NorthKorea | Soviet Union |
+
+East Prussia goes to the Soviet Union, Danzig and Upper Silesia to Poland. Libya,
+Eritrea and Somalia are under British military administration after Italy lost
+its empire in the war.
+
+**Blocs.** The Soviet Union, Poland, Czechoslovakia, Hungary, Romania, Bulgaria
+and Albania form a federation. Because Russia is authoritarian it will read as a
+dark federation: members leave only with Moscow's consent. This matches the
+situation after the Prague coup of February 1948 more closely than the summer of
+1947, but it is the clearest way to represent the bloc.
+
+Yugoslavia holds Croatia, Slovenia, Bosnia, Macedonia, Montenegro and Kosovo;
+Czechoslovakia holds Slovakia. The Indo-Pakistani rivalry is absent — it begins
+with partition five weeks after the scenario starts.
 
 ## Known limitations
 
-- Organisations come from the present-day set, because the game will not start
-  without them. Names like NASA or CIA are therefore anachronistic.
-- Councillors and portraits are the standard set.
+- Organisations, councillors and portraits come from the present-day set,
+  because the game will not start without them. Names like NASA or CIA are
+  anachronistic in every scenario here.
 - The three base technologies `WeAreNotAlone`, `Skywatch` and `MissionToSpace`
   remain set so that the tech tree and interface keep working.
 - The map itself is unchanged. Borders follow present-day region boundaries;
-  only ownership is that of 1898.
-- The Italian irredenta against Austria cannot be represented as a rivalry,
-  because federation members may not be rivals.
-- Federation names are not localised. This is also true of the base game's
-  federations.
-- The scenario does not use the Dark Skies timing fields
-  (`alienQuietDuration_years`, `alienProgressionModifier` and similar), so the
-  aliens advance at the standard pace.
+  only ownership differs.
+- In 1898 no nation has space funding, boost capacity or mission control at all.
+  Getting off the planet has to be built from nothing.
+- Federation names are not localised. This is also true of the base game's.
+- Rivalries cannot exist inside a federation, which costs the Italian irredenta
+  against Austria in 1898 and the Tito-Stalin split in 1947.
 
 ## Changelog
 
+### 2.0.0
+
+- Renamed from *1898 — War for our World* to *Scenarios Expanded*, since the mod
+  now carries more than one period.
+- Added *1947 — Roswell*.
+- Build pipeline reworked: each scenario is generated separately and merged into
+  one mod, because Terra Invicta reads only one file per template type per mod.
+
+### 1.7.0
+
+- Russia green, Portugal purple, matching the colonial atlases.
+
 ### 1.6.0
 
-- Retargeted to Terra Invicta 1.0.51.
-- The scenario's nation list uses vanilla's `ALN` instead of the mod's own
-  `1898_ALN` copy of the Alien Nation, which is now gone.
-- Mod description rewritten in English; the German scenario descriptions carry
-  real umlauts again.
+- Fixed the crash in `TIFactionState.NewCampaign()`. The alien administration
+  `ALN` must be listed unprefixed in the nation group; a prefixed duplicate
+  lacks `initialFactionStr` and leaves the alien council without a nation.
+- `GameVersion` corrected to 1.0.51.
 
 ### 1.5.0
 
-- Added the second scenario, *1898 — War for our World from Mars*. The alien
-  headquarters and station are copies of the game's templates with a fixed
-  location: `habSite` `MarsSite6` for the base, `orbitTemplateName`
-  `LowMarsOrbit` for the station. Both fields are empty in the originals, which
-  is why the game picks the location itself there.
+- Added the Mars variant.
 
 ### 1.4.0
 
-- The alien headquarters and station were missing. The scenario's habitat list
-  was empty because there are no human habitats in 1898, but `AlienHQ` and
-  `AlienHQStation` belong in every scenario. Without them the aliens would have
-  had no base.
-- Localisation now follows the Dark Skies pattern. Instead of a full name set
-  for all 295 nations via prefixed aliases, only the 52 differing states are
-  overridden through `scenarioLocalizationPostfix` `.1898`. Every other nation
-  keeps its familiar name.
-- `tutorialAllowed` is now set explicitly to false.
+- Added `AlienHQ` and `AlienHQStation`, which were missing from the habitat list.
+- Localisation switched to the Dark Skies pattern using
+  `scenarioLocalizationPostfix`.
 
 ### 1.3.0
 
-- Scenario and mod renamed to *1898 — War for our World*. Internal identifiers
-  are unchanged so that running campaigns keep loading.
+- Renamed to *1898 — War for our World*.
 
 ### 1.2.0
 
-- Removed the Russian occupation of Donetsk, inherited from the base game and
-  dating from 2014.
-- Capital claims are no longer trimmed. The `capitalClaim` field denotes the
-  intended capital, not the one currently held — Taiwan claims Shanghai, South
-  Yemen claims Sanaa.
+- Removed the Russian occupation of Donetsk, inherited from the base game.
+- Capital claims are no longer trimmed; `capitalClaim` denotes the intended
+  capital, not the one held.
 
 ### 1.1.0
 
@@ -153,28 +183,3 @@ Portugal — the Anglo-Japanese Alliance does not arrive until 1902.
 ### 1.0.0
 
 - Initial release.
-
-## Continuous integration
-
-Every push and pull request runs the Terra Invicta mod validator from
-[`salva133/My-Workflows`](https://github.com/salva133/My-Workflows). It reads the
-mod the way the game does and reports what the game would swallow in silence:
-
-* `ModInfo.json` parses, carries the fields the mod menu reads, and lists every
-  template file present — a template missing from `TemplatesToConcatArrays` is a
-  file the game never opens.
-* Every `1898_` name a record points at resolves to a record the mod defines, so
-  a mistyped region in an army or a bilateral relation is caught rather than
-  quietly dropping that army or claim.
-* Every nation, region, army, habitat and start time is listed in the
-  `TIMetaTemplate` entry for its type. A record the meta template does not list
-  is a record no scenario ever loads.
-* Every localization key resolves through `scenarioPrefix` and
-  `scenarioLocalizationPostfix` to a record that exists, English and German
-  carry the same keys, and both files are valid UTF-8 — a `.deu` file saved as
-  cp1252 reaches the game as mojibake rather than as an error.
-
-A release is cut by bumping `Version` in `ModInfo.json` and pushing to `master`:
-the checks run again, and a green run publishes `WarForOurWorld-v<version>.zip`
-— a `WarForOurWorld` folder ready to drop into `Mods\Enabled` — as a GitHub
-release tagged `v<version>`.

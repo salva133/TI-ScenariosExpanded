@@ -46,5 +46,56 @@
   ],
   "scaleCPMaintenanceWithStartingGDP": true,
   "scaleEconomyDefenseWithStartingGDP": true
+ },
+ {
+  "dataName": "1947_Start",
+  "year": 1947,
+  "month": 7,
+  "day": 7,
+  "hour": 23,
+  "minute": 59,
+  "second": 59,
+  "bonusMoney": 0,
+  "bonusInfluence": 0,
+  "bonusOps": 0,
+  "bonusBoost": 0,
+  "bonusMissionControl": 0,
+  "bonusWater": 0,
+  "bonusVolatiles": 0,
+  "bonusMetals": 0,
+  "bonusNobles": 0,
+  "bonusFissiles": 0,
+  "bonusAntimatter": 0,
+  "bonusExotics": 0,
+  "initialCrashdownRegionTemplateName": "1947_RockyMountains",
+  "initialAtmosphericCO2_ppm": 310.0,
+  "initialAtmosphericCH4_ppm": 1.15,
+  "initialAtmosphericN2O_ppm": 0.294,
+  "initialStratosphericAerosols_ppm": 0.0,
+  "initialGlobalSeaLevelAnomaly_cm": -3,
+  "initialLooseNukes": 0,
+  "globalStartingGDPScaling": 1,
+  "distributeFactionlessHabsAndFleets": false,
+  "startingTechs": [
+   "WeAreNotAlone",
+   "Skywatch",
+   "MissionToSpace"
+  ],
+  "techTreeUIStarters": [
+   "WeAreNotAlone",
+   "MissionToSpace"
+  ],
+  "projectsCompleted": [
+   "Project_Solid-FuelSpaceRockets"
+  ],
+  "startingAlienCouncilorFleets": [
+   "alienFleet12020",
+   "alienFleet22020",
+   "alienFleet32020",
+   "alienFleet42020",
+   "alienFleet52020"
+  ],
+  "scaleCPMaintenanceWithStartingGDP": true,
+  "scaleEconomyDefenseWithStartingGDP": true
  }
 ]
