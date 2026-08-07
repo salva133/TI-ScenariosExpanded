@@ -12,10 +12,11 @@ data, so the 2022, 2026, 2030 and 2070 scenarios — and the Dark Skies scenario
 
 ## Installation
 
-Copy this folder to:
+Download `WarForOurWorld-v<version>.zip` from the [releases](../../releases) and
+unpack the `WarForOurWorld` folder from it into:
 
 ```
-...\Steam\steamapps\common\Terra Invicta\Mods\Enabled\WarForOurWorld\
+...\Steam\steamapps\common\Terra Invicta\Mods\Enabled\
 ```
 
 Restart the game, enable **Use Mods** on the start screen, then restart once
