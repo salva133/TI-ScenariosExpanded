@@ -1,6 +1,6 @@
 # Scenarios Expanded
 
-Three start scenarios for Terra Invicta, each built on the world as it actually
+Two start scenarios for Terra Invicta, each built on the world as it actually
 stood on the day it begins — sovereignty, colonies, economies, alliances and
 occupations taken from the historical record rather than reskinned from the
 present.
@@ -9,7 +9,7 @@ The mod adds scenarios and changes nothing in existing campaigns. Every record
 carries a scenario prefix and is appended to the base data, so the 2022, 2026,
 2030 and 2070 scenarios — and the Dark Skies scenarios — remain untouched.
 
-**Version 2.4.0** · Terra Invicta 1.0.51
+**Version 2.5.0** · Terra Invicta 1.0.51
 
 ## Installation
 
@@ -20,14 +20,13 @@ Copy this folder to:
 ```
 
 Restart the game, enable **Use Mods** on the start screen, then restart once
-more. All three scenarios then appear under **Scenario**.
+more. Both scenarios then appear under **Scenario**.
 
 ## The scenarios
 
 | Scenario | Starts | Landing site |
 | --- | --- | --- |
 | 1898 — War for our World | 1 January 1898 | random |
-| 1898 — War for our World from Mars | 1 January 1898 | random, but the aliens are based on Olympus Mons |
 | 1947 — Roswell | 8 July 1947 | New Mexico |
 
 ---
@@ -62,18 +61,6 @@ keeps to its splendid isolation; its only alliance is the old one with Portugal.
 
 Russia is coloured green and Portugal purple, as in the colonial atlases of the
 period. The base game has those two the other way round.
-
-### 1898 — War for our World from Mars
-
-The same world, but the invaders come from Mars as in Wells: headquarters on
-Olympus Mons, station in low Mars orbit. The enemy is known from the start and
-far closer to Earth than usual. Both 1898 scenarios share nations, regions,
-armies and start time, and differ only in their habitat group.
-
-The two scenarios carry separate prefixes, `1898_` and `1898M_`, and therefore
-duplicate their data. That is not tidiness lost for nothing: `AlienHQ` is
-hard-coded in the game's assembly, so both variants would otherwise have to
-share one headquarters.
 
 ### 1947 — Roswell
 
@@ -164,6 +151,17 @@ warns on any duplicate identifier. `checkall.py` then validates the merged mod
 against the base game's templates.
 
 ## Changelog
+
+### 2.5.0
+
+- Removed the Mars variant. `TIFactionState.NewCampaign()` looks up the habitat
+  templates `AlienHQ` and `AlienHQStation` by their literal names, without
+  applying `scenarioPrefix`, so `1898M_AlienHQ` was never found and the method
+  ran into a null reference. The orbit of the alien station is hard-coded to
+  `LowNeptuneOrbit` as well. A scenario-specific alien headquarters is therefore
+  not possible through templates, and the variant is gone rather than shipped
+  broken. `checkall.py` now rejects any prefixed headquarters.
+- The mod is back to two scenarios and 2.1 MB.
 
 ### 2.4.0
 

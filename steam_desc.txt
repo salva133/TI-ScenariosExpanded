@@ -1,12 +1,12 @@
 [h1]Scenarios Expanded[/h1]
 
-Three start scenarios for Terra Invicta, each built on the world as it actually stood on the day it begins. Sovereignty, colonies, economies, alliances and occupations come from the historical record.
+Two start scenarios, each built on the world as it actually stood on the day it begins. Sovereignty, colonies, economies, alliances and occupations come from the historical record.
 
 [hr][/hr]
 
 [h2]1898 — War for our World[/h2]
 
-The year H. G. Wells published [i]The War of the Worlds[/i]. 52 sovereign states rule a fully colonial map.
+The year H. G. Wells published [i]The War of the Worlds[/i]. 52 sovereign nations.
 
 [table]
 [tr][th]Power[/th][th]Regions[/th][th]of which colonial[/th][/tr]
@@ -25,10 +25,6 @@ Spaceflight and the atom belong to the future. Every road off the planet has to 
 Spain still holds Cuba, Puerto Rico and the Philippines — the start date is 1 January.
 
 [b]Federations.[/b] The Triple Alliance, the Franco-Russian Alliance and the Union of Sweden and Norway. Austria-Hungary comes as two nations, because Cisleithania and Transleithania were separate states sharing a foreign policy and an army.
-
-[h2]1898 — War for our World from Mars[/h2]
-
-The same world, with the invaders coming from Mars as in Wells.
 
 [h2]1947 — Roswell[/h2]
 
