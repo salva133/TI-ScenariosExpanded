@@ -1,7 +1,7 @@
 [
  {
   "dataName": "WarForOurWorldScenario",
-  "friendlyName": "War for our World",
+  "friendlyName": "1898 - War for our World",
   "scenarioTags": [
    "NotPostApoc"
   ],
@@ -21,8 +21,11 @@
    "1898_Habs",
    "StandardRepeatingEvents"
   ],
+  "tutorialAllowed": false,
   "scenarioPrefix": "1898_",
+  "scenarioLocalizationPostfix": ".1898",
   "templatesToUseDefaultLocalization": [
+   "TINationTemplate",
    "TIRegionTemplate",
    "TIArmyTemplate"
   ]
@@ -708,10 +711,53 @@
   ]
  },
  {
-  "dataName": "1898_Habs",
-  "friendlyName": "No Habitats",
+  "dataName": "WarForOurWorldMarsScenario",
+  "friendlyName": "1898 - War for our World from Mars",
+  "scenarioTags": [
+   "NotPostApoc"
+  ],
+  "newCampaignOptionCategory": "Scenario",
+  "isNewCampaignOption": true,
+  "optionPriority": 1,
+  "listPriority": 4,
+  "templateType": "TIMetaTemplate",
+  "templateNames": [
+   "1898_StartTime",
+   "1898_Regions",
+   "1898_Nations",
+   "1898_Armies",
+   "StandardCouncilors",
+   "ModernStartFleets",
+   "ModernOrgTemplates",
+   "1898_HabsMars",
+   "StandardRepeatingEvents"
+  ],
+  "tutorialAllowed": false,
+  "scenarioPrefix": "1898_",
+  "scenarioLocalizationPostfix": ".1898",
+  "templatesToUseDefaultLocalization": [
+   "TINationTemplate",
+   "TIRegionTemplate",
+   "TIArmyTemplate"
+  ]
+ },
+ {
+  "dataName": "1898_HabsMars",
+  "friendlyName": "Habitats of 1898, Mars",
   "templateType": "TIHabTemplate",
-  "templateNames": []
+  "templateNames": [
+   "1898_AlienHQMars",
+   "1898_AlienHQStationMars"
+  ]
+ },
+ {
+  "dataName": "1898_Habs",
+  "friendlyName": "Habitats of 1898",
+  "templateType": "TIHabTemplate",
+  "templateNames": [
+   "AlienHQ",
+   "AlienHQStation"
+  ]
  },
  {
   "dataName": "1898_Armies",

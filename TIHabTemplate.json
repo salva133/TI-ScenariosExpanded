@@ -1,0 +1,120 @@
+[
+ {
+  "dataName": "1898_AlienHQMars",
+  "friendlyName": "Alien HQ",
+  "habType": "Base",
+  "tier": 3,
+  "habSite": "MarsSite6",
+  "alien": true,
+  "orbitTemplateName": "",
+  "meanAnomalyAtEpoch_Deg": null,
+  "epoch_floatJYears": null,
+  "sectors": [
+   {
+    "faction": "AlienCouncil",
+    "habModuleNames": [
+     "AlienColonyCore",
+     "AlienColonyMiningComplex",
+     "AlienWormholeFacility",
+     "AlienFusionReactorFarm",
+     "AlienNanofacturingComplex"
+    ]
+   },
+   {
+    "faction": "AlienCouncil",
+    "habModuleNames": [
+     "AlienFusionReactorFarm",
+     "AlienCitadel",
+     "AlienSpaceworks",
+     "AlienSpaceworks"
+    ]
+   },
+   {
+    "faction": "AlienCouncil",
+    "habModuleNames": [
+     "AlienFusionReactorFarm",
+     "AlienBattlestations",
+     "AlienBattlestations",
+     "AlienCitadel"
+    ]
+   },
+   {
+    "faction": "AlienCouncil",
+    "habModuleNames": [
+     "AlienFusionReactorFarm",
+     "AlienBattlestations",
+     "AlienBattlestations",
+     "AlienCitadel"
+    ]
+   },
+   {
+    "faction": "AlienCouncil",
+    "habModuleNames": [
+     "AlienFusionReactorFarm",
+     "AlienBattlestations",
+     "AlienBattlestations",
+     "AlienCitadel"
+    ]
+   }
+  ]
+ },
+ {
+  "dataName": "1898_AlienHQStationMars",
+  "friendlyName": "Alien Station Alpha",
+  "habType": "Station",
+  "tier": 3,
+  "habSite": "",
+  "alien": true,
+  "orbitTemplateName": "LowMarsOrbit",
+  "meanAnomalyAtEpoch_Deg": null,
+  "epoch_floatJYears": null,
+  "sectors": [
+   {
+    "faction": "AlienCouncil",
+    "habModuleNames": [
+     "AlienRingCore",
+     "AlienGarrison",
+     "AlienNanofactory",
+     "AlienGarrison",
+     "AlienFusionReactorFarm"
+    ]
+   },
+   {
+    "faction": "AlienCouncil",
+    "habModuleNames": [
+     "",
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "faction": "AlienCouncil",
+    "habModuleNames": [
+     "AlienFusionReactorArray",
+     "AlienLayeredDefenseArray",
+     "AlienFusionReactorArray",
+     "AlienBattlestations"
+    ]
+   },
+   {
+    "faction": "AlienCouncil",
+    "habModuleNames": [
+     "",
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "faction": "AlienCouncil",
+    "habModuleNames": [
+     "AlienShipyard",
+     "AlienLayeredDefenseArray",
+     "AlienFusionReactorArray",
+     "AlienFusionReactorArray"
+    ]
+   }
+  ]
+ }
+]

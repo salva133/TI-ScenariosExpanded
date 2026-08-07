@@ -15318,8 +15318,7 @@
    "illustrations/illus_Donetsk_1",
    "illustrations/illus_Donetsk_2"
   ],
-  "occupyingNation": "RUS",
-  "occupationValue": 0.59,
+  "occupationValue": 0,
   "nuclearDetonations": 0,
   "referenceAlias": "Donetsk",
   "localizationAlias": "Donetsk"

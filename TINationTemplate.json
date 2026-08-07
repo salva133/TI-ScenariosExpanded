@@ -34,7 +34,7 @@
    "CHN"
   ],
   "referenceAlias": "ACE",
-  "localizationAlias": "1898_ACE"
+  "localizationAlias": "ACE"
  },
  {
   "friendlyName": "1898_Afghanistan",
@@ -74,7 +74,7 @@
    "AFG"
   ],
   "referenceAlias": "AFG",
-  "localizationAlias": "1898_AFG",
+  "localizationAlias": "AFG",
   "initialGDP": 3425223986.0,
   "cohesion": 2.0,
   "unrest": 3.5,
@@ -127,7 +127,7 @@
    "USA"
   ],
   "referenceAlias": "AKA",
-  "localizationAlias": "1898_AKA"
+  "localizationAlias": "AKA"
  },
  {
   "friendlyName": "1898_Albania",
@@ -167,7 +167,7 @@
    "ALB"
   ],
   "referenceAlias": "SBK",
-  "localizationAlias": "1898_SBK"
+  "localizationAlias": "SBK"
  },
  {
   "friendlyName": "1898_Algeria",
@@ -209,7 +209,7 @@
    "DZA"
   ],
   "referenceAlias": "DZA",
-  "localizationAlias": "1898_DZA"
+  "localizationAlias": "DZA"
  },
  {
   "friendlyName": "1898_Ambazonia",
@@ -246,7 +246,7 @@
    "CHN"
   ],
   "referenceAlias": "AMB",
-  "localizationAlias": "1898_AMB"
+  "localizationAlias": "AMB"
  },
  {
   "friendlyName": "1898_Angola",
@@ -288,7 +288,7 @@
    "AGO"
   ],
   "referenceAlias": "AGO",
-  "localizationAlias": "1898_AGO"
+  "localizationAlias": "AGO"
  },
  {
   "friendlyName": "1898_Arewa",
@@ -325,7 +325,7 @@
    "CHN"
   ],
   "referenceAlias": "ARE",
-  "localizationAlias": "1898_ARE"
+  "localizationAlias": "ARE"
  },
  {
   "friendlyName": "1898_Argentina",
@@ -365,7 +365,7 @@
    "ARG"
   ],
   "referenceAlias": "ARG",
-  "localizationAlias": "1898_ARG",
+  "localizationAlias": "ARG",
   "initialGDP": 25689179895.0,
   "cohesion": 3.0,
   "unrest": 2.0,
@@ -421,7 +421,7 @@
    "ARM"
   ],
   "referenceAlias": "ARM",
-  "localizationAlias": "1898_ARM"
+  "localizationAlias": "ARM"
  },
  {
   "friendlyName": "1898_Assam",
@@ -458,7 +458,7 @@
    "CHN"
   ],
   "referenceAlias": "ASM",
-  "localizationAlias": "1898_ASM"
+  "localizationAlias": "ASM"
  },
  {
   "friendlyName": "1898_Atlantic Union",
@@ -495,7 +495,7 @@
    "USA"
   ],
   "referenceAlias": "ATL",
-  "localizationAlias": "1898_ATL"
+  "localizationAlias": "ATL"
  },
  {
   "friendlyName": "1898_Atzlan",
@@ -532,7 +532,7 @@
    "USA"
   ],
   "referenceAlias": "ATZ",
-  "localizationAlias": "1898_ATZ"
+  "localizationAlias": "ATZ"
  },
  {
   "friendlyName": "1898_Australia",
@@ -574,7 +574,7 @@
    "AUS"
   ],
   "referenceAlias": "AUS",
-  "localizationAlias": "1898_AUS"
+  "localizationAlias": "AUS"
  },
  {
   "friendlyName": "1898_Austria",
@@ -615,7 +615,7 @@
    "LIE"
   ],
   "referenceAlias": "ALP",
-  "localizationAlias": "1898_ALP",
+  "localizationAlias": "ALP",
   "initialGDP": 99331495593.0,
   "cohesion": 1.5,
   "unrest": 3.0,
@@ -668,7 +668,7 @@
    "RUS"
   ],
   "referenceAlias": "AZA",
-  "localizationAlias": "1898_AZA"
+  "localizationAlias": "AZA"
  },
  {
   "friendlyName": "1898_Azerbaijan",
@@ -708,7 +708,7 @@
    "AZE"
   ],
   "referenceAlias": "AZE",
-  "localizationAlias": "1898_AZE"
+  "localizationAlias": "AZE"
  },
  {
   "friendlyName": "1898_Azores",
@@ -745,7 +745,7 @@
    "EUA"
   ],
   "referenceAlias": "AZO",
-  "localizationAlias": "1898_AZO"
+  "localizationAlias": "AZO"
  },
  {
   "friendlyName": "1898_Baluchistan",
@@ -782,7 +782,7 @@
    "CHN"
   ],
   "referenceAlias": "BCH",
-  "localizationAlias": "1898_BCH"
+  "localizationAlias": "BCH"
  },
  {
   "friendlyName": "1898_Bangladesh",
@@ -822,7 +822,7 @@
    "BGD"
   ],
   "referenceAlias": "BGD",
-  "localizationAlias": "1898_BGD"
+  "localizationAlias": "BGD"
  },
  {
   "friendlyName": "1898_Bahamas",
@@ -862,7 +862,7 @@
    "BHS"
   ],
   "referenceAlias": "BAH",
-  "localizationAlias": "1898_BAH"
+  "localizationAlias": "BAH"
  },
  {
   "friendlyName": "1898_Bavaria",
@@ -899,7 +899,7 @@
    "EUA"
   ],
   "referenceAlias": "BAV",
-  "localizationAlias": "1898_BAV"
+  "localizationAlias": "BAV"
  },
  {
   "friendlyName": "1898_Beja Congress",
@@ -936,7 +936,7 @@
    "EUA"
   ],
   "referenceAlias": "BEJ",
-  "localizationAlias": "1898_BEJ"
+  "localizationAlias": "BEJ"
  },
  {
   "friendlyName": "1898_Belarus",
@@ -976,7 +976,7 @@
    "BLR"
   ],
   "referenceAlias": "BLR",
-  "localizationAlias": "1898_BLR"
+  "localizationAlias": "BLR"
  },
  {
   "friendlyName": "1898_Belgium",
@@ -1017,7 +1017,7 @@
    "LUX"
   ],
   "referenceAlias": "BGM",
-  "localizationAlias": "1898_BGM",
+  "localizationAlias": "BGM",
   "initialGDP": 41102687831.0,
   "cohesion": 2.5,
   "unrest": 2.0,
@@ -1073,7 +1073,7 @@
    "BLZ"
   ],
   "referenceAlias": "BEL",
-  "localizationAlias": "1898_BEL"
+  "localizationAlias": "BEL"
  },
  {
   "friendlyName": "1898_Bengal",
@@ -1110,7 +1110,7 @@
    "CHN"
   ],
   "referenceAlias": "BGL",
-  "localizationAlias": "1898_BGL"
+  "localizationAlias": "BGL"
  },
  {
   "friendlyName": "1898_Benin",
@@ -1150,7 +1150,7 @@
    "BEN"
   ],
   "referenceAlias": "BEN",
-  "localizationAlias": "1898_BEN"
+  "localizationAlias": "BEN"
  },
  {
   "friendlyName": "1898_Bhutan",
@@ -1190,7 +1190,7 @@
    "BTN"
   ],
   "referenceAlias": "BHU",
-  "localizationAlias": "1898_BHU",
+  "localizationAlias": "BHU",
   "initialGDP": 171261199.0,
   "cohesion": 3.5,
   "unrest": 1.5,
@@ -1243,7 +1243,7 @@
    "EUA"
   ],
   "referenceAlias": "BIA",
-  "localizationAlias": "1898_BIA"
+  "localizationAlias": "BIA"
  },
  {
   "friendlyName": "1898_Bolivia",
@@ -1285,7 +1285,7 @@
    "BOL"
   ],
   "referenceAlias": "BOL",
-  "localizationAlias": "1898_BOL",
+  "localizationAlias": "BOL",
   "initialGDP": 2568917989.0,
   "cohesion": 2.0,
   "unrest": 3.5,
@@ -1338,7 +1338,7 @@
    "CHN"
   ],
   "referenceAlias": "BOR",
-  "localizationAlias": "1898_BOR"
+  "localizationAlias": "BOR"
  },
  {
   "friendlyName": "1898_Bosnia and Herzegovina",
@@ -1378,7 +1378,7 @@
    "BIH"
   ],
   "referenceAlias": "BSM",
-  "localizationAlias": "1898_BSM"
+  "localizationAlias": "BSM"
  },
  {
   "friendlyName": "1898_Botswana",
@@ -1418,7 +1418,7 @@
    "BWA"
   ],
   "referenceAlias": "BWA",
-  "localizationAlias": "1898_BWA"
+  "localizationAlias": "BWA"
  },
  {
   "friendlyName": "1898_Brazil",
@@ -1458,7 +1458,7 @@
    "BRA"
   ],
   "referenceAlias": "BRA",
-  "localizationAlias": "1898_BRA",
+  "localizationAlias": "BRA",
   "initialGDP": 41102687831.0,
   "cohesion": 3.0,
   "unrest": 3.0,
@@ -1511,7 +1511,7 @@
    "EUA"
   ],
   "referenceAlias": "BRT",
-  "localizationAlias": "1898_BRT"
+  "localizationAlias": "BRT"
  },
  {
   "friendlyName": "1898_Brunei",
@@ -1551,7 +1551,7 @@
    "BRN"
   ],
   "referenceAlias": "BRU",
-  "localizationAlias": "1898_BRU"
+  "localizationAlias": "BRU"
  },
  {
   "friendlyName": "1898_Bulgaria",
@@ -1591,7 +1591,7 @@
    "BGR"
   ],
   "referenceAlias": "BUL",
-  "localizationAlias": "1898_BUL",
+  "localizationAlias": "BUL",
   "initialGDP": 6850447972.0,
   "cohesion": 3.5,
   "unrest": 2.5,
@@ -1644,7 +1644,7 @@
    "CHN"
   ],
   "referenceAlias": "BUR",
-  "localizationAlias": "1898_BUR"
+  "localizationAlias": "BUR"
  },
  {
   "friendlyName": "1898_Burkina Faso",
@@ -1684,7 +1684,7 @@
    "BFA"
   ],
   "referenceAlias": "BKF",
-  "localizationAlias": "1898_BKF"
+  "localizationAlias": "BKF"
  },
  {
   "friendlyName": "1898_Cabo Verde",
@@ -1724,7 +1724,7 @@
    "CPV"
   ],
   "referenceAlias": "CPV",
-  "localizationAlias": "1898_CPV"
+  "localizationAlias": "CPV"
  },
  {
   "friendlyName": "1898_California",
@@ -1761,7 +1761,7 @@
    "USA"
   ],
   "referenceAlias": "CAL",
-  "localizationAlias": "1898_CAL"
+  "localizationAlias": "CAL"
  },
  {
   "friendlyName": "1898_Caliphate",
@@ -1798,7 +1798,7 @@
    "RUS"
   ],
   "referenceAlias": "CPH",
-  "localizationAlias": "1898_CPH"
+  "localizationAlias": "CPH"
  },
  {
   "friendlyName": "1898_Cambodia",
@@ -1838,7 +1838,7 @@
    "KHM"
   ],
   "referenceAlias": "KHM",
-  "localizationAlias": "1898_KHM"
+  "localizationAlias": "KHM"
  },
  {
   "friendlyName": "1898_Cameroon",
@@ -1880,7 +1880,7 @@
    "CMR"
   ],
   "referenceAlias": "CMR",
-  "localizationAlias": "1898_CMR"
+  "localizationAlias": "CMR"
  },
  {
   "friendlyName": "1898_Canada",
@@ -1920,7 +1920,7 @@
    "CAN"
   ],
   "referenceAlias": "CAN",
-  "localizationAlias": "1898_CAN"
+  "localizationAlias": "CAN"
  },
  {
   "friendlyName": "1898_Canary Islands",
@@ -1957,7 +1957,7 @@
    "EUA"
   ],
   "referenceAlias": "CRY",
-  "localizationAlias": "1898_CRY"
+  "localizationAlias": "CRY"
  },
  {
   "friendlyName": "1898_Cape Republic",
@@ -1994,7 +1994,7 @@
    "EUA"
   ],
   "referenceAlias": "CAP",
-  "localizationAlias": "1898_CAP"
+  "localizationAlias": "CAP"
  },
  {
   "friendlyName": "1898_Cascadia",
@@ -2031,7 +2031,7 @@
    "USA"
   ],
   "referenceAlias": "CSD",
-  "localizationAlias": "1898_CSD"
+  "localizationAlias": "CSD"
  },
  {
   "friendlyName": "1898_Catalonia",
@@ -2068,7 +2068,7 @@
    "EUA"
   ],
   "referenceAlias": "CAT",
-  "localizationAlias": "1898_CAT"
+  "localizationAlias": "CAT"
  },
  {
   "friendlyName": "1898_Central African Republic",
@@ -2108,7 +2108,7 @@
    "CAF"
   ],
   "referenceAlias": "CAF",
-  "localizationAlias": "1898_CAF"
+  "localizationAlias": "CAF"
  },
  {
   "friendlyName": "1898_Chad",
@@ -2148,7 +2148,7 @@
    "TCD"
   ],
   "referenceAlias": "TCD",
-  "localizationAlias": "1898_TCD"
+  "localizationAlias": "TCD"
  },
  {
   "friendlyName": "1898_Chhattisgarh",
@@ -2185,7 +2185,7 @@
    "RUS"
   ],
   "referenceAlias": "CHA",
-  "localizationAlias": "1898_CHA"
+  "localizationAlias": "CHA"
  },
  {
   "friendlyName": "1898_Chile",
@@ -2225,7 +2225,7 @@
    "CHL"
   ],
   "referenceAlias": "CHL",
-  "localizationAlias": "1898_CHL",
+  "localizationAlias": "CHL",
   "initialGDP": 10275671958.0,
   "cohesion": 3.5,
   "unrest": 2.0,
@@ -2283,7 +2283,7 @@
    "CHN"
   ],
   "referenceAlias": "CHN",
-  "localizationAlias": "1898_CHN",
+  "localizationAlias": "CHN",
   "initialGDP": 373349414469.0,
   "cohesion": 1.0,
   "unrest": 4.0,
@@ -2341,7 +2341,7 @@
    "COL"
   ],
   "referenceAlias": "COL",
-  "localizationAlias": "1898_COL",
+  "localizationAlias": "COL",
   "initialGDP": 6850447972.0,
   "cohesion": 2.0,
   "unrest": 4.5,
@@ -2397,7 +2397,7 @@
    "COD"
   ],
   "referenceAlias": "COD",
-  "localizationAlias": "1898_COD"
+  "localizationAlias": "COD"
  },
  {
   "friendlyName": "1898_Costa Rica",
@@ -2437,7 +2437,7 @@
    "CRI"
   ],
   "referenceAlias": "COS",
-  "localizationAlias": "1898_COS",
+  "localizationAlias": "COS",
   "initialGDP": 685044797.0,
   "cohesion": 3.5,
   "unrest": 1.5,
@@ -2490,7 +2490,7 @@
    "EUA"
   ],
   "referenceAlias": "CRI",
-  "localizationAlias": "1898_CRI"
+  "localizationAlias": "CRI"
  },
  {
   "friendlyName": "1898_Croatia",
@@ -2530,7 +2530,7 @@
    "HRV"
   ],
   "referenceAlias": "CRS",
-  "localizationAlias": "1898_CRS"
+  "localizationAlias": "CRS"
  },
  {
   "friendlyName": "1898_Cuba",
@@ -2570,7 +2570,7 @@
    "CUB"
   ],
   "referenceAlias": "CUB",
-  "localizationAlias": "1898_CUB"
+  "localizationAlias": "CUB"
  },
  {
   "friendlyName": "1898_Cyrenaica",
@@ -2607,7 +2607,7 @@
    "RUS"
   ],
   "referenceAlias": "CYE",
-  "localizationAlias": "1898_CYE"
+  "localizationAlias": "CYE"
  },
  {
   "friendlyName": "1898_Czechia",
@@ -2649,7 +2649,7 @@
    "CZE"
   ],
   "referenceAlias": "CZE",
-  "localizationAlias": "1898_CZE"
+  "localizationAlias": "CZE"
  },
  {
   "friendlyName": "1898_Darfur",
@@ -2686,7 +2686,7 @@
    "CHN"
   ],
   "referenceAlias": "DAR",
-  "localizationAlias": "1898_DAR"
+  "localizationAlias": "DAR"
  },
  {
   "friendlyName": "1898_Denmark",
@@ -2726,7 +2726,7 @@
    "DNK"
   ],
   "referenceAlias": "DEN",
-  "localizationAlias": "1898_DEN",
+  "localizationAlias": "DEN",
   "initialGDP": 13700895944.0,
   "cohesion": 4.5,
   "unrest": 0.5,
@@ -2782,7 +2782,7 @@
    "DJI"
   ],
   "referenceAlias": "DJI",
-  "localizationAlias": "1898_DJI"
+  "localizationAlias": "DJI"
  },
  {
   "friendlyName": "1898_Dominican Republic",
@@ -2822,7 +2822,7 @@
    "DOM"
   ],
   "referenceAlias": "DOM",
-  "localizationAlias": "1898_DOM",
+  "localizationAlias": "DOM",
   "initialGDP": 685044797.0,
   "cohesion": 2.0,
   "unrest": 4.0,
@@ -2875,7 +2875,7 @@
    "CHN"
   ],
   "referenceAlias": "CSA",
-  "localizationAlias": "1898_CSA"
+  "localizationAlias": "CSA"
  },
  {
   "friendlyName": "1898_Donetsk",
@@ -2912,7 +2912,7 @@
    "RUS"
   ],
   "referenceAlias": "DON",
-  "localizationAlias": "1898_DON"
+  "localizationAlias": "DON"
  },
  {
   "friendlyName": "1898_Dravida Nadu",
@@ -2949,7 +2949,7 @@
    "RUS"
   ],
   "referenceAlias": "DVD",
-  "localizationAlias": "1898_DVD"
+  "localizationAlias": "DVD"
  },
  {
   "friendlyName": "1898_East Turkestan",
@@ -2986,7 +2986,7 @@
    "RUS"
   ],
   "referenceAlias": "ETK",
-  "localizationAlias": "1898_ETK"
+  "localizationAlias": "ETK"
  },
  {
   "friendlyName": "1898_Ecuador",
@@ -3026,7 +3026,7 @@
    "ECU"
   ],
   "referenceAlias": "ECU",
-  "localizationAlias": "1898_ECU",
+  "localizationAlias": "ECU",
   "initialGDP": 2568917989.0,
   "cohesion": 2.0,
   "unrest": 3.5,
@@ -3084,7 +3084,7 @@
    "EGY"
   ],
   "referenceAlias": "EGY",
-  "localizationAlias": "1898_EGY"
+  "localizationAlias": "EGY"
  },
  {
   "friendlyName": "1898_El Salvador",
@@ -3124,7 +3124,7 @@
    "SLV"
   ],
   "referenceAlias": "ELS",
-  "localizationAlias": "1898_ELS",
+  "localizationAlias": "ELS",
   "initialGDP": 856305996.0,
   "cohesion": 2.5,
   "unrest": 3.0,
@@ -3180,7 +3180,7 @@
    "GNQ"
   ],
   "referenceAlias": "EQG",
-  "localizationAlias": "1898_EQG"
+  "localizationAlias": "EQG"
  },
  {
   "friendlyName": "1898_Eritrea",
@@ -3220,7 +3220,7 @@
    "ERI"
   ],
   "referenceAlias": "ERI",
-  "localizationAlias": "1898_ERI"
+  "localizationAlias": "ERI"
  },
  {
   "friendlyName": "1898_Estonia",
@@ -3260,7 +3260,7 @@
    "EST"
   ],
   "referenceAlias": "EST",
-  "localizationAlias": "1898_EST"
+  "localizationAlias": "EST"
  },
  {
   "friendlyName": "1898_Eswatini",
@@ -3300,7 +3300,7 @@
    "SWZ"
   ],
   "referenceAlias": "ESW",
-  "localizationAlias": "1898_ESW"
+  "localizationAlias": "ESW"
  },
  {
   "friendlyName": "1898_Ethiopia",
@@ -3342,7 +3342,7 @@
    "ETH"
   ],
   "referenceAlias": "ETH",
-  "localizationAlias": "1898_ETH",
+  "localizationAlias": "ETH",
   "initialGDP": 5137835979.0,
   "cohesion": 2.5,
   "unrest": 3.0,
@@ -3395,7 +3395,7 @@
    "EUA"
   ],
   "referenceAlias": "BAS",
-  "localizationAlias": "1898_BAS"
+  "localizationAlias": "BAS"
  },
  {
   "friendlyName": "1898_Finland",
@@ -3435,7 +3435,7 @@
    "FIN"
   ],
   "referenceAlias": "FIN",
-  "localizationAlias": "1898_FIN"
+  "localizationAlias": "FIN"
  },
  {
   "friendlyName": "1898_First Nation",
@@ -3472,7 +3472,7 @@
    "USA"
   ],
   "referenceAlias": "FNT",
-  "localizationAlias": "1898_FNT"
+  "localizationAlias": "FNT"
  },
  {
   "friendlyName": "1898_France",
@@ -3516,7 +3516,7 @@
    "AND"
   ],
   "referenceAlias": "EUA",
-  "localizationAlias": "1898_EUA",
+  "localizationAlias": "EUA",
   "initialGDP": 198662991185.0,
   "cohesion": 3.5,
   "unrest": 2.5,
@@ -3569,7 +3569,7 @@
    "CHN"
   ],
   "referenceAlias": "FAM",
-  "localizationAlias": "1898_FAM"
+  "localizationAlias": "FAM"
  },
  {
   "friendlyName": "1898_Fujian",
@@ -3606,7 +3606,7 @@
    "CHN"
   ],
   "referenceAlias": "FUJ",
-  "localizationAlias": "1898_FUJ"
+  "localizationAlias": "FUJ"
  },
  {
   "friendlyName": "1898_Gabon",
@@ -3646,7 +3646,7 @@
    "GAB"
   ],
   "referenceAlias": "LWG",
-  "localizationAlias": "1898_LWG"
+  "localizationAlias": "LWG"
  },
  {
   "friendlyName": "1898_Gambia",
@@ -3686,7 +3686,7 @@
    "GMB"
   ],
   "referenceAlias": "GAM",
-  "localizationAlias": "1898_GAM"
+  "localizationAlias": "GAM"
  },
  {
   "friendlyName": "1898_Georgia",
@@ -3726,7 +3726,7 @@
    "GEO"
   ],
   "referenceAlias": "GEO",
-  "localizationAlias": "1898_GEO"
+  "localizationAlias": "GEO"
  },
  {
   "friendlyName": "1898_Germany",
@@ -3768,7 +3768,7 @@
    "DEU"
   ],
   "referenceAlias": "DEU",
-  "localizationAlias": "1898_DEU",
+  "localizationAlias": "DEU",
   "initialGDP": 277443142862.0,
   "cohesion": 4.0,
   "unrest": 2.0,
@@ -3824,7 +3824,7 @@
    "GHA"
   ],
   "referenceAlias": "GHA",
-  "localizationAlias": "1898_GHA"
+  "localizationAlias": "GHA"
  },
  {
   "friendlyName": "1898_Greece",
@@ -3865,7 +3865,7 @@
    "CYP"
   ],
   "referenceAlias": "GRE",
-  "localizationAlias": "1898_GRE",
+  "localizationAlias": "GRE",
   "initialGDP": 8563059965.0,
   "cohesion": 3.5,
   "unrest": 3.0,
@@ -3918,7 +3918,7 @@
    "EUA"
   ],
   "referenceAlias": "GRL",
-  "localizationAlias": "1898_GRL"
+  "localizationAlias": "GRL"
  },
  {
   "friendlyName": "1898_Guandong",
@@ -3955,7 +3955,7 @@
    "CHN"
   ],
   "referenceAlias": "MNC",
-  "localizationAlias": "1898_MNC"
+  "localizationAlias": "MNC"
  },
  {
   "friendlyName": "1898_Guanxi",
@@ -3992,7 +3992,7 @@
    "CHN"
   ],
   "referenceAlias": "GAX",
-  "localizationAlias": "1898_GAX"
+  "localizationAlias": "GAX"
  },
  {
   "friendlyName": "1898_Guatemala",
@@ -4034,7 +4034,7 @@
    "GTM"
   ],
   "referenceAlias": "GTM",
-  "localizationAlias": "1898_GTM",
+  "localizationAlias": "GTM",
   "initialGDP": 1712611993.0,
   "cohesion": 2.0,
   "unrest": 3.0,
@@ -4090,7 +4090,7 @@
    "GIN"
   ],
   "referenceAlias": "GIN",
-  "localizationAlias": "1898_GIN"
+  "localizationAlias": "GIN"
  },
  {
   "friendlyName": "1898_Guinea-Bissau",
@@ -4130,7 +4130,7 @@
    "GNB"
   ],
   "referenceAlias": "GNB",
-  "localizationAlias": "1898_GNB"
+  "localizationAlias": "GNB"
  },
  {
   "friendlyName": "1898_Gujarat",
@@ -4167,7 +4167,7 @@
    "RUS"
   ],
   "referenceAlias": "GUJ",
-  "localizationAlias": "1898_GUJ"
+  "localizationAlias": "GUJ"
  },
  {
   "friendlyName": "1898_Gulf States",
@@ -4209,7 +4209,7 @@
    "BHR"
   ],
   "referenceAlias": "GUS",
-  "localizationAlias": "1898_GUS"
+  "localizationAlias": "GUS"
  },
  {
   "friendlyName": "1898_Guyana",
@@ -4249,7 +4249,7 @@
    "GUY"
   ],
   "referenceAlias": "GUY",
-  "localizationAlias": "1898_GUY"
+  "localizationAlias": "GUY"
  },
  {
   "friendlyName": "1898_Gwailor",
@@ -4286,7 +4286,7 @@
    "RUS"
   ],
   "referenceAlias": "GWA",
-  "localizationAlias": "1898_GWA"
+  "localizationAlias": "GWA"
  },
  {
   "friendlyName": "1898_Haiti",
@@ -4326,7 +4326,7 @@
    "HTI"
   ],
   "referenceAlias": "HTI",
-  "localizationAlias": "1898_HTI",
+  "localizationAlias": "HTI",
   "initialGDP": 1370089594.0,
   "cohesion": 2.5,
   "unrest": 4.0,
@@ -4379,7 +4379,7 @@
    "EUA"
   ],
   "referenceAlias": "HAW",
-  "localizationAlias": "1898_HAW"
+  "localizationAlias": "HAW"
  },
  {
   "friendlyName": "1898_Hunan",
@@ -4416,7 +4416,7 @@
    "CHN"
   ],
   "referenceAlias": "HNN",
-  "localizationAlias": "1898_HNN"
+  "localizationAlias": "HNN"
  },
  {
   "friendlyName": "1898_Honduras",
@@ -4456,7 +4456,7 @@
    "HND"
   ],
   "referenceAlias": "HON",
-  "localizationAlias": "1898_HON",
+  "localizationAlias": "HON",
   "initialGDP": 856305996.0,
   "cohesion": 2.0,
   "unrest": 3.5,
@@ -4509,7 +4509,7 @@
    "CHN"
   ],
   "referenceAlias": "HKO",
-  "localizationAlias": "1898_HKO"
+  "localizationAlias": "HKO"
  },
  {
   "friendlyName": "1898_Huanan",
@@ -4546,7 +4546,7 @@
    "CHN"
   ],
   "referenceAlias": "WUR",
-  "localizationAlias": "1898_WUR"
+  "localizationAlias": "WUR"
  },
  {
   "friendlyName": "1898_Hungary",
@@ -4586,7 +4586,7 @@
    "HUN"
   ],
   "referenceAlias": "HUN",
-  "localizationAlias": "1898_HUN",
+  "localizationAlias": "HUN",
   "initialGDP": 65079255733.0,
   "cohesion": 2.0,
   "unrest": 3.0,
@@ -4639,7 +4639,7 @@
    "RUS"
   ],
   "referenceAlias": "HYD",
-  "localizationAlias": "1898_HYD"
+  "localizationAlias": "HYD"
  },
  {
   "friendlyName": "1898_Iceland",
@@ -4679,7 +4679,7 @@
    "ISL"
   ],
   "referenceAlias": "ISL",
-  "localizationAlias": "1898_ISL"
+  "localizationAlias": "ISL"
  },
  {
   "friendlyName": "1898_India",
@@ -4720,7 +4720,7 @@
    "IND"
   ],
   "referenceAlias": "IND",
-  "localizationAlias": "1898_IND"
+  "localizationAlias": "IND"
  },
  {
   "friendlyName": "1898_Indonesia",
@@ -4762,7 +4762,7 @@
    "IDN"
   ],
   "referenceAlias": "IDN",
-  "localizationAlias": "1898_IDN"
+  "localizationAlias": "IDN"
  },
  {
   "friendlyName": "1898_Ingria",
@@ -4799,7 +4799,7 @@
    "RUS"
   ],
   "referenceAlias": "ING",
-  "localizationAlias": "1898_ING"
+  "localizationAlias": "ING"
  },
  {
   "friendlyName": "1898_Iran",
@@ -4839,7 +4839,7 @@
    "IRN"
   ],
   "referenceAlias": "IRN",
-  "localizationAlias": "1898_IRN",
+  "localizationAlias": "IRN",
   "initialGDP": 10275671958.0,
   "cohesion": 1.5,
   "unrest": 3.5,
@@ -4895,7 +4895,7 @@
    "IRQ"
   ],
   "referenceAlias": "IRQ",
-  "localizationAlias": "1898_IRQ"
+  "localizationAlias": "IRQ"
  },
  {
   "friendlyName": "1898_Ireland",
@@ -4937,7 +4937,7 @@
    "IRL"
   ],
   "referenceAlias": "IRL",
-  "localizationAlias": "1898_IRL"
+  "localizationAlias": "IRL"
  },
  {
   "friendlyName": "1898_Israel",
@@ -4977,7 +4977,7 @@
    "ISR"
   ],
   "referenceAlias": "ISR",
-  "localizationAlias": "1898_ISR"
+  "localizationAlias": "ISR"
  },
  {
   "friendlyName": "1898_Italy",
@@ -5019,7 +5019,7 @@
    "SMR"
   ],
   "referenceAlias": "ITA",
-  "localizationAlias": "1898_ITA",
+  "localizationAlias": "ITA",
   "initialGDP": 102756719579.0,
   "cohesion": 3.0,
   "unrest": 3.0,
@@ -5075,7 +5075,7 @@
    "CIV"
   ],
   "referenceAlias": "IVO",
-  "localizationAlias": "1898_IVO"
+  "localizationAlias": "IVO"
  },
  {
   "friendlyName": "1898_Jaipur",
@@ -5112,7 +5112,7 @@
    "RUS"
   ],
   "referenceAlias": "JAI",
-  "localizationAlias": "1898_JAI"
+  "localizationAlias": "JAI"
  },
  {
   "friendlyName": "1898_Jamaica",
@@ -5154,7 +5154,7 @@
    "JAM"
   ],
   "referenceAlias": "JAM",
-  "localizationAlias": "1898_JAM"
+  "localizationAlias": "JAM"
  },
  {
   "friendlyName": "1898_Jammu and Kashmir",
@@ -5191,7 +5191,7 @@
    "RUS"
   ],
   "referenceAlias": "KSH",
-  "localizationAlias": "1898_KSH"
+  "localizationAlias": "KSH"
  },
  {
   "friendlyName": "1898_Japan",
@@ -5233,7 +5233,7 @@
    "JPN"
   ],
   "referenceAlias": "JPN",
-  "localizationAlias": "1898_JPN",
+  "localizationAlias": "JPN",
   "initialGDP": 89055823635.0,
   "cohesion": 5.0,
   "unrest": 1.0,
@@ -5286,7 +5286,7 @@
    "USA"
   ],
   "referenceAlias": "JEF",
-  "localizationAlias": "1898_JEF"
+  "localizationAlias": "JEF"
  },
  {
   "friendlyName": "1898_Jordan",
@@ -5326,7 +5326,7 @@
    "JOR"
   ],
   "referenceAlias": "JOR",
-  "localizationAlias": "1898_JOR"
+  "localizationAlias": "JOR"
  },
  {
   "friendlyName": "1898_Kachin-Arakan",
@@ -5363,7 +5363,7 @@
    "CHN"
   ],
   "referenceAlias": "KAC",
-  "localizationAlias": "1898_KAC"
+  "localizationAlias": "KAC"
  },
  {
   "friendlyName": "1898_Kaliningrad Republic",
@@ -5400,7 +5400,7 @@
    "EUA"
   ],
   "referenceAlias": "KAL",
-  "localizationAlias": "1898_KAL"
+  "localizationAlias": "KAL"
  },
  {
   "friendlyName": "1898_Karelia",
@@ -5437,7 +5437,7 @@
    "EUA"
   ],
   "referenceAlias": "KAR",
-  "localizationAlias": "1898_KAR"
+  "localizationAlias": "KAR"
  },
  {
   "friendlyName": "1898_Katanga",
@@ -5474,7 +5474,7 @@
    "CHN"
   ],
   "referenceAlias": "KAT",
-  "localizationAlias": "1898_KAT"
+  "localizationAlias": "KAT"
  },
  {
   "friendlyName": "1898_Kazakhstan",
@@ -5516,7 +5516,7 @@
    "KAZ"
   ],
   "referenceAlias": "KAZ",
-  "localizationAlias": "1898_KAZ"
+  "localizationAlias": "KAZ"
  },
  {
   "friendlyName": "1898_Kenya",
@@ -5556,7 +5556,7 @@
    "KEN"
   ],
   "referenceAlias": "KEN",
-  "localizationAlias": "1898_KEN"
+  "localizationAlias": "KEN"
  },
  {
   "friendlyName": "1898_Keo Deudai",
@@ -5593,7 +5593,7 @@
    "EUA"
   ],
   "referenceAlias": "KEO",
-  "localizationAlias": "1898_KEO"
+  "localizationAlias": "KEO"
  },
  {
   "friendlyName": "1898_Khalistan",
@@ -5630,7 +5630,7 @@
    "CHN"
   ],
   "referenceAlias": "KHA",
-  "localizationAlias": "1898_KHA"
+  "localizationAlias": "KHA"
  },
  {
   "friendlyName": "1898_Khuzestan",
@@ -5667,7 +5667,7 @@
    "RUS"
   ],
   "referenceAlias": "KHU",
-  "localizationAlias": "1898_KHU"
+  "localizationAlias": "KHU"
  },
  {
   "friendlyName": "1898_Komi Republic",
@@ -5704,7 +5704,7 @@
    "RUS"
   ],
   "referenceAlias": "KOM",
-  "localizationAlias": "1898_KOM"
+  "localizationAlias": "KOM"
  },
  {
   "friendlyName": "1898_Kosovo",
@@ -5744,7 +5744,7 @@
    "XKX"
   ],
   "referenceAlias": "KOS",
-  "localizationAlias": "1898_KOS"
+  "localizationAlias": "KOS"
  },
  {
   "friendlyName": "1898_Kurdistan",
@@ -5781,7 +5781,7 @@
    "USA"
   ],
   "referenceAlias": "KRD",
-  "localizationAlias": "1898_KRD"
+  "localizationAlias": "KRD"
  },
  {
   "friendlyName": "1898_Karakalpakstan",
@@ -5818,7 +5818,7 @@
    "RUS"
   ],
   "referenceAlias": "KRK",
-  "localizationAlias": "1898_KRK"
+  "localizationAlias": "KRK"
  },
  {
   "friendlyName": "1898_Kuwait",
@@ -5858,7 +5858,7 @@
    "KWT"
   ],
   "referenceAlias": "KUW",
-  "localizationAlias": "1898_KUW"
+  "localizationAlias": "KUW"
  },
  {
   "friendlyName": "1898_Kyrgyzstan",
@@ -5898,7 +5898,7 @@
    "KGZ"
   ],
   "referenceAlias": "KGZ",
-  "localizationAlias": "1898_KGZ"
+  "localizationAlias": "KGZ"
  },
  {
   "friendlyName": "1898_Laos",
@@ -5938,7 +5938,7 @@
    "LAO"
   ],
   "referenceAlias": "LAO",
-  "localizationAlias": "1898_LAO"
+  "localizationAlias": "LAO"
  },
  {
   "friendlyName": "1898_Latvia",
@@ -5978,7 +5978,7 @@
    "LVA"
   ],
   "referenceAlias": "LVA",
-  "localizationAlias": "1898_LVA"
+  "localizationAlias": "LVA"
  },
  {
   "friendlyName": "1898_Lebanon",
@@ -6018,7 +6018,7 @@
    "LBN"
   ],
   "referenceAlias": "LEB",
-  "localizationAlias": "1898_LEB"
+  "localizationAlias": "LEB"
  },
  {
   "friendlyName": "1898_Lesotho",
@@ -6058,7 +6058,7 @@
    "LSO"
   ],
   "referenceAlias": "LES",
-  "localizationAlias": "1898_LES"
+  "localizationAlias": "LES"
  },
  {
   "friendlyName": "1898_Lesser Antilles States",
@@ -6101,7 +6101,7 @@
    "LCA"
   ],
   "referenceAlias": "CAB",
-  "localizationAlias": "1898_CAB"
+  "localizationAlias": "CAB"
  },
  {
   "friendlyName": "1898_Liangguang",
@@ -6138,7 +6138,7 @@
    "CHN"
   ],
   "referenceAlias": "GUA",
-  "localizationAlias": "1898_GUA"
+  "localizationAlias": "GUA"
  },
  {
   "friendlyName": "1898_Liberia",
@@ -6178,7 +6178,7 @@
    "LBR"
   ],
   "referenceAlias": "LBR",
-  "localizationAlias": "1898_LBR",
+  "localizationAlias": "LBR",
   "initialGDP": 342522399.0,
   "cohesion": 1.5,
   "unrest": 3.0,
@@ -6234,7 +6234,7 @@
    "LBY"
   ],
   "referenceAlias": "LBY",
-  "localizationAlias": "1898_LBY"
+  "localizationAlias": "LBY"
  },
  {
   "friendlyName": "1898_Lithuania",
@@ -6274,7 +6274,7 @@
    "LTU"
   ],
   "referenceAlias": "LTU",
-  "localizationAlias": "1898_LTU"
+  "localizationAlias": "LTU"
  },
  {
   "friendlyName": "1898_Logone",
@@ -6311,7 +6311,7 @@
    "RUS"
   ],
   "referenceAlias": "LOG",
-  "localizationAlias": "1898_LOG"
+  "localizationAlias": "LOG"
  },
  {
   "friendlyName": "1898_Lunda-Tchokwé",
@@ -6348,7 +6348,7 @@
    "CHN"
   ],
   "referenceAlias": "LNT",
-  "localizationAlias": "1898_LNT"
+  "localizationAlias": "LNT"
  },
  {
   "friendlyName": "1898_Madagascar",
@@ -6388,7 +6388,7 @@
    "MDG"
   ],
   "referenceAlias": "MDG",
-  "localizationAlias": "1898_MDG"
+  "localizationAlias": "MDG"
  },
  {
   "friendlyName": "1898_Mordovia",
@@ -6425,7 +6425,7 @@
    "EUA"
   ],
   "referenceAlias": "MDV",
-  "localizationAlias": "1898_MDV"
+  "localizationAlias": "MDV"
  },
  {
   "friendlyName": "1898_Maharashtra",
@@ -6462,7 +6462,7 @@
    "RUS"
   ],
   "referenceAlias": "MAH",
-  "localizationAlias": "1898_MAH"
+  "localizationAlias": "MAH"
  },
  {
   "friendlyName": "1898_Malawi",
@@ -6502,7 +6502,7 @@
    "MWI"
   ],
   "referenceAlias": "MAL",
-  "localizationAlias": "1898_MAL"
+  "localizationAlias": "MAL"
  },
  {
   "friendlyName": "1898_Malaysia",
@@ -6544,7 +6544,7 @@
    "MYS"
   ],
   "referenceAlias": "MYS",
-  "localizationAlias": "1898_MYS"
+  "localizationAlias": "MYS"
  },
  {
   "friendlyName": "1898_Maldives",
@@ -6584,7 +6584,7 @@
    "MDV"
   ],
   "referenceAlias": "MLD",
-  "localizationAlias": "1898_MLD"
+  "localizationAlias": "MLD"
  },
  {
   "friendlyName": "1898_Mali",
@@ -6626,7 +6626,7 @@
    "MLI"
   ],
   "referenceAlias": "MLI",
-  "localizationAlias": "1898_MLI"
+  "localizationAlias": "MLI"
  },
  {
   "friendlyName": "1898_Mauritania",
@@ -6666,7 +6666,7 @@
    "MRT"
   ],
   "referenceAlias": "MRT",
-  "localizationAlias": "1898_MRT"
+  "localizationAlias": "MRT"
  },
  {
   "friendlyName": "1898_Mauritius",
@@ -6706,7 +6706,7 @@
    "MUS"
   ],
   "referenceAlias": "MRS",
-  "localizationAlias": "1898_MRS"
+  "localizationAlias": "MRS"
  },
  {
   "friendlyName": "1898_Melanesian States",
@@ -6749,7 +6749,7 @@
    "VUT"
   ],
   "referenceAlias": "PCS",
-  "localizationAlias": "1898_PCS"
+  "localizationAlias": "PCS"
  },
  {
   "friendlyName": "1898_Mexico",
@@ -6789,7 +6789,7 @@
    "MEX"
   ],
   "referenceAlias": "MEX",
-  "localizationAlias": "1898_MEX",
+  "localizationAlias": "MEX",
   "initialGDP": 22263955909.0,
   "cohesion": 2.5,
   "unrest": 3.5,
@@ -6847,7 +6847,7 @@
    "KIR"
   ],
   "referenceAlias": "MCS",
-  "localizationAlias": "1898_MCS"
+  "localizationAlias": "MCS"
  },
  {
   "friendlyName": "1898_Mindanao",
@@ -6884,7 +6884,7 @@
    "CHN"
   ],
   "referenceAlias": "MIN",
-  "localizationAlias": "1898_MIN"
+  "localizationAlias": "MIN"
  },
  {
   "friendlyName": "1898_Moldova",
@@ -6924,7 +6924,7 @@
    "MDA"
   ],
   "referenceAlias": "MOL",
-  "localizationAlias": "1898_MOL"
+  "localizationAlias": "MOL"
  },
  {
   "friendlyName": "1898_Mongolia",
@@ -6964,7 +6964,7 @@
    "MNG"
   ],
   "referenceAlias": "MNG",
-  "localizationAlias": "1898_MNG"
+  "localizationAlias": "MNG"
  },
  {
   "friendlyName": "1898_Mombasa Republic",
@@ -7001,7 +7001,7 @@
    "CHN"
   ],
   "referenceAlias": "MOM",
-  "localizationAlias": "1898_MOM"
+  "localizationAlias": "MOM"
  },
  {
   "friendlyName": "1898_Morocco",
@@ -7043,7 +7043,7 @@
    "MAR"
   ],
   "referenceAlias": "MAR",
-  "localizationAlias": "1898_MAR",
+  "localizationAlias": "MAR",
   "initialGDP": 5137835979.0,
   "cohesion": 2.0,
   "unrest": 3.5,
@@ -7099,7 +7099,7 @@
    "MOZ"
   ],
   "referenceAlias": "MOZ",
-  "localizationAlias": "1898_MOZ"
+  "localizationAlias": "MOZ"
  },
  {
   "friendlyName": "1898_Myanmar",
@@ -7139,7 +7139,7 @@
    "MMR"
   ],
   "referenceAlias": "MMR",
-  "localizationAlias": "1898_MMR"
+  "localizationAlias": "MMR"
  },
  {
   "friendlyName": "1898_Mysore",
@@ -7176,7 +7176,7 @@
    "CHN"
   ],
   "referenceAlias": "MSO",
-  "localizationAlias": "1898_MSO"
+  "localizationAlias": "MSO"
  },
  {
   "friendlyName": "1898_Montenegro",
@@ -7216,7 +7216,7 @@
    "MNE"
   ],
   "referenceAlias": "MNE",
-  "localizationAlias": "1898_MNE",
+  "localizationAlias": "MNE",
   "initialGDP": 685044797.0,
   "cohesion": 4.0,
   "unrest": 2.0,
@@ -7272,7 +7272,7 @@
    "NAM"
   ],
   "referenceAlias": "SWA",
-  "localizationAlias": "1898_SWA"
+  "localizationAlias": "SWA"
  },
  {
   "friendlyName": "1898_Nepal",
@@ -7312,7 +7312,7 @@
    "NPL"
   ],
   "referenceAlias": "HYS",
-  "localizationAlias": "1898_HYS",
+  "localizationAlias": "HYS",
   "initialGDP": 2568917989.0,
   "cohesion": 3.5,
   "unrest": 1.5,
@@ -7368,7 +7368,7 @@
    "NLD"
   ],
   "referenceAlias": "NET",
-  "localizationAlias": "1898_NET",
+  "localizationAlias": "NET",
   "initialGDP": 41102687831.0,
   "cohesion": 4.0,
   "unrest": 1.0,
@@ -7421,7 +7421,7 @@
    "USA"
   ],
   "referenceAlias": "RNA",
-  "localizationAlias": "1898_RNA"
+  "localizationAlias": "RNA"
  },
  {
   "friendlyName": "1898_New Caledonia",
@@ -7458,7 +7458,7 @@
    "CHN"
   ],
   "referenceAlias": "NCL",
-  "localizationAlias": "1898_NCL"
+  "localizationAlias": "NCL"
  },
  {
   "friendlyName": "1898_New Zealand",
@@ -7498,7 +7498,7 @@
    "NZL"
   ],
   "referenceAlias": "NZL",
-  "localizationAlias": "1898_NZL"
+  "localizationAlias": "NZL"
  },
  {
   "friendlyName": "1898_Nicaragua",
@@ -7538,7 +7538,7 @@
    "NIC"
   ],
   "referenceAlias": "NIC",
-  "localizationAlias": "1898_NIC",
+  "localizationAlias": "NIC",
   "initialGDP": 856305996.0,
   "cohesion": 2.0,
   "unrest": 3.5,
@@ -7594,7 +7594,7 @@
    "NER"
   ],
   "referenceAlias": "NER",
-  "localizationAlias": "1898_NER"
+  "localizationAlias": "NER"
  },
  {
   "friendlyName": "1898_Nigeria",
@@ -7636,7 +7636,7 @@
    "NGA"
   ],
   "referenceAlias": "NGA",
-  "localizationAlias": "1898_NGA"
+  "localizationAlias": "NGA"
  },
  {
   "friendlyName": "1898_North Caucasus Federation",
@@ -7673,7 +7673,7 @@
    "RUS"
   ],
   "referenceAlias": "NCF",
-  "localizationAlias": "1898_NCF"
+  "localizationAlias": "NCF"
  },
  {
   "friendlyName": "1898_Northern Assembly",
@@ -7710,7 +7710,7 @@
    "EUA"
   ],
   "referenceAlias": "NEN",
-  "localizationAlias": "1898_NEN"
+  "localizationAlias": "NEN"
  },
  {
   "friendlyName": "1898_North Korea",
@@ -7752,7 +7752,7 @@
    "PRK"
   ],
   "referenceAlias": "PRK",
-  "localizationAlias": "1898_PRK"
+  "localizationAlias": "PRK"
  },
  {
   "friendlyName": "1898_North Macedonia",
@@ -7792,7 +7792,7 @@
    "MKD"
   ],
   "referenceAlias": "MKD",
-  "localizationAlias": "1898_MKD"
+  "localizationAlias": "MKD"
  },
  {
   "friendlyName": "1898_Norway",
@@ -7832,7 +7832,7 @@
    "NOR"
   ],
   "referenceAlias": "NOR",
-  "localizationAlias": "1898_NOR",
+  "localizationAlias": "NOR",
   "initialGDP": 6850447972.0,
   "cohesion": 4.5,
   "unrest": 1.5,
@@ -7885,7 +7885,7 @@
    "CHN"
   ],
   "referenceAlias": "NUB",
-  "localizationAlias": "1898_NUB"
+  "localizationAlias": "NUB"
  },
  {
   "friendlyName": "1898_Occitania",
@@ -7922,7 +7922,7 @@
    "EUA"
   ],
   "referenceAlias": "OCT",
-  "localizationAlias": "1898_OCT"
+  "localizationAlias": "OCT"
  },
  {
   "friendlyName": "1898_Odisha",
@@ -7959,7 +7959,7 @@
    "RUS"
   ],
   "referenceAlias": "ODI",
-  "localizationAlias": "1898_ODI"
+  "localizationAlias": "ODI"
  },
  {
   "friendlyName": "1898_Ogaden",
@@ -7996,7 +7996,7 @@
    "RUS"
   ],
   "referenceAlias": "OGA",
-  "localizationAlias": "1898_OGA"
+  "localizationAlias": "OGA"
  },
  {
   "friendlyName": "1898_Oman",
@@ -8036,7 +8036,7 @@
    "OMN"
   ],
   "referenceAlias": "OMN",
-  "localizationAlias": "1898_OMN",
+  "localizationAlias": "OMN",
   "initialGDP": 513783598.0,
   "cohesion": 2.5,
   "unrest": 2.5,
@@ -8089,7 +8089,7 @@
    "CHN"
   ],
   "referenceAlias": "PCF",
-  "localizationAlias": "1898_PCF"
+  "localizationAlias": "PCF"
  },
  {
   "friendlyName": "1898_Padania",
@@ -8126,7 +8126,7 @@
    "EUA"
   ],
   "referenceAlias": "PAD",
-  "localizationAlias": "1898_PAD"
+  "localizationAlias": "PAD"
  },
  {
   "friendlyName": "1898_Pakistan",
@@ -8167,7 +8167,7 @@
    "PAK"
   ],
   "referenceAlias": "PAK",
-  "localizationAlias": "1898_PAK"
+  "localizationAlias": "PAK"
  },
  {
   "friendlyName": "1898_Palestine",
@@ -8207,7 +8207,7 @@
    "PSE"
   ],
   "referenceAlias": "PAL",
-  "localizationAlias": "1898_PAL"
+  "localizationAlias": "PAL"
  },
  {
   "friendlyName": "1898_Panama",
@@ -8247,7 +8247,7 @@
    "PAN"
   ],
   "referenceAlias": "PAN",
-  "localizationAlias": "1898_PAN"
+  "localizationAlias": "PAN"
  },
  {
   "friendlyName": "1898_Papua New Guinea",
@@ -8287,7 +8287,7 @@
    "PNG"
   ],
   "referenceAlias": "PNG",
-  "localizationAlias": "1898_PNG"
+  "localizationAlias": "PNG"
  },
  {
   "friendlyName": "1898_Paraguay",
@@ -8327,7 +8327,7 @@
    "PRY"
   ],
   "referenceAlias": "PRY",
-  "localizationAlias": "1898_PRY",
+  "localizationAlias": "PRY",
   "initialGDP": 1027567196.0,
   "cohesion": 3.0,
   "unrest": 2.5,
@@ -8380,7 +8380,7 @@
    "EUA"
   ],
   "referenceAlias": "PAT",
-  "localizationAlias": "1898_PAT"
+  "localizationAlias": "PAT"
  },
  {
   "friendlyName": "1898_Peru",
@@ -8421,7 +8421,7 @@
    "PER"
   ],
   "referenceAlias": "PER",
-  "localizationAlias": "1898_PER",
+  "localizationAlias": "PER",
   "initialGDP": 5137835979.0,
   "cohesion": 2.5,
   "unrest": 2.5,
@@ -8474,7 +8474,7 @@
    "EUA"
   ],
   "referenceAlias": "PGN",
-  "localizationAlias": "1898_PGN"
+  "localizationAlias": "PGN"
  },
  {
   "friendlyName": "1898_Philippines",
@@ -8514,7 +8514,7 @@
    "PHL"
   ],
   "referenceAlias": "PHL",
-  "localizationAlias": "1898_PHL"
+  "localizationAlias": "PHL"
  },
  {
   "friendlyName": "1898_Poland",
@@ -8556,7 +8556,7 @@
    "POL"
   ],
   "referenceAlias": "POL",
-  "localizationAlias": "1898_POL"
+  "localizationAlias": "POL"
  },
  {
   "friendlyName": "1898_Polynesian States",
@@ -8598,7 +8598,7 @@
    "TON"
   ],
   "referenceAlias": "PLS",
-  "localizationAlias": "1898_PLS"
+  "localizationAlias": "PLS"
  },
  {
   "friendlyName": "1898_Puerto Rico",
@@ -8635,7 +8635,7 @@
    "USA"
   ],
   "referenceAlias": "PRO",
-  "localizationAlias": "1898_PRO"
+  "localizationAlias": "PRO"
  },
  {
   "friendlyName": "1898_Portugal",
@@ -8675,7 +8675,7 @@
    "PRT"
   ],
   "referenceAlias": "PRT",
-  "localizationAlias": "1898_PRT",
+  "localizationAlias": "PRT",
   "initialGDP": 13700895944.0,
   "cohesion": 3.5,
   "unrest": 2.5,
@@ -8728,7 +8728,7 @@
    "USA"
   ],
   "referenceAlias": "PRA",
-  "localizationAlias": "1898_PRA"
+  "localizationAlias": "PRA"
  },
  {
   "friendlyName": "1898_Quebec",
@@ -8765,7 +8765,7 @@
    "EUA"
   ],
   "referenceAlias": "QUB",
-  "localizationAlias": "1898_QUB"
+  "localizationAlias": "QUB"
  },
  {
   "friendlyName": "1898_Comoros",
@@ -8805,7 +8805,7 @@
    "COM"
   ],
   "referenceAlias": "RTK",
-  "localizationAlias": "1898_RTK"
+  "localizationAlias": "RTK"
  },
  {
   "friendlyName": "1898_Republic of Ainu",
@@ -8842,7 +8842,7 @@
    "USA"
   ],
   "referenceAlias": "ROA",
-  "localizationAlias": "1898_ROA"
+  "localizationAlias": "ROA"
  },
  {
   "friendlyName": "1898_Republic of Lakota",
@@ -8879,7 +8879,7 @@
    "USA"
   ],
   "referenceAlias": "RLK",
-  "localizationAlias": "1898_RLK"
+  "localizationAlias": "RLK"
  },
  {
   "friendlyName": "1898_Republic of New England",
@@ -8916,7 +8916,7 @@
    "USA"
   ],
   "referenceAlias": "RNE",
-  "localizationAlias": "1898_RNE"
+  "localizationAlias": "RNE"
  },
  {
   "friendlyName": "1898_Republic of Texas",
@@ -8953,7 +8953,7 @@
    "USA"
   ],
   "referenceAlias": "TEX",
-  "localizationAlias": "1898_TEX"
+  "localizationAlias": "TEX"
  },
  {
   "friendlyName": "1898_Republic of the Congo",
@@ -8993,7 +8993,7 @@
    "COG"
   ],
   "referenceAlias": "COR",
-  "localizationAlias": "1898_COR"
+  "localizationAlias": "COR"
  },
  {
   "friendlyName": "1898_Republic of the Moluccas",
@@ -9030,7 +9030,7 @@
    "CHN"
   ],
   "referenceAlias": "RMO",
-  "localizationAlias": "1898_RMO"
+  "localizationAlias": "RMO"
  },
  {
   "friendlyName": "1898_Republic of the Ryukus",
@@ -9067,7 +9067,7 @@
    "USA"
   ],
   "referenceAlias": "RYU",
-  "localizationAlias": "1898_RYU"
+  "localizationAlias": "RYU"
  },
  {
   "friendlyName": "1898_Republic of Vietnam",
@@ -9104,7 +9104,7 @@
    "USA"
   ],
   "referenceAlias": "SVN",
-  "localizationAlias": "1898_SVN"
+  "localizationAlias": "SVN"
  },
  {
   "friendlyName": "1898_Republic of West Papua",
@@ -9141,7 +9141,7 @@
    "CHN"
   ],
   "referenceAlias": "RWP",
-  "localizationAlias": "1898_RWP"
+  "localizationAlias": "RWP"
  },
  {
   "friendlyName": "1898_Rio Bravo",
@@ -9178,7 +9178,7 @@
    "USA"
   ],
   "referenceAlias": "RIO",
-  "localizationAlias": "1898_RIO"
+  "localizationAlias": "RIO"
  },
  {
   "friendlyName": "1898_Romania",
@@ -9218,7 +9218,7 @@
    "ROU"
   ],
   "referenceAlias": "ROM",
-  "localizationAlias": "1898_ROM",
+  "localizationAlias": "ROM",
   "initialGDP": 13700895944.0,
   "cohesion": 3.0,
   "unrest": 2.5,
@@ -9271,7 +9271,7 @@
    "RUS"
   ],
   "referenceAlias": "ROS",
-  "localizationAlias": "1898_ROS"
+  "localizationAlias": "ROS"
  },
  {
   "friendlyName": "1898_Russia",
@@ -9313,7 +9313,7 @@
    "RUS"
   ],
   "referenceAlias": "RUS",
-  "localizationAlias": "1898_RUS",
+  "localizationAlias": "RUS",
   "initialGDP": 263742246919.0,
   "cohesion": 2.0,
   "unrest": 3.5,
@@ -9371,7 +9371,7 @@
    "RWA"
   ],
   "referenceAlias": "RWB",
-  "localizationAlias": "1898_RWB"
+  "localizationAlias": "RWB"
  },
  {
   "friendlyName": "1898_Sahrawi",
@@ -9408,7 +9408,7 @@
    "RUS"
   ],
   "referenceAlias": "SAH",
-  "localizationAlias": "1898_SAH"
+  "localizationAlias": "SAH"
  },
  {
   "friendlyName": "1898_Sakha",
@@ -9445,7 +9445,7 @@
    "RUS"
   ],
   "referenceAlias": "SAK",
-  "localizationAlias": "1898_SAK"
+  "localizationAlias": "SAK"
  },
  {
   "friendlyName": "1898_Sao Paulo",
@@ -9482,7 +9482,7 @@
    "CHN"
   ],
   "referenceAlias": "SAO",
-  "localizationAlias": "1898_SAO"
+  "localizationAlias": "SAO"
  },
  {
   "friendlyName": "1898_Sao Tome and Principe",
@@ -9522,7 +9522,7 @@
    "STP"
   ],
   "referenceAlias": "STP",
-  "localizationAlias": "1898_STP"
+  "localizationAlias": "STP"
  },
  {
   "friendlyName": "1898_Saudi Arabia",
@@ -9564,7 +9564,7 @@
    "SAU"
   ],
   "referenceAlias": "SAU",
-  "localizationAlias": "1898_SAU"
+  "localizationAlias": "SAU"
  },
  {
   "friendlyName": "1898_Scotland",
@@ -9601,7 +9601,7 @@
    "EUA"
   ],
   "referenceAlias": "SCT",
-  "localizationAlias": "1898_SCT"
+  "localizationAlias": "SCT"
  },
  {
   "friendlyName": "1898_Senegal",
@@ -9642,7 +9642,7 @@
    "SEN"
   ],
   "referenceAlias": "SEG",
-  "localizationAlias": "1898_SEG"
+  "localizationAlias": "SEG"
  },
  {
   "friendlyName": "1898_Serbia",
@@ -9684,7 +9684,7 @@
    "SRB"
   ],
   "referenceAlias": "SER",
-  "localizationAlias": "1898_SER",
+  "localizationAlias": "SER",
   "initialGDP": 5137835979.0,
   "cohesion": 3.5,
   "unrest": 3.0,
@@ -9740,7 +9740,7 @@
    "SYC"
   ],
   "referenceAlias": "SYC",
-  "localizationAlias": "1898_SYC"
+  "localizationAlias": "SYC"
  },
  {
   "friendlyName": "1898_Shaangan",
@@ -9777,7 +9777,7 @@
    "CHN"
   ],
   "referenceAlias": "SHG",
-  "localizationAlias": "1898_SHG"
+  "localizationAlias": "SHG"
  },
  {
   "friendlyName": "1898_Siberia",
@@ -9814,7 +9814,7 @@
    "CHN"
   ],
   "referenceAlias": "SIB",
-  "localizationAlias": "1898_SIB"
+  "localizationAlias": "SIB"
  },
  {
   "friendlyName": "1898_Sichuan",
@@ -9851,7 +9851,7 @@
    "CHN"
   ],
   "referenceAlias": "SCH",
-  "localizationAlias": "1898_SCH"
+  "localizationAlias": "SCH"
  },
  {
   "friendlyName": "1898_Sicily",
@@ -9888,7 +9888,7 @@
    "EUA"
   ],
   "referenceAlias": "SIC",
-  "localizationAlias": "1898_SIC"
+  "localizationAlias": "SIC"
  },
  {
   "friendlyName": "1898_Sierra Leone",
@@ -9928,7 +9928,7 @@
    "SLE"
   ],
   "referenceAlias": "SLE",
-  "localizationAlias": "1898_SLE"
+  "localizationAlias": "SLE"
  },
  {
   "friendlyName": "1898_Silesia",
@@ -9965,7 +9965,7 @@
    "EUA"
   ],
   "referenceAlias": "SIL",
-  "localizationAlias": "1898_SIL"
+  "localizationAlias": "SIL"
  },
  {
   "friendlyName": "1898_Sindh",
@@ -10002,7 +10002,7 @@
    "CHN"
   ],
   "referenceAlias": "SIN",
-  "localizationAlias": "1898_SIN"
+  "localizationAlias": "SIN"
  },
  {
   "friendlyName": "1898_Singapore",
@@ -10042,7 +10042,7 @@
    "SGP"
   ],
   "referenceAlias": "SGP",
-  "localizationAlias": "1898_SGP"
+  "localizationAlias": "SGP"
  },
  {
   "friendlyName": "1898_Slovakia",
@@ -10082,7 +10082,7 @@
    "SVK"
   ],
   "referenceAlias": "SLO",
-  "localizationAlias": "1898_SLO"
+  "localizationAlias": "SLO"
  },
  {
   "friendlyName": "1898_Slovenia",
@@ -10122,7 +10122,7 @@
    "SVN"
   ],
   "referenceAlias": "SLV",
-  "localizationAlias": "1898_SLV"
+  "localizationAlias": "SLV"
  },
  {
   "friendlyName": "1898_Somalia",
@@ -10162,7 +10162,7 @@
    "SOM"
   ],
   "referenceAlias": "SOM",
-  "localizationAlias": "1898_SOM"
+  "localizationAlias": "SOM"
  },
  {
   "friendlyName": "1898_Somaliland",
@@ -10199,7 +10199,7 @@
    "CHN"
   ],
   "referenceAlias": "SOL",
-  "localizationAlias": "1898_SOL"
+  "localizationAlias": "SOL"
  },
  {
   "friendlyName": "1898_South Africa",
@@ -10241,7 +10241,7 @@
    "ZAF"
   ],
   "referenceAlias": "ZAF",
-  "localizationAlias": "1898_ZAF"
+  "localizationAlias": "ZAF"
  },
  {
   "friendlyName": "1898_South Korea",
@@ -10283,7 +10283,7 @@
    "KOR"
   ],
   "referenceAlias": "KOR",
-  "localizationAlias": "1898_KOR",
+  "localizationAlias": "KOR",
   "initialGDP": 10275671958.0,
   "cohesion": 4.0,
   "unrest": 3.5,
@@ -10336,7 +10336,7 @@
    "CHN"
   ],
   "referenceAlias": "SPE",
-  "localizationAlias": "1898_SPE"
+  "localizationAlias": "SPE"
  },
  {
   "friendlyName": "1898_South Sudan",
@@ -10376,7 +10376,7 @@
    "SSD"
   ],
   "referenceAlias": "SSD",
-  "localizationAlias": "1898_SSD"
+  "localizationAlias": "SSD"
  },
  {
   "friendlyName": "1898_South Yemen",
@@ -10413,7 +10413,7 @@
    "RUS"
   ],
   "referenceAlias": "YMS",
-  "localizationAlias": "1898_YMS"
+  "localizationAlias": "YMS"
  },
  {
   "friendlyName": "1898_Spain",
@@ -10453,7 +10453,7 @@
    "ESP"
   ],
   "referenceAlias": "ESP",
-  "localizationAlias": "1898_ESP",
+  "localizationAlias": "ESP",
   "initialGDP": 77067539684.0,
   "cohesion": 3.0,
   "unrest": 4.0,
@@ -10509,7 +10509,7 @@
    "LKA"
   ],
   "referenceAlias": "LKA",
-  "localizationAlias": "1898_LKA"
+  "localizationAlias": "LKA"
  },
  {
   "friendlyName": "1898_Sudan",
@@ -10549,7 +10549,7 @@
    "SDN"
   ],
   "referenceAlias": "SDN",
-  "localizationAlias": "1898_SDN"
+  "localizationAlias": "SDN"
  },
  {
   "friendlyName": "1898_Sul Brazil",
@@ -10586,7 +10586,7 @@
    "CHN"
   ],
   "referenceAlias": "SUB",
-  "localizationAlias": "1898_SUB"
+  "localizationAlias": "SUB"
  },
  {
   "friendlyName": "1898_Sumatra",
@@ -10623,7 +10623,7 @@
    "CHN"
   ],
   "referenceAlias": "SUM",
-  "localizationAlias": "1898_SUM"
+  "localizationAlias": "SUM"
  },
  {
   "friendlyName": "1898_Suriname",
@@ -10663,7 +10663,7 @@
    "SUR"
   ],
   "referenceAlias": "SUR",
-  "localizationAlias": "1898_SUR"
+  "localizationAlias": "SUR"
  },
  {
   "friendlyName": "1898_Sweden",
@@ -10705,7 +10705,7 @@
    "SWE"
   ],
   "referenceAlias": "SCA",
-  "localizationAlias": "1898_SCA",
+  "localizationAlias": "SCA",
   "initialGDP": 18838731923.0,
   "cohesion": 3.5,
   "unrest": 1.5,
@@ -10761,7 +10761,7 @@
    "CHE"
   ],
   "referenceAlias": "SWI",
-  "localizationAlias": "1898_SWI",
+  "localizationAlias": "SWI",
   "initialGDP": 20551343916.0,
   "cohesion": 4.0,
   "unrest": 0.5,
@@ -10817,7 +10817,7 @@
    "SYR"
   ],
   "referenceAlias": "SYR",
-  "localizationAlias": "1898_SYR"
+  "localizationAlias": "SYR"
  },
  {
   "friendlyName": "1898_Taiwan",
@@ -10859,7 +10859,7 @@
    "TWN"
   ],
   "referenceAlias": "TWN",
-  "localizationAlias": "1898_TWN"
+  "localizationAlias": "TWN"
  },
  {
   "friendlyName": "1898_Tajikistan",
@@ -10899,7 +10899,7 @@
    "TJK"
   ],
   "referenceAlias": "TJK",
-  "localizationAlias": "1898_TJK"
+  "localizationAlias": "TJK"
  },
  {
   "friendlyName": "1898_Tanzania",
@@ -10941,7 +10941,7 @@
    "TZA"
   ],
   "referenceAlias": "TZA",
-  "localizationAlias": "1898_TZA"
+  "localizationAlias": "TZA"
  },
  {
   "friendlyName": "1898_Tatarstan",
@@ -10978,7 +10978,7 @@
    "RUS"
   ],
   "referenceAlias": "TAR",
-  "localizationAlias": "1898_TAR"
+  "localizationAlias": "TAR"
  },
  {
   "friendlyName": "1898_Te Waipounamu",
@@ -11015,7 +11015,7 @@
    "EUA"
   ],
   "referenceAlias": "TEW",
-  "localizationAlias": "1898_TEW"
+  "localizationAlias": "TEW"
  },
  {
   "friendlyName": "1898_Thailand",
@@ -11057,7 +11057,7 @@
    "THA"
   ],
   "referenceAlias": "THA",
-  "localizationAlias": "1898_THA",
+  "localizationAlias": "THA",
   "initialGDP": 8563059965.0,
   "cohesion": 4.0,
   "unrest": 1.5,
@@ -11110,7 +11110,7 @@
    "RUS"
   ],
   "referenceAlias": "ALN",
-  "localizationAlias": "1898_ALN"
+  "localizationAlias": "ALN"
  },
  {
   "friendlyName": "1898_Tibet",
@@ -11147,7 +11147,7 @@
    "CHN"
   ],
   "referenceAlias": "TBT",
-  "localizationAlias": "1898_TBT"
+  "localizationAlias": "TBT"
  },
  {
   "friendlyName": "1898_Tigray Nation",
@@ -11184,7 +11184,7 @@
    "CHN"
   ],
   "referenceAlias": "TIG",
-  "localizationAlias": "1898_TIG"
+  "localizationAlias": "TIG"
  },
  {
   "friendlyName": "1898_Timor-Leste",
@@ -11224,7 +11224,7 @@
    "TLS"
   ],
   "referenceAlias": "TLS",
-  "localizationAlias": "1898_TLS"
+  "localizationAlias": "TLS"
  },
  {
   "friendlyName": "1898_Togo",
@@ -11264,7 +11264,7 @@
    "TGO"
   ],
   "referenceAlias": "TGO",
-  "localizationAlias": "1898_TGO"
+  "localizationAlias": "TGO"
  },
  {
   "friendlyName": "1898_Transylvania",
@@ -11301,7 +11301,7 @@
    "EUA"
   ],
   "referenceAlias": "TRA",
-  "localizationAlias": "1898_TRA"
+  "localizationAlias": "TRA"
  },
  {
   "friendlyName": "1898_Tunisia",
@@ -11341,7 +11341,7 @@
    "TUN"
   ],
   "referenceAlias": "TUN",
-  "localizationAlias": "1898_TUN"
+  "localizationAlias": "TUN"
  },
  {
   "friendlyName": "1898_Turkey",
@@ -11383,7 +11383,7 @@
    "TUR"
   ],
   "referenceAlias": "TUR",
-  "localizationAlias": "1898_TUR",
+  "localizationAlias": "TUR",
   "initialGDP": 68504479719.0,
   "cohesion": 1.0,
   "unrest": 4.0,
@@ -11439,7 +11439,7 @@
    "TKM"
   ],
   "referenceAlias": "TKM",
-  "localizationAlias": "1898_TKM"
+  "localizationAlias": "TKM"
  },
  {
   "friendlyName": "1898_Uganda",
@@ -11479,7 +11479,7 @@
    "UGA"
   ],
   "referenceAlias": "UGA",
-  "localizationAlias": "1898_UGA"
+  "localizationAlias": "UGA"
  },
  {
   "friendlyName": "1898_Ukraine",
@@ -11519,7 +11519,7 @@
    "UKR"
   ],
   "referenceAlias": "UKR",
-  "localizationAlias": "1898_UKR"
+  "localizationAlias": "UKR"
  },
  {
   "friendlyName": "1898_United Arab Emirates",
@@ -11559,7 +11559,7 @@
    "ARE"
   ],
   "referenceAlias": "UAE",
-  "localizationAlias": "1898_UAE"
+  "localizationAlias": "UAE"
  },
  {
   "friendlyName": "1898_United Kingdom",
@@ -11603,7 +11603,7 @@
    "IMN"
   ],
   "referenceAlias": "GBR",
-  "localizationAlias": "1898_GBR",
+  "localizationAlias": "GBR",
   "initialGDP": 315120606708.0,
   "cohesion": 4.0,
   "unrest": 1.0,
@@ -11656,7 +11656,7 @@
    "CHN"
   ],
   "referenceAlias": "UNB",
-  "localizationAlias": "1898_UNB"
+  "localizationAlias": "UNB"
  },
  {
   "friendlyName": "1898_United States of America",
@@ -11699,7 +11699,7 @@
    "PRI"
   ],
   "referenceAlias": "USA",
-  "localizationAlias": "1898_USA",
+  "localizationAlias": "USA",
   "initialGDP": 534334941809.0,
   "cohesion": 3.0,
   "unrest": 2.0,
@@ -11752,7 +11752,7 @@
    "RUS"
   ],
   "referenceAlias": "URL",
-  "localizationAlias": "1898_URL"
+  "localizationAlias": "URL"
  },
  {
   "friendlyName": "1898_Uruguay",
@@ -11792,7 +11792,7 @@
    "URY"
   ],
   "referenceAlias": "URY",
-  "localizationAlias": "1898_URY",
+  "localizationAlias": "URY",
   "initialGDP": 4281529982.0,
   "cohesion": 3.5,
   "unrest": 2.0,
@@ -11848,7 +11848,7 @@
    "UZB"
   ],
   "referenceAlias": "UZB",
-  "localizationAlias": "1898_UZB"
+  "localizationAlias": "UZB"
  },
  {
   "friendlyName": "1898_Venezuela",
@@ -11888,7 +11888,7 @@
    "VEN"
   ],
   "referenceAlias": "VEN",
-  "localizationAlias": "1898_VEN",
+  "localizationAlias": "VEN",
   "initialGDP": 3425223986.0,
   "cohesion": 2.0,
   "unrest": 4.0,
@@ -11944,7 +11944,7 @@
    "VNM"
   ],
   "referenceAlias": "VNM",
-  "localizationAlias": "1898_VNM"
+  "localizationAlias": "VNM"
  },
  {
   "friendlyName": "1898_Wales",
@@ -11981,7 +11981,7 @@
    "EUA"
   ],
   "referenceAlias": "WAL",
-  "localizationAlias": "1898_WAL"
+  "localizationAlias": "WAL"
  },
  {
   "friendlyName": "1898_Waziristan",
@@ -12018,7 +12018,7 @@
    "CHN"
   ],
   "referenceAlias": "WAZ",
-  "localizationAlias": "1898_WAZ"
+  "localizationAlias": "WAZ"
  },
  {
   "friendlyName": "1898_West Germany",
@@ -12055,7 +12055,7 @@
    "EUA"
   ],
   "referenceAlias": "WGA",
-  "localizationAlias": "1898_WGA"
+  "localizationAlias": "WGA"
  },
  {
   "friendlyName": "1898_Western Canada",
@@ -12092,7 +12092,7 @@
    "USA"
   ],
   "referenceAlias": "WCA",
-  "localizationAlias": "1898_WCA"
+  "localizationAlias": "WCA"
  },
  {
   "friendlyName": "1898_Westralia",
@@ -12129,7 +12129,7 @@
    "CHN"
   ],
   "referenceAlias": "WES",
-  "localizationAlias": "1898_WES"
+  "localizationAlias": "WES"
  },
  {
   "friendlyName": "1898_Yemen",
@@ -12169,7 +12169,7 @@
    "YEM"
   ],
   "referenceAlias": "YEM",
-  "localizationAlias": "1898_YEM"
+  "localizationAlias": "YEM"
  },
  {
   "friendlyName": "1898_Yucatán",
@@ -12206,7 +12206,7 @@
    "USA"
   ],
   "referenceAlias": "YUC",
-  "localizationAlias": "1898_YUC"
+  "localizationAlias": "YUC"
  },
  {
   "friendlyName": "1898_Yungui",
@@ -12243,7 +12243,7 @@
    "CHN"
   ],
   "referenceAlias": "YUN",
-  "localizationAlias": "1898_YUN"
+  "localizationAlias": "YUN"
  },
  {
   "friendlyName": "1898_Zambia",
@@ -12283,7 +12283,7 @@
    "ZMB"
   ],
   "referenceAlias": "ZMB",
-  "localizationAlias": "1898_ZMB"
+  "localizationAlias": "ZMB"
  },
  {
   "friendlyName": "1898_Zanzibar",
@@ -12320,7 +12320,7 @@
    "CHN"
   ],
   "referenceAlias": "ZAN",
-  "localizationAlias": "1898_ZAN"
+  "localizationAlias": "ZAN"
  },
  {
   "friendlyName": "1898_Zimbabwe",
@@ -12360,6 +12360,6 @@
    "ZWE"
   ],
   "referenceAlias": "ZWE",
-  "localizationAlias": "1898_ZWE"
+  "localizationAlias": "ZWE"
  }
 ]

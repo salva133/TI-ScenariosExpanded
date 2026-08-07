@@ -1,6 +1,7 @@
-War for our World - Startszenario 1. Januar 1898 fuer Terra Invicta
-===================================================================
-Version 1.1.0
+1898 - War for our World
+Zwei Startszenarien zum 1. Januar 1898 fuer Terra Invicta
+=========================================================
+Version 1.5.0
 
 Installation
 ------------
@@ -8,7 +9,17 @@ Diesen Ordner nach
   ...\Steam\steamapps\common\Terra Invicta\Mods\Enabled\WarForOurWorld\
 kopieren, Spiel neu starten, im Startbildschirm unter Mods "Use Mods"
 aktivieren und erneut neu starten. Das Szenario erscheint dann im
-Neues-Spiel-Bildschirm unter "Szenario" als "War for our World".
+Neues-Spiel-Bildschirm unter "Szenario". Der Mod bringt zwei Eintraege mit:
+
+  1898 - War for our World
+      Das Standardszenario. Ort des Alien-Hauptquartiers bestimmt das Spiel.
+
+  1898 - War for our World from Mars
+      Gleiche Welt, aber die Invasoren kommen wie bei Wells vom Mars. Ihr
+      Hauptquartier liegt auf dem Olympus Mons, ihre Station im niedrigen
+      Marsorbit. Beide Szenarien teilen sich Nationen, Regionen, Armeen und
+      Startzeitpunkt; sie unterscheiden sich ausschliesslich in diesen
+      beiden Habitaten.
 
 Was der Mod aendert
 -------------------
@@ -69,3 +80,41 @@ Bekannte Einschraenkungen
   duerfen.
 - Foederationsnamen werden im Spiel nicht lokalisiert; das gilt
   ebenso fuer die Foederationen des Basisspiels.
+- Das Szenario nutzt nicht die zusaetzlichen Zeitsteuerungsfelder des
+  Dark-Skies-DLC (alienQuietDuration_years, alienProgressionModifier und
+  aehnliche). Die Aliens gehen daher im Standardtempo vor.
+
+Aenderungen in 1.5.0
+--------------------
+- Zweites Szenario "1898 - War for our World from Mars". Hauptquartier und
+  Station der Aliens sind Kopien der Spielvorlagen, denen ein fester Ort
+  zugewiesen wurde: habSite MarsSite6 fuer die Basis, orbitTemplateName
+  LowMarsOrbit fuer die Station. Im Standardszenario sind beide Felder leer,
+  das Spiel waehlt den Ort dann selbst.
+- Der Gegner ist in der Marsvariante von Beginn an ortsbekannt und deutlich
+  naeher an der Erde. Das duerfte den Verlauf erheblich veraendern, in
+  welche Richtung, muss sich im Spiel zeigen.
+
+Aenderungen in 1.4.0
+--------------------
+- Das Hauptquartier der Aliens und ihre Station waren nicht enthalten. Die
+  Habitatliste des Szenarios war leer, weil es 1898 keine menschlichen
+  Habitate gibt; AlienHQ und AlienHQStation gehoeren aber in jedes Szenario.
+  Ohne sie haetten die Aliens keine Basis gehabt.
+- Die Lokalisierung folgt jetzt dem Muster des Dark-Skies-DLC. Statt eines
+  eigenen Namenssatzes fuer alle 295 Nationen ueber praefixierte Aliase
+  werden nur die 52 abweichenden Staaten ueber scenarioLocalizationPostfix
+  ".1898" ueberschrieben. Alle uebrigen behalten ihren gewohnten Namen.
+- tutorialAllowed wird ausdruecklich auf false gesetzt.
+
+Aenderungen in 1.3.0
+--------------------
+- Szenario und Mod heissen jetzt "1898 - War for our World". Die internen
+  Bezeichner bleiben unveraendert, damit laufende Partien weiter laden.
+
+Aenderungen in 1.2.0
+--------------------
+- Die russische Besetzung von Donezk wurde entfernt. Sie stammt aus dem
+  Basisspiel und beginnt erst 2014.
+- Hauptstadtansprueche werden nicht mehr beschnitten. Das Feld capitalClaim
+  bezeichnet die angestrebte, nicht die gehaltene Hauptstadt.
