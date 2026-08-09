@@ -9,7 +9,7 @@ The mod adds scenarios and changes nothing in existing campaigns. Every record
 carries a scenario prefix and is appended to the base data, so the 2022, 2026,
 2030 and 2070 scenarios — and the Dark Skies scenarios — remain untouched.
 
-**Version 2.5.0** · Terra Invicta 1.0.51
+**Version 2.6.0** · Terra Invicta 1.0.51
 
 ## Installation
 
@@ -48,7 +48,7 @@ The year H. G. Wells published *The War of the Worlds*. 52 sovereign states,
 World economic output is two percent of the present-day figure, distributed by
 the 1900 GDP shares from the Maddison Project. World population 1.68 billion. No
 nuclear weapons, no space budget, no human habitats. Miltech runs 0.2 to 1.6
-instead of 4.2 to 4.5. 295 ppm of CO₂, sea level 20 cm below today's.
+instead of 4.2 to 4.5. 295 ppm of CO₂ and a sea level 21 cm below today's.
 
 Spain still holds Cuba, Puerto Rico and the Philippines: the start date is
 1 January, three months before the Spanish-American War breaks out.
@@ -125,6 +125,65 @@ with partition five weeks after the scenario starts.
 The Soviet Union is dark red and flies the USSR flag from the base game's flag
 bundle. Afghanistan and Yemen use their period flags.
 
+---
+
+## The environment
+
+### The atmosphere
+
+The greenhouse gases are the annual values of the historical series the climate
+models are calibrated on — Law Dome ice cores spliced to the instrumental record,
+as compiled for MAGICC and later for CMIP6.
+
+| | 1898 | 1947 |
+| --- | ---: | ---: |
+| CO₂ | 295.0 ppm | 310.0 ppm |
+| CH₄ | 0.88 ppm | 1.13 ppm |
+| N₂O | 0.28 ppm | 0.288 ppm |
+| Stratospheric aerosols | 0 | 0 |
+
+Both years are volcanically quiet. Krakatoa had cleared the stratosphere long
+before 1898, and Santa María and Katmai were still to come; 1947 sits in the long
+gap between Katmai and Agung. Neither start carries excess aerosols.
+
+### The sea
+
+The game does not measure its sea level anomaly against the present. The 2022
+campaign starts at +24 cm, which is the rise since roughly 1880 — the same
+baseline the tide-gauge reconstructions use. 1898 therefore starts at +3 cm and
+1947 at +9 cm. Both scenarios previously carried the distance to the present day
+instead, which put the water some 20 cm too low.
+
+### Sustainability
+
+Every nation carries a sustainability value, the divisor of its pollution
+multiplier: the lower it is, the more greenhouse gas the economy emits for its
+size. The base game runs from about 0 to 3; at 10 a nation would take gas back
+out of the atmosphere, which nothing in these two periods comes close to.
+
+The values here are the carbon intensity of each nation as it is actually
+constituted in the scenario, colonies included. For every region a nation holds,
+the fossil and land-use emissions of the modern country that region belongs to
+are taken from the Global Carbon Budget for the start year, split by population,
+and summed; the total is divided by the nation's GDP. That ratio is scaled
+against the world figure for 2022 and compressed by a square root, because the
+raw spread runs to two orders of magnitude and the game's scale does not.
+
+The result is that the dirty nations are not the industrial ones. Britain burnt
+a third of the world's coal in 1898 and still lands at 0.3, the same as Brazil,
+because the measure is emissions against the size of the economy — and the
+economies clearing rainforest for a fraction of Britain's output come out worse.
+Colombia, Nicaragua and Bolivia sit at 0.2, the Ottoman Empire and Bulgaria at
+1.6. Oman and Yemen reach the top of the band at 3.0, having neither coal to
+burn nor forest to clear. The base game orders its present-day nations the same way, which is why
+China and much of Africa start below the European figures.
+
+The world averages 0.54 in 1898 and 0.53 in 1947, against roughly 1.0 today.
+Together with the historical GDP figures that puts world emissions in 1898 at
+about four percent of the present, which is where the fossil record has them.
+The flat zero the mod shipped before meant every nation emitted at the maximum
+multiplier the game allows.
+
 ## Known limitations
 
 - Organisations, councillors and portraits come from the present-day set,
@@ -151,6 +210,22 @@ warns on any duplicate identifier. `checkall.py` then validates the merged mod
 against the base game's templates.
 
 ## Changelog
+
+### 2.6.0
+
+- Corrected the greenhouse gases. N₂O stood at 0.29 ppm in 1898, which is the
+  concentration of 1953 and also the exact threshold above which the game counts
+  the gas at all; the ice cores give 0.2797 ppm for that year. CH₄ was 20 to
+  25 ppb high in both scenarios. CO₂ was already right in both.
+- Corrected the sea level. The game counts its anomaly from about 1880, not from
+  the present day: the 2022 campaign starts at +24 cm. 1898 therefore stands at
+  +3 cm and 1947 at +9 cm, where the mod had −20 and −3. The two old values were
+  not even consistent with each other — they were 17 cm apart, where the
+  reconstructions have the two years 6 cm apart.
+- Every nation now carries a sustainability value of its own, computed from the
+  fossil and land-use emissions of the ground it holds against its GDP. They ran
+  a flat 0.0 before, which meant every nation on the map emitted at the highest
+  pollution multiplier the game has.
 
 ### 2.5.0
 
