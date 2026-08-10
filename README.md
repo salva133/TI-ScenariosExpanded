@@ -26,7 +26,7 @@ more. Both scenarios then appear under **Scenario**.
 
 | Scenario | Starts | Landing site |
 | --- | --- | --- |
-| 1899 — War for our World | 18 August 1899 | the English Midlands |
+| 1899 — War for our World | 31 August 1899 | the English Midlands |
 | 1947 — Roswell | 8 July 1947 | New Mexico |
 
 ---
@@ -89,11 +89,17 @@ point.
 
 Terra Invicta has no template for alien ground units; they exist only at
 runtime. The only way to place one is the base game's own effect
-`Effect_SpawnMegafaunaArmy`, whose target is the region the event fires on. The
-event is pinned to that one region three times over: by name (`1899_England`),
-by a scenario tag that no other start carries, and by a latitude and longitude
-window that matches no other region on the map. It is also fenced to the months
-from the start date to the end of 1899. It cannot appear anywhere else.
+`Effect_SpawnMegafaunaArmy`, whose target is the region the event fires on.
+
+The event rides the ordinary monthly pulse: narrative events are evaluated in
+`NarrativeEventsMonthlyUpdate` and nowhere else, so the cylinder comes down with
+the first pulse after the campaign begins rather than on the opening day. It
+carries no year or month window and no cooldowns, so nothing can defer it beyond
+that first pulse.
+
+It is pinned to England by the name of its map region, the way
+`event_UnfriendlyLocals` pins itself to Australia, and to this scenario by a tag
+no other start carries.
 
 ### 1947 — Roswell
 
@@ -276,7 +282,8 @@ against the base game's templates.
 ### 2.8.0
 
 - Added the narrative event *The Thing in the Common*, which drops alien
-  megafauna into England in the opening weeks. It has a single option: when it fires
+  megafauna into England with the first monthly pulse of the campaign. It has a
+  single option: when it fires
   the landing, the deputation and the first casualties are already past, and the
   council is told rather than asked. Three independent restrictions keep it in
   that scenario and that region, and the event is fenced to the first month.
