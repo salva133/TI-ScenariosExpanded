@@ -1,7 +1,7 @@
 [
  {
-  "friendlyName": "1898_Aceh",
-  "dataName": "1898_ACE",
+  "friendlyName": "1899_Aceh",
+  "dataName": "1899_ACE",
   "flagResource": "nationflags/Aceh",
   "color32": {
    "r": 229,
@@ -37,8 +37,8 @@
   "localizationAlias": "ACE"
  },
  {
-  "friendlyName": "1898_Afghanistan",
-  "dataName": "1898_AFG",
+  "friendlyName": "1899_Afghanistan",
+  "dataName": "1899_AFG",
   "flagResource": "nationflags/Afghanistan",
   "color32": {
    "r": 153,
@@ -93,8 +93,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Alaska",
-  "dataName": "1898_AKA",
+  "friendlyName": "1899_Alaska",
+  "dataName": "1899_AKA",
   "flagResource": "nationflags/Alaska",
   "color32": {
    "r": 223,
@@ -130,8 +130,8 @@
   "localizationAlias": "AKA"
  },
  {
-  "friendlyName": "1898_Albania",
-  "dataName": "1898_SBK",
+  "friendlyName": "1899_Albania",
+  "dataName": "1899_SBK",
   "flagResource": "nationflags/Albania",
   "color32": {
    "r": 145,
@@ -170,8 +170,8 @@
   "localizationAlias": "SBK"
  },
  {
-  "friendlyName": "1898_Algeria",
-  "dataName": "1898_DZA",
+  "friendlyName": "1899_Algeria",
+  "dataName": "1899_DZA",
   "flagResource": "nationflags/Algeria",
   "unionFlagResource": "nationflags/Algeria",
   "unionTrigger": 3,
@@ -212,8 +212,8 @@
   "localizationAlias": "DZA"
  },
  {
-  "friendlyName": "1898_Ambazonia",
-  "dataName": "1898_AMB",
+  "friendlyName": "1899_Ambazonia",
+  "dataName": "1899_AMB",
   "flagResource": "nationflags/Ambazonia",
   "color32": {
    "r": 0,
@@ -249,8 +249,8 @@
   "localizationAlias": "AMB"
  },
  {
-  "friendlyName": "1898_Angola",
-  "dataName": "1898_AGO",
+  "friendlyName": "1899_Angola",
+  "dataName": "1899_AGO",
   "flagResource": "nationflags/Angola",
   "unionFlagResource": "nationflags/Angola",
   "unionTrigger": 3,
@@ -291,8 +291,8 @@
   "localizationAlias": "AGO"
  },
  {
-  "friendlyName": "1898_Arewa",
-  "dataName": "1898_ARE",
+  "friendlyName": "1899_Arewa",
+  "dataName": "1899_ARE",
   "flagResource": "nationflags/Arewa",
   "color32": {
    "r": 196,
@@ -328,8 +328,8 @@
   "localizationAlias": "ARE"
  },
  {
-  "friendlyName": "1898_Argentina",
-  "dataName": "1898_ARG",
+  "friendlyName": "1899_Argentina",
+  "dataName": "1899_ARG",
   "flagResource": "nationflags/Argentina",
   "color32": {
    "r": 116,
@@ -384,8 +384,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Armenia",
-  "dataName": "1898_ARM",
+  "friendlyName": "1899_Armenia",
+  "dataName": "1899_ARM",
   "flagResource": "nationflags/Armenia",
   "color32": {
    "r": 0,
@@ -424,8 +424,8 @@
   "localizationAlias": "ARM"
  },
  {
-  "friendlyName": "1898_Assam",
-  "dataName": "1898_ASM",
+  "friendlyName": "1899_Assam",
+  "dataName": "1899_ASM",
   "flagResource": "nationflags/Assam",
   "color32": {
    "r": 184,
@@ -461,8 +461,8 @@
   "localizationAlias": "ASM"
  },
  {
-  "friendlyName": "1898_Atlantic Union",
-  "dataName": "1898_ATL",
+  "friendlyName": "1899_Atlantic Union",
+  "dataName": "1899_ATL",
   "flagResource": "nationflags/Atlantic_Union",
   "color32": {
    "r": 23,
@@ -498,8 +498,8 @@
   "localizationAlias": "ATL"
  },
  {
-  "friendlyName": "1898_Atzlan",
-  "dataName": "1898_ATZ",
+  "friendlyName": "1899_Atzlan",
+  "dataName": "1899_ATZ",
   "flagResource": "nationflags/Atzlan",
   "color32": {
    "r": 255,
@@ -535,8 +535,8 @@
   "localizationAlias": "ATZ"
  },
  {
-  "friendlyName": "1898_Australia",
-  "dataName": "1898_AUS",
+  "friendlyName": "1899_Australia",
+  "dataName": "1899_AUS",
   "flagResource": "nationflags/Australia",
   "unionFlagResource": "nationflags/Australia",
   "unionTrigger": 7,
@@ -577,8 +577,8 @@
   "localizationAlias": "AUS"
  },
  {
-  "friendlyName": "1898_Austria",
-  "dataName": "1898_ALP",
+  "friendlyName": "1899_Austria",
+  "dataName": "1899_ALP",
   "flagResource": "nationflags/Austria",
   "color32": {
    "r": 255,
@@ -634,8 +634,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Azawad",
-  "dataName": "1898_AZA",
+  "friendlyName": "1899_Azawad",
+  "dataName": "1899_AZA",
   "flagResource": "nationflags/Azawad",
   "color32": {
    "r": 199,
@@ -671,8 +671,8 @@
   "localizationAlias": "AZA"
  },
  {
-  "friendlyName": "1898_Azerbaijan",
-  "dataName": "1898_AZE",
+  "friendlyName": "1899_Azerbaijan",
+  "dataName": "1899_AZE",
   "flagResource": "nationflags/Azerbaijan",
   "color32": {
    "r": 133,
@@ -711,8 +711,8 @@
   "localizationAlias": "AZE"
  },
  {
-  "friendlyName": "1898_Azores",
-  "dataName": "1898_AZO",
+  "friendlyName": "1899_Azores",
+  "dataName": "1899_AZO",
   "flagResource": "nationflags/Azores",
   "color32": {
    "r": 255,
@@ -748,8 +748,8 @@
   "localizationAlias": "AZO"
  },
  {
-  "friendlyName": "1898_Baluchistan",
-  "dataName": "1898_BCH",
+  "friendlyName": "1899_Baluchistan",
+  "dataName": "1899_BCH",
   "flagResource": "nationflags/Baluchistan",
   "color32": {
    "r": 8,
@@ -785,8 +785,8 @@
   "localizationAlias": "BCH"
  },
  {
-  "friendlyName": "1898_Bangladesh",
-  "dataName": "1898_BGD",
+  "friendlyName": "1899_Bangladesh",
+  "dataName": "1899_BGD",
   "flagResource": "nationflags/Bangladesh",
   "color32": {
    "r": 220,
@@ -825,8 +825,8 @@
   "localizationAlias": "BGD"
  },
  {
-  "friendlyName": "1898_Bahamas",
-  "dataName": "1898_BAH",
+  "friendlyName": "1899_Bahamas",
+  "dataName": "1899_BAH",
   "flagResource": "nationflags/Bahamas",
   "color32": {
    "r": 255,
@@ -865,8 +865,8 @@
   "localizationAlias": "BAH"
  },
  {
-  "friendlyName": "1898_Bavaria",
-  "dataName": "1898_BAV",
+  "friendlyName": "1899_Bavaria",
+  "dataName": "1899_BAV",
   "flagResource": "nationflags/Bavaria",
   "color32": {
    "r": 237,
@@ -902,8 +902,8 @@
   "localizationAlias": "BAV"
  },
  {
-  "friendlyName": "1898_Beja Congress",
-  "dataName": "1898_BEJ",
+  "friendlyName": "1899_Beja Congress",
+  "dataName": "1899_BEJ",
   "flagResource": "nationflags/BejaCongress",
   "color32": {
    "r": 243,
@@ -939,8 +939,8 @@
   "localizationAlias": "BEJ"
  },
  {
-  "friendlyName": "1898_Belarus",
-  "dataName": "1898_BLR",
+  "friendlyName": "1899_Belarus",
+  "dataName": "1899_BLR",
   "flagResource": "nationflags/Belarus",
   "color32": {
    "r": 200,
@@ -979,8 +979,8 @@
   "localizationAlias": "BLR"
  },
  {
-  "friendlyName": "1898_Belgium",
-  "dataName": "1898_BGM",
+  "friendlyName": "1899_Belgium",
+  "dataName": "1899_BGM",
   "flagResource": "nationflags/Belgium",
   "color32": {
    "r": 192,
@@ -1036,8 +1036,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Belize",
-  "dataName": "1898_BEL",
+  "friendlyName": "1899_Belize",
+  "dataName": "1899_BEL",
   "flagResource": "nationflags/Belize",
   "color32": {
    "r": 255,
@@ -1076,8 +1076,8 @@
   "localizationAlias": "BEL"
  },
  {
-  "friendlyName": "1898_Bengal",
-  "dataName": "1898_BGL",
+  "friendlyName": "1899_Bengal",
+  "dataName": "1899_BGL",
   "flagResource": "nationflags/Bengal",
   "color32": {
    "r": 243,
@@ -1113,8 +1113,8 @@
   "localizationAlias": "BGL"
  },
  {
-  "friendlyName": "1898_Benin",
-  "dataName": "1898_BEN",
+  "friendlyName": "1899_Benin",
+  "dataName": "1899_BEN",
   "flagResource": "nationflags/Benin",
   "color32": {
    "r": 255,
@@ -1153,8 +1153,8 @@
   "localizationAlias": "BEN"
  },
  {
-  "friendlyName": "1898_Bhutan",
-  "dataName": "1898_BHU",
+  "friendlyName": "1899_Bhutan",
+  "dataName": "1899_BHU",
   "flagResource": "nationflags/Bhutan",
   "color32": {
    "r": 175,
@@ -1209,8 +1209,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Biafra",
-  "dataName": "1898_BIA",
+  "friendlyName": "1899_Biafra",
+  "dataName": "1899_BIA",
   "flagResource": "nationflags/Biafra",
   "color32": {
    "r": 243,
@@ -1246,8 +1246,8 @@
   "localizationAlias": "BIA"
  },
  {
-  "friendlyName": "1898_Bolivia",
-  "dataName": "1898_BOL",
+  "friendlyName": "1899_Bolivia",
+  "dataName": "1899_BOL",
   "flagResource": "nationflags/Bolivia",
   "unionFlagResource": "nationflags/Bolivia",
   "unionTrigger": 2,
@@ -1304,8 +1304,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Borneo",
-  "dataName": "1898_BOR",
+  "friendlyName": "1899_Borneo",
+  "dataName": "1899_BOR",
   "flagResource": "nationflags/Borneo",
   "color32": {
    "r": 200,
@@ -1341,8 +1341,8 @@
   "localizationAlias": "BOR"
  },
  {
-  "friendlyName": "1898_Bosnia and Herzegovina",
-  "dataName": "1898_BSM",
+  "friendlyName": "1899_Bosnia and Herzegovina",
+  "dataName": "1899_BSM",
   "flagResource": "nationflags/Bosnia_and_Herzegovina",
   "color32": {
    "r": 255,
@@ -1381,8 +1381,8 @@
   "localizationAlias": "BSM"
  },
  {
-  "friendlyName": "1898_Botswana",
-  "dataName": "1898_BWA",
+  "friendlyName": "1899_Botswana",
+  "dataName": "1899_BWA",
   "flagResource": "nationflags/Botswana",
   "color32": {
    "r": 210,
@@ -1421,8 +1421,8 @@
   "localizationAlias": "BWA"
  },
  {
-  "friendlyName": "1898_Brazil",
-  "dataName": "1898_BRA",
+  "friendlyName": "1899_Brazil",
+  "dataName": "1899_BRA",
   "flagResource": "nationflags/Brazil",
   "color32": {
    "r": 0,
@@ -1477,8 +1477,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Brittany",
-  "dataName": "1898_BRT",
+  "friendlyName": "1899_Brittany",
+  "dataName": "1899_BRT",
   "flagResource": "nationflags/Brittany",
   "color32": {
    "r": 209,
@@ -1514,8 +1514,8 @@
   "localizationAlias": "BRT"
  },
  {
-  "friendlyName": "1898_Brunei",
-  "dataName": "1898_BRU",
+  "friendlyName": "1899_Brunei",
+  "dataName": "1899_BRU",
   "flagResource": "nationflags/Brunei",
   "color32": {
    "r": 225,
@@ -1554,8 +1554,8 @@
   "localizationAlias": "BRU"
  },
  {
-  "friendlyName": "1898_Bulgaria",
-  "dataName": "1898_BUL",
+  "friendlyName": "1899_Bulgaria",
+  "dataName": "1899_BUL",
   "flagResource": "nationflags/Bulgaria",
   "color32": {
    "r": 0,
@@ -1610,8 +1610,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Buryatia",
-  "dataName": "1898_BUR",
+  "friendlyName": "1899_Buryatia",
+  "dataName": "1899_BUR",
   "flagResource": "nationflags/Buryatia",
   "color32": {
    "r": 124,
@@ -1647,8 +1647,8 @@
   "localizationAlias": "BUR"
  },
  {
-  "friendlyName": "1898_Burkina Faso",
-  "dataName": "1898_BKF",
+  "friendlyName": "1899_Burkina Faso",
+  "dataName": "1899_BKF",
   "flagResource": "nationflags/Burkina_Faso",
   "color32": {
    "r": 113,
@@ -1687,8 +1687,8 @@
   "localizationAlias": "BKF"
  },
  {
-  "friendlyName": "1898_Cabo Verde",
-  "dataName": "1898_CPV",
+  "friendlyName": "1899_Cabo Verde",
+  "dataName": "1899_CPV",
   "flagResource": "nationflags/Cabo_Verde",
   "color32": {
    "r": 150,
@@ -1727,8 +1727,8 @@
   "localizationAlias": "CPV"
  },
  {
-  "friendlyName": "1898_California",
-  "dataName": "1898_CAL",
+  "friendlyName": "1899_California",
+  "dataName": "1899_CAL",
   "flagResource": "nationflags/California",
   "color32": {
    "r": 194,
@@ -1764,8 +1764,8 @@
   "localizationAlias": "CAL"
  },
  {
-  "friendlyName": "1898_Caliphate",
-  "dataName": "1898_CPH",
+  "friendlyName": "1899_Caliphate",
+  "dataName": "1899_CPH",
   "flagResource": "nationflags/Caliphate",
   "color32": {
    "r": 112,
@@ -1801,8 +1801,8 @@
   "localizationAlias": "CPH"
  },
  {
-  "friendlyName": "1898_Cambodia",
-  "dataName": "1898_KHM",
+  "friendlyName": "1899_Cambodia",
+  "dataName": "1899_KHM",
   "flagResource": "nationflags/Cambodia",
   "color32": {
    "r": 137,
@@ -1841,8 +1841,8 @@
   "localizationAlias": "KHM"
  },
  {
-  "friendlyName": "1898_Cameroon",
-  "dataName": "1898_CMR",
+  "friendlyName": "1899_Cameroon",
+  "dataName": "1899_CMR",
   "flagResource": "nationflags/Cameroon",
   "unionFlagResource": "nationflags/Cameroon",
   "unionTrigger": 3,
@@ -1883,8 +1883,8 @@
   "localizationAlias": "CMR"
  },
  {
-  "friendlyName": "1898_Canada",
-  "dataName": "1898_CAN",
+  "friendlyName": "1899_Canada",
+  "dataName": "1899_CAN",
   "flagResource": "nationflags/Canada",
   "color32": {
    "r": 255,
@@ -1923,8 +1923,8 @@
   "localizationAlias": "CAN"
  },
  {
-  "friendlyName": "1898_Canary Islands",
-  "dataName": "1898_CRY",
+  "friendlyName": "1899_Canary Islands",
+  "dataName": "1899_CRY",
   "flagResource": "nationflags/CanaryIslands",
   "color32": {
    "r": 100,
@@ -1960,8 +1960,8 @@
   "localizationAlias": "CRY"
  },
  {
-  "friendlyName": "1898_Cape Republic",
-  "dataName": "1898_CAP",
+  "friendlyName": "1899_Cape Republic",
+  "dataName": "1899_CAP",
   "flagResource": "nationflags/Cape_Republic",
   "color32": {
    "r": 10,
@@ -1997,8 +1997,8 @@
   "localizationAlias": "CAP"
  },
  {
-  "friendlyName": "1898_Cascadia",
-  "dataName": "1898_CSD",
+  "friendlyName": "1899_Cascadia",
+  "dataName": "1899_CSD",
   "flagResource": "nationflags/Cascadia",
   "color32": {
    "r": 34,
@@ -2034,8 +2034,8 @@
   "localizationAlias": "CSD"
  },
  {
-  "friendlyName": "1898_Catalonia",
-  "dataName": "1898_CAT",
+  "friendlyName": "1899_Catalonia",
+  "dataName": "1899_CAT",
   "flagResource": "nationflags/Catalonia",
   "color32": {
    "r": 251,
@@ -2071,8 +2071,8 @@
   "localizationAlias": "CAT"
  },
  {
-  "friendlyName": "1898_Central African Republic",
-  "dataName": "1898_CAF",
+  "friendlyName": "1899_Central African Republic",
+  "dataName": "1899_CAF",
   "flagResource": "nationflags/Central_African_Republic",
   "color32": {
    "r": 210,
@@ -2111,8 +2111,8 @@
   "localizationAlias": "CAF"
  },
  {
-  "friendlyName": "1898_Chad",
-  "dataName": "1898_TCD",
+  "friendlyName": "1899_Chad",
+  "dataName": "1899_TCD",
   "flagResource": "nationflags/Chad",
   "color32": {
    "r": 54,
@@ -2151,8 +2151,8 @@
   "localizationAlias": "TCD"
  },
  {
-  "friendlyName": "1898_Chhattisgarh",
-  "dataName": "1898_CHA",
+  "friendlyName": "1899_Chhattisgarh",
+  "dataName": "1899_CHA",
   "flagResource": "nationflags/Chhattisgarh",
   "color32": {
    "r": 12,
@@ -2188,8 +2188,8 @@
   "localizationAlias": "CHA"
  },
  {
-  "friendlyName": "1898_Chile",
-  "dataName": "1898_CHL",
+  "friendlyName": "1899_Chile",
+  "dataName": "1899_CHL",
   "flagResource": "nationflags/Chile",
   "color32": {
    "r": 200,
@@ -2244,8 +2244,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_China",
-  "dataName": "1898_CHN",
+  "friendlyName": "1899_China",
+  "dataName": "1899_CHN",
   "flagResource": "nationflags/China",
   "unionFlagResource": "nationflags/China",
   "unionTrigger": 29,
@@ -2302,8 +2302,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Colombia",
-  "dataName": "1898_COL",
+  "friendlyName": "1899_Colombia",
+  "dataName": "1899_COL",
   "flagResource": "nationflags/Colombia",
   "unionFlagResource": "nationflags/Colombia",
   "unionTrigger": 7,
@@ -2360,8 +2360,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Congo",
-  "dataName": "1898_COD",
+  "friendlyName": "1899_Congo",
+  "dataName": "1899_COD",
   "flagResource": "nationflags/DR_Congo",
   "color32": {
    "r": 0,
@@ -2400,8 +2400,8 @@
   "localizationAlias": "COD"
  },
  {
-  "friendlyName": "1898_Costa Rica",
-  "dataName": "1898_COS",
+  "friendlyName": "1899_Costa Rica",
+  "dataName": "1899_COS",
   "flagResource": "nationflags/Costa_Rica",
   "color32": {
    "r": 152,
@@ -2456,8 +2456,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Crimea",
-  "dataName": "1898_CRI",
+  "friendlyName": "1899_Crimea",
+  "dataName": "1899_CRI",
   "flagResource": "nationflags/Crimea",
   "color32": {
    "r": 255,
@@ -2493,8 +2493,8 @@
   "localizationAlias": "CRI"
  },
  {
-  "friendlyName": "1898_Croatia",
-  "dataName": "1898_CRS",
+  "friendlyName": "1899_Croatia",
+  "dataName": "1899_CRS",
   "flagResource": "nationflags/Croatia",
   "color32": {
    "r": 220,
@@ -2533,8 +2533,8 @@
   "localizationAlias": "CRS"
  },
  {
-  "friendlyName": "1898_Cuba",
-  "dataName": "1898_CUB",
+  "friendlyName": "1899_Cuba",
+  "dataName": "1899_CUB",
   "flagResource": "nationflags/Cuba",
   "color32": {
    "r": 166,
@@ -2573,8 +2573,8 @@
   "localizationAlias": "CUB"
  },
  {
-  "friendlyName": "1898_Cyrenaica",
-  "dataName": "1898_CYE",
+  "friendlyName": "1899_Cyrenaica",
+  "dataName": "1899_CYE",
   "flagResource": "nationflags/Cyrenaica",
   "color32": {
    "r": 50,
@@ -2610,8 +2610,8 @@
   "localizationAlias": "CYE"
  },
  {
-  "friendlyName": "1898_Czechia",
-  "dataName": "1898_CZE",
+  "friendlyName": "1899_Czechia",
+  "dataName": "1899_CZE",
   "flagResource": "nationflags/Czech_Republic",
   "unionFlagResource": "nationflags/Czech_Republic",
   "unionTrigger": 2,
@@ -2652,8 +2652,8 @@
   "localizationAlias": "CZE"
  },
  {
-  "friendlyName": "1898_Darfur",
-  "dataName": "1898_DAR",
+  "friendlyName": "1899_Darfur",
+  "dataName": "1899_DAR",
   "flagResource": "nationflags/Darfur",
   "color32": {
    "r": 255,
@@ -2689,8 +2689,8 @@
   "localizationAlias": "DAR"
  },
  {
-  "friendlyName": "1898_Denmark",
-  "dataName": "1898_DEN",
+  "friendlyName": "1899_Denmark",
+  "dataName": "1899_DEN",
   "flagResource": "nationflags/Denmark",
   "color32": {
    "r": 191,
@@ -2745,8 +2745,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Djibouti",
-  "dataName": "1898_DJI",
+  "friendlyName": "1899_Djibouti",
+  "dataName": "1899_DJI",
   "flagResource": "nationflags/Djibouti",
   "color32": {
    "r": 180,
@@ -2785,8 +2785,8 @@
   "localizationAlias": "DJI"
  },
  {
-  "friendlyName": "1898_Dominican Republic",
-  "dataName": "1898_DOM",
+  "friendlyName": "1899_Dominican Republic",
+  "dataName": "1899_DOM",
   "flagResource": "nationflags/Dominican_Republic",
   "color32": {
    "r": 50,
@@ -2841,8 +2841,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Dominion of America",
-  "dataName": "1898_CSA",
+  "friendlyName": "1899_Dominion of America",
+  "dataName": "1899_CSA",
   "flagResource": "nationflags/Dominion_of_America",
   "color32": {
    "r": 203,
@@ -2878,8 +2878,8 @@
   "localizationAlias": "CSA"
  },
  {
-  "friendlyName": "1898_Donetsk",
-  "dataName": "1898_DON",
+  "friendlyName": "1899_Donetsk",
+  "dataName": "1899_DON",
   "flagResource": "nationflags/Donetsk",
   "color32": {
    "r": 126,
@@ -2915,8 +2915,8 @@
   "localizationAlias": "DON"
  },
  {
-  "friendlyName": "1898_Dravida Nadu",
-  "dataName": "1898_DVD",
+  "friendlyName": "1899_Dravida Nadu",
+  "dataName": "1899_DVD",
   "flagResource": "nationflags/Dravida_Nadu",
   "color32": {
    "r": 255,
@@ -2952,8 +2952,8 @@
   "localizationAlias": "DVD"
  },
  {
-  "friendlyName": "1898_East Turkestan",
-  "dataName": "1898_ETK",
+  "friendlyName": "1899_East Turkestan",
+  "dataName": "1899_ETK",
   "flagResource": "nationflags/East_Turkestan",
   "color32": {
    "r": 85,
@@ -2989,8 +2989,8 @@
   "localizationAlias": "ETK"
  },
  {
-  "friendlyName": "1898_Ecuador",
-  "dataName": "1898_ECU",
+  "friendlyName": "1899_Ecuador",
+  "dataName": "1899_ECU",
   "flagResource": "nationflags/Ecuador",
   "color32": {
    "r": 136,
@@ -3045,8 +3045,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Egypt",
-  "dataName": "1898_EGY",
+  "friendlyName": "1899_Egypt",
+  "dataName": "1899_EGY",
   "flagResource": "nationflags/Egypt",
   "unionFlagResource": "nationflags/Egypt",
   "unionTrigger": 4,
@@ -3087,8 +3087,8 @@
   "localizationAlias": "EGY"
  },
  {
-  "friendlyName": "1898_El Salvador",
-  "dataName": "1898_ELS",
+  "friendlyName": "1899_El Salvador",
+  "dataName": "1899_ELS",
   "flagResource": "nationflags/El_Salvador",
   "color32": {
    "r": 240,
@@ -3143,8 +3143,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Equatorial Guinea",
-  "dataName": "1898_EQG",
+  "friendlyName": "1899_Equatorial Guinea",
+  "dataName": "1899_EQG",
   "flagResource": "nationflags/Equatorial_Guinea",
   "color32": {
    "r": 175,
@@ -3183,8 +3183,8 @@
   "localizationAlias": "EQG"
  },
  {
-  "friendlyName": "1898_Eritrea",
-  "dataName": "1898_ERI",
+  "friendlyName": "1899_Eritrea",
+  "dataName": "1899_ERI",
   "flagResource": "nationflags/Eritrea",
   "color32": {
    "r": 162,
@@ -3223,8 +3223,8 @@
   "localizationAlias": "ERI"
  },
  {
-  "friendlyName": "1898_Estonia",
-  "dataName": "1898_EST",
+  "friendlyName": "1899_Estonia",
+  "dataName": "1899_EST",
   "flagResource": "nationflags/Estonia",
   "color32": {
    "r": 35,
@@ -3263,8 +3263,8 @@
   "localizationAlias": "EST"
  },
  {
-  "friendlyName": "1898_Eswatini",
-  "dataName": "1898_ESW",
+  "friendlyName": "1899_Eswatini",
+  "dataName": "1899_ESW",
   "flagResource": "nationflags/Eswatini",
   "color32": {
    "r": 60,
@@ -3303,8 +3303,8 @@
   "localizationAlias": "ESW"
  },
  {
-  "friendlyName": "1898_Ethiopia",
-  "dataName": "1898_ETH",
+  "friendlyName": "1899_Ethiopia",
+  "dataName": "1899_ETH",
   "flagResource": "nationflags/Ethiopia",
   "unionFlagResource": "nationflags/Ethiopia",
   "unionTrigger": 5,
@@ -3361,8 +3361,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Euskal Herria",
-  "dataName": "1898_BAS",
+  "friendlyName": "1899_Euskal Herria",
+  "dataName": "1899_BAS",
   "flagResource": "nationflags/EuskalHerria",
   "color32": {
    "r": 0,
@@ -3398,8 +3398,8 @@
   "localizationAlias": "BAS"
  },
  {
-  "friendlyName": "1898_Finland",
-  "dataName": "1898_FIN",
+  "friendlyName": "1899_Finland",
+  "dataName": "1899_FIN",
   "flagResource": "nationflags/Finland",
   "color32": {
    "r": 0,
@@ -3438,8 +3438,8 @@
   "localizationAlias": "FIN"
  },
  {
-  "friendlyName": "1898_First Nation",
-  "dataName": "1898_FNT",
+  "friendlyName": "1899_First Nation",
+  "dataName": "1899_FNT",
   "flagResource": "nationflags/First_Nation",
   "color32": {
    "r": 115,
@@ -3475,8 +3475,8 @@
   "localizationAlias": "FNT"
  },
  {
-  "friendlyName": "1898_France",
-  "dataName": "1898_EUA",
+  "friendlyName": "1899_France",
+  "dataName": "1899_EUA",
   "flagResource": "nationflags/France",
   "unionFlagResource": "nationflags/France",
   "unionTrigger": 5,
@@ -3535,8 +3535,8 @@
   "buildNavyIPs": 0.3
  },
  {
-  "friendlyName": "1898_Free Amazonas",
-  "dataName": "1898_FAM",
+  "friendlyName": "1899_Free Amazonas",
+  "dataName": "1899_FAM",
   "flagResource": "nationflags/Amazonas",
   "color32": {
    "r": 192,
@@ -3572,8 +3572,8 @@
   "localizationAlias": "FAM"
  },
  {
-  "friendlyName": "1898_Fujian",
-  "dataName": "1898_FUJ",
+  "friendlyName": "1899_Fujian",
+  "dataName": "1899_FUJ",
   "flagResource": "nationflags/Fujian",
   "color32": {
    "r": 10,
@@ -3609,8 +3609,8 @@
   "localizationAlias": "FUJ"
  },
  {
-  "friendlyName": "1898_Gabon",
-  "dataName": "1898_LWG",
+  "friendlyName": "1899_Gabon",
+  "dataName": "1899_LWG",
   "flagResource": "nationflags/Gabon",
   "color32": {
    "r": 188,
@@ -3649,8 +3649,8 @@
   "localizationAlias": "LWG"
  },
  {
-  "friendlyName": "1898_Gambia",
-  "dataName": "1898_GAM",
+  "friendlyName": "1899_Gambia",
+  "dataName": "1899_GAM",
   "flagResource": "nationflags/Gambia",
   "color32": {
    "r": 199,
@@ -3689,8 +3689,8 @@
   "localizationAlias": "GAM"
  },
  {
-  "friendlyName": "1898_Georgia",
-  "dataName": "1898_GEO",
+  "friendlyName": "1899_Georgia",
+  "dataName": "1899_GEO",
   "flagResource": "nationflags/Georgia",
   "color32": {
    "r": 14,
@@ -3729,8 +3729,8 @@
   "localizationAlias": "GEO"
  },
  {
-  "friendlyName": "1898_Germany",
-  "dataName": "1898_DEU",
+  "friendlyName": "1899_Germany",
+  "dataName": "1899_DEU",
   "flagResource": "nationflags/Germany",
   "unionFlagResource": "nationflags/Germany",
   "unionTrigger": 2,
@@ -3787,8 +3787,8 @@
   "buildNavyIPs": 0.3
  },
  {
-  "friendlyName": "1898_Ghana",
-  "dataName": "1898_GHA",
+  "friendlyName": "1899_Ghana",
+  "dataName": "1899_GHA",
   "flagResource": "nationflags/Ghana",
   "color32": {
    "r": 255,
@@ -3827,8 +3827,8 @@
   "localizationAlias": "GHA"
  },
  {
-  "friendlyName": "1898_Greece",
-  "dataName": "1898_GRE",
+  "friendlyName": "1899_Greece",
+  "dataName": "1899_GRE",
   "flagResource": "nationflags/Greece",
   "color32": {
    "r": 16,
@@ -3884,8 +3884,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Greenland",
-  "dataName": "1898_GRL",
+  "friendlyName": "1899_Greenland",
+  "dataName": "1899_GRL",
   "flagResource": "nationflags/Greenland",
   "color32": {
    "r": 64,
@@ -3921,8 +3921,8 @@
   "localizationAlias": "GRL"
  },
  {
-  "friendlyName": "1898_Guandong",
-  "dataName": "1898_MNC",
+  "friendlyName": "1899_Guandong",
+  "dataName": "1899_MNC",
   "flagResource": "nationflags/Guandong",
   "color32": {
    "r": 36,
@@ -3958,8 +3958,8 @@
   "localizationAlias": "MNC"
  },
  {
-  "friendlyName": "1898_Guanxi",
-  "dataName": "1898_GAX",
+  "friendlyName": "1899_Guanxi",
+  "dataName": "1899_GAX",
   "flagResource": "nationflags/Guanxi",
   "color32": {
    "r": 145,
@@ -3995,8 +3995,8 @@
   "localizationAlias": "GAX"
  },
  {
-  "friendlyName": "1898_Guatemala",
-  "dataName": "1898_GTM",
+  "friendlyName": "1899_Guatemala",
+  "dataName": "1899_GTM",
   "flagResource": "nationflags/Guatemala",
   "unionFlagResource": "nationflags/Guatemala",
   "unionTrigger": 3,
@@ -4053,8 +4053,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Guinea",
-  "dataName": "1898_GIN",
+  "friendlyName": "1899_Guinea",
+  "dataName": "1899_GIN",
   "flagResource": "nationflags/Guinea",
   "color32": {
    "r": 255,
@@ -4093,8 +4093,8 @@
   "localizationAlias": "GIN"
  },
  {
-  "friendlyName": "1898_Guinea-Bissau",
-  "dataName": "1898_GNB",
+  "friendlyName": "1899_Guinea-Bissau",
+  "dataName": "1899_GNB",
   "flagResource": "nationflags/Guinea-Bissau",
   "color32": {
    "r": 178,
@@ -4133,8 +4133,8 @@
   "localizationAlias": "GNB"
  },
  {
-  "friendlyName": "1898_Gujarat",
-  "dataName": "1898_GUJ",
+  "friendlyName": "1899_Gujarat",
+  "dataName": "1899_GUJ",
   "flagResource": "nationflags/Gujarat",
   "color32": {
    "r": 242,
@@ -4170,8 +4170,8 @@
   "localizationAlias": "GUJ"
  },
  {
-  "friendlyName": "1898_Gulf States",
-  "dataName": "1898_GUS",
+  "friendlyName": "1899_Gulf States",
+  "dataName": "1899_GUS",
   "flagResource": "nationflags/Qatar",
   "color32": {
    "r": 139,
@@ -4212,8 +4212,8 @@
   "localizationAlias": "GUS"
  },
  {
-  "friendlyName": "1898_Guyana",
-  "dataName": "1898_GUY",
+  "friendlyName": "1899_Guyana",
+  "dataName": "1899_GUY",
   "flagResource": "nationflags/Guyana",
   "color32": {
    "r": 206,
@@ -4252,8 +4252,8 @@
   "localizationAlias": "GUY"
  },
  {
-  "friendlyName": "1898_Gwailor",
-  "dataName": "1898_GWA",
+  "friendlyName": "1899_Gwailor",
+  "dataName": "1899_GWA",
   "flagResource": "nationflags/Gwailor",
   "color32": {
    "r": 180,
@@ -4289,8 +4289,8 @@
   "localizationAlias": "GWA"
  },
  {
-  "friendlyName": "1898_Haiti",
-  "dataName": "1898_HTI",
+  "friendlyName": "1899_Haiti",
+  "dataName": "1899_HTI",
   "flagResource": "nationflags/Haiti",
   "color32": {
    "r": 255,
@@ -4345,8 +4345,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Hawaii",
-  "dataName": "1898_HAW",
+  "friendlyName": "1899_Hawaii",
+  "dataName": "1899_HAW",
   "flagResource": "nationflags/Hawaii",
   "color32": {
    "r": 219,
@@ -4382,8 +4382,8 @@
   "localizationAlias": "HAW"
  },
  {
-  "friendlyName": "1898_Hunan",
-  "dataName": "1898_HNN",
+  "friendlyName": "1899_Hunan",
+  "dataName": "1899_HNN",
   "flagResource": "nationflags/Hunan",
   "color32": {
    "r": 165,
@@ -4419,8 +4419,8 @@
   "localizationAlias": "HNN"
  },
  {
-  "friendlyName": "1898_Honduras",
-  "dataName": "1898_HON",
+  "friendlyName": "1899_Honduras",
+  "dataName": "1899_HON",
   "flagResource": "nationflags/Honduras",
   "color32": {
    "r": 242,
@@ -4475,8 +4475,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Hong Kong",
-  "dataName": "1898_HKO",
+  "friendlyName": "1899_Hong Kong",
+  "dataName": "1899_HKO",
   "flagResource": "nationflags/HongKong",
   "color32": {
    "r": 200,
@@ -4512,8 +4512,8 @@
   "localizationAlias": "HKO"
  },
  {
-  "friendlyName": "1898_Huanan",
-  "dataName": "1898_WUR",
+  "friendlyName": "1899_Huanan",
+  "dataName": "1899_WUR",
   "flagResource": "nationflags/Huanan",
   "color32": {
    "r": 255,
@@ -4549,8 +4549,8 @@
   "localizationAlias": "WUR"
  },
  {
-  "friendlyName": "1898_Hungary",
-  "dataName": "1898_HUN",
+  "friendlyName": "1899_Hungary",
+  "dataName": "1899_HUN",
   "flagResource": "nationflags/Hungary",
   "color32": {
    "r": 154,
@@ -4605,8 +4605,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Hyderabad",
-  "dataName": "1898_HYD",
+  "friendlyName": "1899_Hyderabad",
+  "dataName": "1899_HYD",
   "flagResource": "nationflags/Hyderabad",
   "color32": {
    "r": 157,
@@ -4642,8 +4642,8 @@
   "localizationAlias": "HYD"
  },
  {
-  "friendlyName": "1898_Iceland",
-  "dataName": "1898_ISL",
+  "friendlyName": "1899_Iceland",
+  "dataName": "1899_ISL",
   "flagResource": "nationflags/Iceland",
   "color32": {
    "r": 255,
@@ -4682,8 +4682,8 @@
   "localizationAlias": "ISL"
  },
  {
-  "friendlyName": "1898_India",
-  "dataName": "1898_IND",
+  "friendlyName": "1899_India",
+  "dataName": "1899_IND",
   "flagResource": "nationflags/India",
   "unionTrigger": 54,
   "color32": {
@@ -4723,8 +4723,8 @@
   "localizationAlias": "IND"
  },
  {
-  "friendlyName": "1898_Indonesia",
-  "dataName": "1898_IDN",
+  "friendlyName": "1899_Indonesia",
+  "dataName": "1899_IDN",
   "flagResource": "nationflags/Indonesia",
   "unionFlagResource": "nationflags/Indonesia",
   "unionTrigger": 2,
@@ -4765,8 +4765,8 @@
   "localizationAlias": "IDN"
  },
  {
-  "friendlyName": "1898_Ingria",
-  "dataName": "1898_ING",
+  "friendlyName": "1899_Ingria",
+  "dataName": "1899_ING",
   "flagResource": "nationflags/Ingria",
   "color32": {
    "r": 77,
@@ -4802,8 +4802,8 @@
   "localizationAlias": "ING"
  },
  {
-  "friendlyName": "1898_Iran",
-  "dataName": "1898_IRN",
+  "friendlyName": "1899_Iran",
+  "dataName": "1899_IRN",
   "flagResource": "nationflags/Iran",
   "color32": {
    "r": 128,
@@ -4858,8 +4858,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Iraq",
-  "dataName": "1898_IRQ",
+  "friendlyName": "1899_Iraq",
+  "dataName": "1899_IRQ",
   "flagResource": "nationflags/Iraq",
   "color32": {
    "r": 242,
@@ -4898,8 +4898,8 @@
   "localizationAlias": "IRQ"
  },
  {
-  "friendlyName": "1898_Ireland",
-  "dataName": "1898_IRL",
+  "friendlyName": "1899_Ireland",
+  "dataName": "1899_IRL",
   "flagResource": "nationflags/Ireland",
   "unionFlagResource": "nationflags/Ireland",
   "unionTrigger": 3,
@@ -4940,8 +4940,8 @@
   "localizationAlias": "IRL"
  },
  {
-  "friendlyName": "1898_Israel",
-  "dataName": "1898_ISR",
+  "friendlyName": "1899_Israel",
+  "dataName": "1899_ISR",
   "flagResource": "nationflags/Israel",
   "color32": {
    "r": 84,
@@ -4980,8 +4980,8 @@
   "localizationAlias": "ISR"
  },
  {
-  "friendlyName": "1898_Italy",
-  "dataName": "1898_ITA",
+  "friendlyName": "1899_Italy",
+  "dataName": "1899_ITA",
   "flagResource": "nationflags/Italy",
   "color32": {
    "r": 204,
@@ -5038,8 +5038,8 @@
   "buildNavyIPs": 0.3
  },
  {
-  "friendlyName": "1898_Ivory Coast",
-  "dataName": "1898_IVO",
+  "friendlyName": "1899_Ivory Coast",
+  "dataName": "1899_IVO",
   "flagResource": "nationflags/Ivory_Coast",
   "color32": {
    "r": 255,
@@ -5078,8 +5078,8 @@
   "localizationAlias": "IVO"
  },
  {
-  "friendlyName": "1898_Jaipur",
-  "dataName": "1898_JAI",
+  "friendlyName": "1899_Jaipur",
+  "dataName": "1899_JAI",
   "flagResource": "nationflags/Jaipur",
   "color32": {
    "r": 123,
@@ -5115,8 +5115,8 @@
   "localizationAlias": "JAI"
  },
  {
-  "friendlyName": "1898_Jamaica",
-  "dataName": "1898_JAM",
+  "friendlyName": "1899_Jamaica",
+  "dataName": "1899_JAM",
   "flagResource": "nationflags/Jamaica",
   "unionFlagResource": "nationflags/Jamaica",
   "unionTrigger": 2,
@@ -5157,8 +5157,8 @@
   "localizationAlias": "JAM"
  },
  {
-  "friendlyName": "1898_Jammu and Kashmir",
-  "dataName": "1898_KSH",
+  "friendlyName": "1899_Jammu and Kashmir",
+  "dataName": "1899_KSH",
   "flagResource": "nationflags/Jammu_And_Kashmir",
   "color32": {
    "r": 164,
@@ -5194,8 +5194,8 @@
   "localizationAlias": "KSH"
  },
  {
-  "friendlyName": "1898_Japan",
-  "dataName": "1898_JPN",
+  "friendlyName": "1899_Japan",
+  "dataName": "1899_JPN",
   "flagResource": "nationflags/Japan",
   "unionFlagResource": "nationflags/Japan",
   "unionTrigger": 7,
@@ -5252,8 +5252,8 @@
   "buildNavyIPs": 0.3
  },
  {
-  "friendlyName": "1898_Jefferson",
-  "dataName": "1898_JEF",
+  "friendlyName": "1899_Jefferson",
+  "dataName": "1899_JEF",
   "flagResource": "nationflags/Jefferson",
   "color32": {
    "r": 255,
@@ -5289,8 +5289,8 @@
   "localizationAlias": "JEF"
  },
  {
-  "friendlyName": "1898_Jordan",
-  "dataName": "1898_JOR",
+  "friendlyName": "1899_Jordan",
+  "dataName": "1899_JOR",
   "flagResource": "nationflags/Jordan",
   "color32": {
    "r": 219,
@@ -5329,8 +5329,8 @@
   "localizationAlias": "JOR"
  },
  {
-  "friendlyName": "1898_Kachin-Arakan",
-  "dataName": "1898_KAC",
+  "friendlyName": "1899_Kachin-Arakan",
+  "dataName": "1899_KAC",
   "flagResource": "nationflags/Kachin",
   "color32": {
    "r": 18,
@@ -5366,8 +5366,8 @@
   "localizationAlias": "KAC"
  },
  {
-  "friendlyName": "1898_Kaliningrad Republic",
-  "dataName": "1898_KAL",
+  "friendlyName": "1899_Kaliningrad Republic",
+  "dataName": "1899_KAL",
   "flagResource": "nationflags/Kaliningrad",
   "color32": {
    "r": 204,
@@ -5403,8 +5403,8 @@
   "localizationAlias": "KAL"
  },
  {
-  "friendlyName": "1898_Karelia",
-  "dataName": "1898_KAR",
+  "friendlyName": "1899_Karelia",
+  "dataName": "1899_KAR",
   "flagResource": "nationflags/Karelia",
   "color32": {
    "r": 143,
@@ -5440,8 +5440,8 @@
   "localizationAlias": "KAR"
  },
  {
-  "friendlyName": "1898_Katanga",
-  "dataName": "1898_KAT",
+  "friendlyName": "1899_Katanga",
+  "dataName": "1899_KAT",
   "flagResource": "nationflags/Katanga",
   "color32": {
    "r": 227,
@@ -5477,8 +5477,8 @@
   "localizationAlias": "KAT"
  },
  {
-  "friendlyName": "1898_Kazakhstan",
-  "dataName": "1898_KAZ",
+  "friendlyName": "1899_Kazakhstan",
+  "dataName": "1899_KAZ",
   "flagResource": "nationflags/Kazakhstan",
   "unionFlagResource": "nationflags/Kazakhstan",
   "unionTrigger": 3,
@@ -5519,8 +5519,8 @@
   "localizationAlias": "KAZ"
  },
  {
-  "friendlyName": "1898_Kenya",
-  "dataName": "1898_KEN",
+  "friendlyName": "1899_Kenya",
+  "dataName": "1899_KEN",
   "flagResource": "nationflags/Kenya",
   "color32": {
    "r": 30,
@@ -5559,8 +5559,8 @@
   "localizationAlias": "KEN"
  },
  {
-  "friendlyName": "1898_Keo Deudai",
-  "dataName": "1898_KEO",
+  "friendlyName": "1899_Keo Deudai",
+  "dataName": "1899_KEO",
   "flagResource": "nationflags/KeoDeudai",
   "color32": {
    "r": 188,
@@ -5596,8 +5596,8 @@
   "localizationAlias": "KEO"
  },
  {
-  "friendlyName": "1898_Khalistan",
-  "dataName": "1898_KHA",
+  "friendlyName": "1899_Khalistan",
+  "dataName": "1899_KHA",
   "flagResource": "nationflags/Khalistan",
   "color32": {
    "r": 255,
@@ -5633,8 +5633,8 @@
   "localizationAlias": "KHA"
  },
  {
-  "friendlyName": "1898_Khuzestan",
-  "dataName": "1898_KHU",
+  "friendlyName": "1899_Khuzestan",
+  "dataName": "1899_KHU",
   "flagResource": "nationflags/Khuzestan",
   "color32": {
    "r": 145,
@@ -5670,8 +5670,8 @@
   "localizationAlias": "KHU"
  },
  {
-  "friendlyName": "1898_Komi Republic",
-  "dataName": "1898_KOM",
+  "friendlyName": "1899_Komi Republic",
+  "dataName": "1899_KOM",
   "flagResource": "nationflags/Komi",
   "color32": {
    "r": 207,
@@ -5707,8 +5707,8 @@
   "localizationAlias": "KOM"
  },
  {
-  "friendlyName": "1898_Kosovo",
-  "dataName": "1898_KOS",
+  "friendlyName": "1899_Kosovo",
+  "dataName": "1899_KOS",
   "flagResource": "nationflags/Kosovo",
   "color32": {
    "r": 127,
@@ -5747,8 +5747,8 @@
   "localizationAlias": "KOS"
  },
  {
-  "friendlyName": "1898_Kurdistan",
-  "dataName": "1898_KRD",
+  "friendlyName": "1899_Kurdistan",
+  "dataName": "1899_KRD",
   "flagResource": "nationflags/Kurdistan",
   "color32": {
    "r": 50,
@@ -5784,8 +5784,8 @@
   "localizationAlias": "KRD"
  },
  {
-  "friendlyName": "1898_Karakalpakstan",
-  "dataName": "1898_KRK",
+  "friendlyName": "1899_Karakalpakstan",
+  "dataName": "1899_KRK",
   "flagResource": "nationflags/Karakalpakstan",
   "color32": {
    "r": 14,
@@ -5821,8 +5821,8 @@
   "localizationAlias": "KRK"
  },
  {
-  "friendlyName": "1898_Kuwait",
-  "dataName": "1898_KUW",
+  "friendlyName": "1899_Kuwait",
+  "dataName": "1899_KUW",
   "flagResource": "nationflags/Kuwait",
   "color32": {
    "r": 206,
@@ -5861,8 +5861,8 @@
   "localizationAlias": "KUW"
  },
  {
-  "friendlyName": "1898_Kyrgyzstan",
-  "dataName": "1898_KGZ",
+  "friendlyName": "1899_Kyrgyzstan",
+  "dataName": "1899_KGZ",
   "flagResource": "nationflags/Kyrgyzstan",
   "color32": {
    "r": 250,
@@ -5901,8 +5901,8 @@
   "localizationAlias": "KGZ"
  },
  {
-  "friendlyName": "1898_Laos",
-  "dataName": "1898_LAO",
+  "friendlyName": "1899_Laos",
+  "dataName": "1899_LAO",
   "flagResource": "nationflags/Laos",
   "color32": {
    "r": 166,
@@ -5941,8 +5941,8 @@
   "localizationAlias": "LAO"
  },
  {
-  "friendlyName": "1898_Latvia",
-  "dataName": "1898_LVA",
+  "friendlyName": "1899_Latvia",
+  "dataName": "1899_LVA",
   "flagResource": "nationflags/Latvia",
   "color32": {
    "r": 216,
@@ -5981,8 +5981,8 @@
   "localizationAlias": "LVA"
  },
  {
-  "friendlyName": "1898_Lebanon",
-  "dataName": "1898_LEB",
+  "friendlyName": "1899_Lebanon",
+  "dataName": "1899_LEB",
   "flagResource": "nationflags/Lebanon",
   "color32": {
    "r": 255,
@@ -6021,8 +6021,8 @@
   "localizationAlias": "LEB"
  },
  {
-  "friendlyName": "1898_Lesotho",
-  "dataName": "1898_LES",
+  "friendlyName": "1899_Lesotho",
+  "dataName": "1899_LES",
   "flagResource": "nationflags/Lesotho",
   "color32": {
    "r": 190,
@@ -6061,8 +6061,8 @@
   "localizationAlias": "LES"
  },
  {
-  "friendlyName": "1898_Lesser Antilles States",
-  "dataName": "1898_CAB",
+  "friendlyName": "1899_Lesser Antilles States",
+  "dataName": "1899_CAB",
   "flagResource": "nationflags/Trinidad_and_Tobago",
   "color32": {
    "r": 255,
@@ -6104,8 +6104,8 @@
   "localizationAlias": "CAB"
  },
  {
-  "friendlyName": "1898_Liangguang",
-  "dataName": "1898_GUA",
+  "friendlyName": "1899_Liangguang",
+  "dataName": "1899_GUA",
   "flagResource": "nationflags/Liangguang",
   "color32": {
    "r": 255,
@@ -6141,8 +6141,8 @@
   "localizationAlias": "GUA"
  },
  {
-  "friendlyName": "1898_Liberia",
-  "dataName": "1898_LBR",
+  "friendlyName": "1899_Liberia",
+  "dataName": "1899_LBR",
   "flagResource": "nationflags/Liberia",
   "color32": {
    "r": 0,
@@ -6197,8 +6197,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Libya",
-  "dataName": "1898_LBY",
+  "friendlyName": "1899_Libya",
+  "dataName": "1899_LBY",
   "flagResource": "nationflags/Libya",
   "color32": {
    "r": 0,
@@ -6237,8 +6237,8 @@
   "localizationAlias": "LBY"
  },
  {
-  "friendlyName": "1898_Lithuania",
-  "dataName": "1898_LTU",
+  "friendlyName": "1899_Lithuania",
+  "dataName": "1899_LTU",
   "flagResource": "nationflags/Lithuania",
   "color32": {
    "r": 234,
@@ -6277,8 +6277,8 @@
   "localizationAlias": "LTU"
  },
  {
-  "friendlyName": "1898_Logone",
-  "dataName": "1898_LOG",
+  "friendlyName": "1899_Logone",
+  "dataName": "1899_LOG",
   "flagResource": "nationflags/Logone",
   "color32": {
    "r": 255,
@@ -6314,8 +6314,8 @@
   "localizationAlias": "LOG"
  },
  {
-  "friendlyName": "1898_Lunda-Tchokwé",
-  "dataName": "1898_LNT",
+  "friendlyName": "1899_Lunda-Tchokwé",
+  "dataName": "1899_LNT",
   "flagResource": "nationflags/LundaTchokwe",
   "color32": {
    "r": 240,
@@ -6351,8 +6351,8 @@
   "localizationAlias": "LNT"
  },
  {
-  "friendlyName": "1898_Madagascar",
-  "dataName": "1898_MDG",
+  "friendlyName": "1899_Madagascar",
+  "dataName": "1899_MDG",
   "flagResource": "nationflags/Madagascar",
   "color32": {
    "r": 128,
@@ -6391,8 +6391,8 @@
   "localizationAlias": "MDG"
  },
  {
-  "friendlyName": "1898_Mordovia",
-  "dataName": "1898_MDV",
+  "friendlyName": "1899_Mordovia",
+  "dataName": "1899_MDV",
   "flagResource": "nationflags/Mordovia",
   "color32": {
    "r": 225,
@@ -6428,8 +6428,8 @@
   "localizationAlias": "MDV"
  },
  {
-  "friendlyName": "1898_Maharashtra",
-  "dataName": "1898_MAH",
+  "friendlyName": "1899_Maharashtra",
+  "dataName": "1899_MAH",
   "flagResource": "nationflags/Maharashtra",
   "color32": {
    "r": 157,
@@ -6465,8 +6465,8 @@
   "localizationAlias": "MAH"
  },
  {
-  "friendlyName": "1898_Malawi",
-  "dataName": "1898_MAL",
+  "friendlyName": "1899_Malawi",
+  "dataName": "1899_MAL",
   "flagResource": "nationflags/Malawi",
   "color32": {
    "r": 150,
@@ -6505,8 +6505,8 @@
   "localizationAlias": "MAL"
  },
  {
-  "friendlyName": "1898_Malaysia",
-  "dataName": "1898_MYS",
+  "friendlyName": "1899_Malaysia",
+  "dataName": "1899_MYS",
   "flagResource": "nationflags/Malaysia",
   "unionFlagResource": "nationflags/Malaysia",
   "unionTrigger": 5,
@@ -6547,8 +6547,8 @@
   "localizationAlias": "MYS"
  },
  {
-  "friendlyName": "1898_Maldives",
-  "dataName": "1898_MLD",
+  "friendlyName": "1899_Maldives",
+  "dataName": "1899_MLD",
   "flagResource": "nationflags/Maldives",
   "color32": {
    "r": 95,
@@ -6587,8 +6587,8 @@
   "localizationAlias": "MLD"
  },
  {
-  "friendlyName": "1898_Mali",
-  "dataName": "1898_MLI",
+  "friendlyName": "1899_Mali",
+  "dataName": "1899_MLI",
   "flagResource": "nationflags/Mali",
   "unionFlagResource": "nationflags/Mali",
   "unionTrigger": 3,
@@ -6629,8 +6629,8 @@
   "localizationAlias": "MLI"
  },
  {
-  "friendlyName": "1898_Mauritania",
-  "dataName": "1898_MRT",
+  "friendlyName": "1899_Mauritania",
+  "dataName": "1899_MRT",
   "flagResource": "nationflags/Mauritania",
   "color32": {
    "r": 255,
@@ -6669,8 +6669,8 @@
   "localizationAlias": "MRT"
  },
  {
-  "friendlyName": "1898_Mauritius",
-  "dataName": "1898_MRS",
+  "friendlyName": "1899_Mauritius",
+  "dataName": "1899_MRS",
   "flagResource": "nationflags/Mauritius",
   "color32": {
    "r": 0,
@@ -6709,8 +6709,8 @@
   "localizationAlias": "MRS"
  },
  {
-  "friendlyName": "1898_Melanesian States",
-  "dataName": "1898_PCS",
+  "friendlyName": "1899_Melanesian States",
+  "dataName": "1899_PCS",
   "flagResource": "nationflags/Fiji",
   "color32": {
    "r": 160,
@@ -6752,8 +6752,8 @@
   "localizationAlias": "PCS"
  },
  {
-  "friendlyName": "1898_Mexico",
-  "dataName": "1898_MEX",
+  "friendlyName": "1899_Mexico",
+  "dataName": "1899_MEX",
   "flagResource": "nationflags/Mexico",
   "color32": {
    "r": 128,
@@ -6808,8 +6808,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Micronesian States",
-  "dataName": "1898_MCS",
+  "friendlyName": "1899_Micronesian States",
+  "dataName": "1899_MCS",
   "flagResource": "nationflags/Micronesia",
   "color32": {
    "r": 204,
@@ -6850,8 +6850,8 @@
   "localizationAlias": "MCS"
  },
  {
-  "friendlyName": "1898_Mindanao",
-  "dataName": "1898_MIN",
+  "friendlyName": "1899_Mindanao",
+  "dataName": "1899_MIN",
   "flagResource": "nationflags/Mindanao",
   "color32": {
    "r": 53,
@@ -6887,8 +6887,8 @@
   "localizationAlias": "MIN"
  },
  {
-  "friendlyName": "1898_Moldova",
-  "dataName": "1898_MOL",
+  "friendlyName": "1899_Moldova",
+  "dataName": "1899_MOL",
   "flagResource": "nationflags/Moldova",
   "color32": {
    "r": 51,
@@ -6927,8 +6927,8 @@
   "localizationAlias": "MOL"
  },
  {
-  "friendlyName": "1898_Mongolia",
-  "dataName": "1898_MNG",
+  "friendlyName": "1899_Mongolia",
+  "dataName": "1899_MNG",
   "flagResource": "nationflags/Mongolia",
   "color32": {
    "r": 255,
@@ -6967,8 +6967,8 @@
   "localizationAlias": "MNG"
  },
  {
-  "friendlyName": "1898_Mombasa Republic",
-  "dataName": "1898_MOM",
+  "friendlyName": "1899_Mombasa Republic",
+  "dataName": "1899_MOM",
   "flagResource": "nationflags/Mombasa",
   "color32": {
    "r": 235,
@@ -7004,8 +7004,8 @@
   "localizationAlias": "MOM"
  },
  {
-  "friendlyName": "1898_Morocco",
-  "dataName": "1898_MAR",
+  "friendlyName": "1899_Morocco",
+  "dataName": "1899_MAR",
   "flagResource": "nationflags/Morocco",
   "unionFlagResource": "nationflags/Morocco",
   "unionTrigger": 3,
@@ -7062,8 +7062,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Mozambique",
-  "dataName": "1898_MOZ",
+  "friendlyName": "1899_Mozambique",
+  "dataName": "1899_MOZ",
   "flagResource": "nationflags/Mozambique",
   "color32": {
    "r": 0,
@@ -7102,8 +7102,8 @@
   "localizationAlias": "MOZ"
  },
  {
-  "friendlyName": "1898_Myanmar",
-  "dataName": "1898_MMR",
+  "friendlyName": "1899_Myanmar",
+  "dataName": "1899_MMR",
   "flagResource": "nationflags/Myanmar",
   "color32": {
    "r": 52,
@@ -7142,8 +7142,8 @@
   "localizationAlias": "MMR"
  },
  {
-  "friendlyName": "1898_Mysore",
-  "dataName": "1898_MSO",
+  "friendlyName": "1899_Mysore",
+  "dataName": "1899_MSO",
   "flagResource": "nationflags/Mysore",
   "color32": {
    "r": 144,
@@ -7179,8 +7179,8 @@
   "localizationAlias": "MSO"
  },
  {
-  "friendlyName": "1898_Montenegro",
-  "dataName": "1898_MNE",
+  "friendlyName": "1899_Montenegro",
+  "dataName": "1899_MNE",
   "flagResource": "nationflags/Montenegro",
   "color32": {
    "r": 183,
@@ -7235,8 +7235,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Namibia",
-  "dataName": "1898_SWA",
+  "friendlyName": "1899_Namibia",
+  "dataName": "1899_SWA",
   "flagResource": "nationflags/Namibia",
   "color32": {
    "r": 32,
@@ -7275,8 +7275,8 @@
   "localizationAlias": "SWA"
  },
  {
-  "friendlyName": "1898_Nepal",
-  "dataName": "1898_HYS",
+  "friendlyName": "1899_Nepal",
+  "dataName": "1899_HYS",
   "flagResource": "nationflags/Nepal",
   "color32": {
    "r": 160,
@@ -7331,8 +7331,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Netherlands",
-  "dataName": "1898_NET",
+  "friendlyName": "1899_Netherlands",
+  "dataName": "1899_NET",
   "flagResource": "nationflags/Netherlands",
   "color32": {
    "r": 232,
@@ -7387,8 +7387,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_New Afrika",
-  "dataName": "1898_RNA",
+  "friendlyName": "1899_New Afrika",
+  "dataName": "1899_RNA",
   "flagResource": "nationflags/NewAfrika",
   "color32": {
    "r": 0,
@@ -7424,8 +7424,8 @@
   "localizationAlias": "RNA"
  },
  {
-  "friendlyName": "1898_New Caledonia",
-  "dataName": "1898_NCL",
+  "friendlyName": "1899_New Caledonia",
+  "dataName": "1899_NCL",
   "flagResource": "nationflags/NewCaledonia",
   "color32": {
    "r": 234,
@@ -7461,8 +7461,8 @@
   "localizationAlias": "NCL"
  },
  {
-  "friendlyName": "1898_New Zealand",
-  "dataName": "1898_NZL",
+  "friendlyName": "1899_New Zealand",
+  "dataName": "1899_NZL",
   "flagResource": "nationflags/New_Zealand",
   "color32": {
    "r": 255,
@@ -7501,8 +7501,8 @@
   "localizationAlias": "NZL"
  },
  {
-  "friendlyName": "1898_Nicaragua",
-  "dataName": "1898_NIC",
+  "friendlyName": "1899_Nicaragua",
+  "dataName": "1899_NIC",
   "flagResource": "nationflags/Nicaragua",
   "color32": {
    "r": 140,
@@ -7557,8 +7557,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Niger",
-  "dataName": "1898_NER",
+  "friendlyName": "1899_Niger",
+  "dataName": "1899_NER",
   "flagResource": "nationflags/Niger",
   "color32": {
    "r": 224,
@@ -7597,8 +7597,8 @@
   "localizationAlias": "NER"
  },
  {
-  "friendlyName": "1898_Nigeria",
-  "dataName": "1898_NGA",
+  "friendlyName": "1899_Nigeria",
+  "dataName": "1899_NGA",
   "flagResource": "nationflags/Nigeria",
   "unionFlagResource": "nationflags/Nigeria",
   "unionTrigger": 5,
@@ -7639,8 +7639,8 @@
   "localizationAlias": "NGA"
  },
  {
-  "friendlyName": "1898_North Caucasus Federation",
-  "dataName": "1898_NCF",
+  "friendlyName": "1899_North Caucasus Federation",
+  "dataName": "1899_NCF",
   "flagResource": "nationflags/NorthCaucasusConfederation",
   "color32": {
    "r": 200,
@@ -7676,8 +7676,8 @@
   "localizationAlias": "NCF"
  },
  {
-  "friendlyName": "1898_Northern Assembly",
-  "dataName": "1898_NEN",
+  "friendlyName": "1899_Northern Assembly",
+  "dataName": "1899_NEN",
   "flagResource": "nationflags/Northern_Assembly",
   "color32": {
    "r": 255,
@@ -7713,8 +7713,8 @@
   "localizationAlias": "NEN"
  },
  {
-  "friendlyName": "1898_North Korea",
-  "dataName": "1898_PRK",
+  "friendlyName": "1899_North Korea",
+  "dataName": "1899_PRK",
   "flagResource": "nationflags/North_Korea",
   "unionFlagResource": "nationflags/North_Korea",
   "unionTrigger": 2,
@@ -7755,8 +7755,8 @@
   "localizationAlias": "PRK"
  },
  {
-  "friendlyName": "1898_North Macedonia",
-  "dataName": "1898_MKD",
+  "friendlyName": "1899_North Macedonia",
+  "dataName": "1899_MKD",
   "flagResource": "nationflags/NorthMacedonia",
   "color32": {
    "r": 255,
@@ -7795,8 +7795,8 @@
   "localizationAlias": "MKD"
  },
  {
-  "friendlyName": "1898_Norway",
-  "dataName": "1898_NOR",
+  "friendlyName": "1899_Norway",
+  "dataName": "1899_NOR",
   "flagResource": "nationflags/Norway",
   "color32": {
    "r": 102,
@@ -7851,8 +7851,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Nubia",
-  "dataName": "1898_NUB",
+  "friendlyName": "1899_Nubia",
+  "dataName": "1899_NUB",
   "flagResource": "nationflags/Nubia",
   "color32": {
    "r": 97,
@@ -7888,8 +7888,8 @@
   "localizationAlias": "NUB"
  },
  {
-  "friendlyName": "1898_Occitania",
-  "dataName": "1898_OCT",
+  "friendlyName": "1899_Occitania",
+  "dataName": "1899_OCT",
   "flagResource": "nationflags/Occitania",
   "color32": {
    "r": 255,
@@ -7925,8 +7925,8 @@
   "localizationAlias": "OCT"
  },
  {
-  "friendlyName": "1898_Odisha",
-  "dataName": "1898_ODI",
+  "friendlyName": "1899_Odisha",
+  "dataName": "1899_ODI",
   "flagResource": "nationflags/Odisha",
   "color32": {
    "r": 204,
@@ -7962,8 +7962,8 @@
   "localizationAlias": "ODI"
  },
  {
-  "friendlyName": "1898_Ogaden",
-  "dataName": "1898_OGA",
+  "friendlyName": "1899_Ogaden",
+  "dataName": "1899_OGA",
   "flagResource": "nationflags/Ogaden",
   "color32": {
    "r": 246,
@@ -7999,8 +7999,8 @@
   "localizationAlias": "OGA"
  },
  {
-  "friendlyName": "1898_Oman",
-  "dataName": "1898_OMN",
+  "friendlyName": "1899_Oman",
+  "dataName": "1899_OMN",
   "flagResource": "nationflags/Oman",
   "color32": {
    "r": 255,
@@ -8055,8 +8055,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Pacific Federation",
-  "dataName": "1898_PCF",
+  "friendlyName": "1899_Pacific Federation",
+  "dataName": "1899_PCF",
   "flagResource": "nationflags/PacificFederation",
   "color32": {
    "r": 50,
@@ -8092,8 +8092,8 @@
   "localizationAlias": "PCF"
  },
  {
-  "friendlyName": "1898_Padania",
-  "dataName": "1898_PAD",
+  "friendlyName": "1899_Padania",
+  "dataName": "1899_PAD",
   "flagResource": "nationflags/Padania",
   "color32": {
    "r": 145,
@@ -8129,8 +8129,8 @@
   "localizationAlias": "PAD"
  },
  {
-  "friendlyName": "1898_Pakistan",
-  "dataName": "1898_PAK",
+  "friendlyName": "1899_Pakistan",
+  "dataName": "1899_PAK",
   "flagResource": "nationflags/Pakistan",
   "unionTrigger": 2,
   "color32": {
@@ -8170,8 +8170,8 @@
   "localizationAlias": "PAK"
  },
  {
-  "friendlyName": "1898_Palestine",
-  "dataName": "1898_PAL",
+  "friendlyName": "1899_Palestine",
+  "dataName": "1899_PAL",
   "flagResource": "nationflags/Palestine",
   "color32": {
    "r": 255,
@@ -8210,8 +8210,8 @@
   "localizationAlias": "PAL"
  },
  {
-  "friendlyName": "1898_Panama",
-  "dataName": "1898_PAN",
+  "friendlyName": "1899_Panama",
+  "dataName": "1899_PAN",
   "flagResource": "nationflags/Panama",
   "color32": {
    "r": 14,
@@ -8250,8 +8250,8 @@
   "localizationAlias": "PAN"
  },
  {
-  "friendlyName": "1898_Papua New Guinea",
-  "dataName": "1898_PNG",
+  "friendlyName": "1899_Papua New Guinea",
+  "dataName": "1899_PNG",
   "flagResource": "nationflags/Papua_New_Guinea",
   "color32": {
    "r": 255,
@@ -8290,8 +8290,8 @@
   "localizationAlias": "PNG"
  },
  {
-  "friendlyName": "1898_Paraguay",
-  "dataName": "1898_PRY",
+  "friendlyName": "1899_Paraguay",
+  "dataName": "1899_PRY",
   "flagResource": "nationflags/Paraguay",
   "color32": {
    "r": 176,
@@ -8346,8 +8346,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Patagonia",
-  "dataName": "1898_PAT",
+  "friendlyName": "1899_Patagonia",
+  "dataName": "1899_PAT",
   "flagResource": "nationflags/Patagonia",
   "color32": {
    "r": 183,
@@ -8383,8 +8383,8 @@
   "localizationAlias": "PAT"
  },
  {
-  "friendlyName": "1898_Peru",
-  "dataName": "1898_PER",
+  "friendlyName": "1899_Peru",
+  "dataName": "1899_PER",
   "flagResource": "nationflags/Peru",
   "unionTrigger": 3,
   "color32": {
@@ -8440,8 +8440,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Péyi Guyane",
-  "dataName": "1898_PGN",
+  "friendlyName": "1899_Péyi Guyane",
+  "dataName": "1899_PGN",
   "flagResource": "nationflags/French_Guiana",
   "color32": {
    "r": 173,
@@ -8477,8 +8477,8 @@
   "localizationAlias": "PGN"
  },
  {
-  "friendlyName": "1898_Philippines",
-  "dataName": "1898_PHL",
+  "friendlyName": "1899_Philippines",
+  "dataName": "1899_PHL",
   "flagResource": "nationflags/Phillipines",
   "color32": {
    "r": 139,
@@ -8517,8 +8517,8 @@
   "localizationAlias": "PHL"
  },
  {
-  "friendlyName": "1898_Poland",
-  "dataName": "1898_POL",
+  "friendlyName": "1899_Poland",
+  "dataName": "1899_POL",
   "flagResource": "nationflags/Poland",
   "unionFlagResource": "nationflags/Poland",
   "unionTrigger": 5,
@@ -8559,8 +8559,8 @@
   "localizationAlias": "POL"
  },
  {
-  "friendlyName": "1898_Polynesian States",
-  "dataName": "1898_PLS",
+  "friendlyName": "1899_Polynesian States",
+  "dataName": "1899_PLS",
   "flagResource": "nationflags/Samoa",
   "color32": {
    "r": 232,
@@ -8601,8 +8601,8 @@
   "localizationAlias": "PLS"
  },
  {
-  "friendlyName": "1898_Puerto Rico",
-  "dataName": "1898_PRO",
+  "friendlyName": "1899_Puerto Rico",
+  "dataName": "1899_PRO",
   "flagResource": "nationflags/Puerto_Rico",
   "color32": {
    "r": 230,
@@ -8638,8 +8638,8 @@
   "localizationAlias": "PRO"
  },
  {
-  "friendlyName": "1898_Portugal",
-  "dataName": "1898_PRT",
+  "friendlyName": "1899_Portugal",
+  "dataName": "1899_PRT",
   "flagResource": "nationflags/Portugal",
   "color32": {
    "r": 200,
@@ -8694,8 +8694,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Protectorate Authority",
-  "dataName": "1898_PRA",
+  "friendlyName": "1899_Protectorate Authority",
+  "dataName": "1899_PRA",
   "flagResource": "nationflags/United_Nations",
   "color32": {
    "r": 91,
@@ -8731,8 +8731,8 @@
   "localizationAlias": "PRA"
  },
  {
-  "friendlyName": "1898_Quebec",
-  "dataName": "1898_QUB",
+  "friendlyName": "1899_Quebec",
+  "dataName": "1899_QUB",
   "flagResource": "nationflags/Quebec",
   "color32": {
    "r": 225,
@@ -8768,8 +8768,8 @@
   "localizationAlias": "QUB"
  },
  {
-  "friendlyName": "1898_Comoros",
-  "dataName": "1898_RTK",
+  "friendlyName": "1899_Comoros",
+  "dataName": "1899_RTK",
   "flagResource": "nationflags/Comoros",
   "color32": {
    "r": 255,
@@ -8808,8 +8808,8 @@
   "localizationAlias": "RTK"
  },
  {
-  "friendlyName": "1898_Republic of Ainu",
-  "dataName": "1898_ROA",
+  "friendlyName": "1899_Republic of Ainu",
+  "dataName": "1899_ROA",
   "flagResource": "nationflags/Republic_Ainu",
   "color32": {
    "r": 235,
@@ -8845,8 +8845,8 @@
   "localizationAlias": "ROA"
  },
  {
-  "friendlyName": "1898_Republic of Lakota",
-  "dataName": "1898_RLK",
+  "friendlyName": "1899_Republic of Lakota",
+  "dataName": "1899_RLK",
   "flagResource": "nationflags/Lakota",
   "color32": {
    "r": 210,
@@ -8882,8 +8882,8 @@
   "localizationAlias": "RLK"
  },
  {
-  "friendlyName": "1898_Republic of New England",
-  "dataName": "1898_RNE",
+  "friendlyName": "1899_Republic of New England",
+  "dataName": "1899_RNE",
   "flagResource": "nationflags/Republic_New_England",
   "color32": {
    "r": 187,
@@ -8919,8 +8919,8 @@
   "localizationAlias": "RNE"
  },
  {
-  "friendlyName": "1898_Republic of Texas",
-  "dataName": "1898_TEX",
+  "friendlyName": "1899_Republic of Texas",
+  "dataName": "1899_TEX",
   "flagResource": "nationflags/Texas",
   "color32": {
    "r": 255,
@@ -8956,8 +8956,8 @@
   "localizationAlias": "TEX"
  },
  {
-  "friendlyName": "1898_Republic of the Congo",
-  "dataName": "1898_COR",
+  "friendlyName": "1899_Republic of the Congo",
+  "dataName": "1899_COR",
   "flagResource": "nationflags/Rep_Congo",
   "color32": {
    "r": 20,
@@ -8996,8 +8996,8 @@
   "localizationAlias": "COR"
  },
  {
-  "friendlyName": "1898_Republic of the Moluccas",
-  "dataName": "1898_RMO",
+  "friendlyName": "1899_Republic of the Moluccas",
+  "dataName": "1899_RMO",
   "flagResource": "nationflags/Moluccas",
   "color32": {
    "r": 255,
@@ -9033,8 +9033,8 @@
   "localizationAlias": "RMO"
  },
  {
-  "friendlyName": "1898_Republic of the Ryukus",
-  "dataName": "1898_RYU",
+  "friendlyName": "1899_Republic of the Ryukus",
+  "dataName": "1899_RYU",
   "flagResource": "nationflags/RepublicOfRyukus",
   "color32": {
    "r": 50,
@@ -9070,8 +9070,8 @@
   "localizationAlias": "RYU"
  },
  {
-  "friendlyName": "1898_Republic of Vietnam",
-  "dataName": "1898_SVN",
+  "friendlyName": "1899_Republic of Vietnam",
+  "dataName": "1899_SVN",
   "flagResource": "nationflags/South_Vietnam",
   "color32": {
    "r": 255,
@@ -9107,8 +9107,8 @@
   "localizationAlias": "SVN"
  },
  {
-  "friendlyName": "1898_Republic of West Papua",
-  "dataName": "1898_RWP",
+  "friendlyName": "1899_Republic of West Papua",
+  "dataName": "1899_RWP",
   "flagResource": "nationflags/West_Papua",
   "color32": {
    "r": 210,
@@ -9144,8 +9144,8 @@
   "localizationAlias": "RWP"
  },
  {
-  "friendlyName": "1898_Rio Bravo",
-  "dataName": "1898_RIO",
+  "friendlyName": "1899_Rio Bravo",
+  "dataName": "1899_RIO",
   "flagResource": "nationflags/Rio_Bravo",
   "color32": {
    "r": 201,
@@ -9181,8 +9181,8 @@
   "localizationAlias": "RIO"
  },
  {
-  "friendlyName": "1898_Romania",
-  "dataName": "1898_ROM",
+  "friendlyName": "1899_Romania",
+  "dataName": "1899_ROM",
   "flagResource": "nationflags/Romania",
   "color32": {
    "r": 252,
@@ -9237,8 +9237,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Rostovskaya",
-  "dataName": "1898_ROS",
+  "friendlyName": "1899_Rostovskaya",
+  "dataName": "1899_ROS",
   "flagResource": "nationflags/Rostov",
   "color32": {
    "r": 255,
@@ -9274,8 +9274,8 @@
   "localizationAlias": "ROS"
  },
  {
-  "friendlyName": "1898_Russia",
-  "dataName": "1898_RUS",
+  "friendlyName": "1899_Russia",
+  "dataName": "1899_RUS",
   "flagResource": "nationflags/Russia",
   "unionFlagResource": "nationflags/Russia",
   "unionTrigger": 25,
@@ -9332,8 +9332,8 @@
   "buildNavyIPs": 0.3
  },
  {
-  "friendlyName": "1898_Rwanda-Burundi",
-  "dataName": "1898_RWB",
+  "friendlyName": "1899_Rwanda-Burundi",
+  "dataName": "1899_RWB",
   "flagResource": "nationflags/Rwanda",
   "color32": {
    "r": 176,
@@ -9374,8 +9374,8 @@
   "localizationAlias": "RWB"
  },
  {
-  "friendlyName": "1898_Sahrawi",
-  "dataName": "1898_SAH",
+  "friendlyName": "1899_Sahrawi",
+  "dataName": "1899_SAH",
   "flagResource": "nationflags/Sahrawi",
   "color32": {
    "r": 24,
@@ -9411,8 +9411,8 @@
   "localizationAlias": "SAH"
  },
  {
-  "friendlyName": "1898_Sakha",
-  "dataName": "1898_SAK",
+  "friendlyName": "1899_Sakha",
+  "dataName": "1899_SAK",
   "flagResource": "nationflags/Sakha",
   "color32": {
    "r": 21,
@@ -9448,8 +9448,8 @@
   "localizationAlias": "SAK"
  },
  {
-  "friendlyName": "1898_Sao Paulo",
-  "dataName": "1898_SAO",
+  "friendlyName": "1899_Sao Paulo",
+  "dataName": "1899_SAO",
   "flagResource": "nationflags/SaoPaulo",
   "color32": {
    "r": 107,
@@ -9485,8 +9485,8 @@
   "localizationAlias": "SAO"
  },
  {
-  "friendlyName": "1898_Sao Tome and Principe",
-  "dataName": "1898_STP",
+  "friendlyName": "1899_Sao Tome and Principe",
+  "dataName": "1899_STP",
   "flagResource": "nationflags/Sao_Tome_and_Principe",
   "color32": {
    "r": 235,
@@ -9525,8 +9525,8 @@
   "localizationAlias": "STP"
  },
  {
-  "friendlyName": "1898_Saudi Arabia",
-  "dataName": "1898_SAU",
+  "friendlyName": "1899_Saudi Arabia",
+  "dataName": "1899_SAU",
   "flagResource": "nationflags/Saudi_Arabia",
   "unionFlagResource": "nationflags/Saudi_Arabia",
   "unionTrigger": 5,
@@ -9567,8 +9567,8 @@
   "localizationAlias": "SAU"
  },
  {
-  "friendlyName": "1898_Scotland",
-  "dataName": "1898_SCT",
+  "friendlyName": "1899_Scotland",
+  "dataName": "1899_SCT",
   "flagResource": "nationflags/Scotland",
   "color32": {
    "r": 43,
@@ -9604,8 +9604,8 @@
   "localizationAlias": "SCT"
  },
  {
-  "friendlyName": "1898_Senegal",
-  "dataName": "1898_SEG",
+  "friendlyName": "1899_Senegal",
+  "dataName": "1899_SEG",
   "flagResource": "nationflags/Senegal",
   "unionTrigger": 2,
   "color32": {
@@ -9645,8 +9645,8 @@
   "localizationAlias": "SEG"
  },
  {
-  "friendlyName": "1898_Serbia",
-  "dataName": "1898_SER",
+  "friendlyName": "1899_Serbia",
+  "dataName": "1899_SER",
   "flagResource": "nationflags/Serbia",
   "unionFlagResource": "nationflags/Serbia",
   "unionTrigger": 3,
@@ -9703,8 +9703,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Seychelles",
-  "dataName": "1898_SYC",
+  "friendlyName": "1899_Seychelles",
+  "dataName": "1899_SYC",
   "flagResource": "nationflags/Seychelles",
   "color32": {
    "r": 252,
@@ -9743,8 +9743,8 @@
   "localizationAlias": "SYC"
  },
  {
-  "friendlyName": "1898_Shaangan",
-  "dataName": "1898_SHG",
+  "friendlyName": "1899_Shaangan",
+  "dataName": "1899_SHG",
   "flagResource": "nationflags/Shaangan",
   "color32": {
    "r": 217,
@@ -9780,8 +9780,8 @@
   "localizationAlias": "SHG"
  },
  {
-  "friendlyName": "1898_Siberia",
-  "dataName": "1898_SIB",
+  "friendlyName": "1899_Siberia",
+  "dataName": "1899_SIB",
   "flagResource": "nationflags/Siberia",
   "color32": {
    "r": 255,
@@ -9817,8 +9817,8 @@
   "localizationAlias": "SIB"
  },
  {
-  "friendlyName": "1898_Sichuan",
-  "dataName": "1898_SCH",
+  "friendlyName": "1899_Sichuan",
+  "dataName": "1899_SCH",
   "flagResource": "nationflags/Sichuan",
   "color32": {
    "r": 140,
@@ -9854,8 +9854,8 @@
   "localizationAlias": "SCH"
  },
  {
-  "friendlyName": "1898_Sicily",
-  "dataName": "1898_SIC",
+  "friendlyName": "1899_Sicily",
+  "dataName": "1899_SIC",
   "flagResource": "nationflags/Sicily",
   "color32": {
    "r": 188,
@@ -9891,8 +9891,8 @@
   "localizationAlias": "SIC"
  },
  {
-  "friendlyName": "1898_Sierra Leone",
-  "dataName": "1898_SLE",
+  "friendlyName": "1899_Sierra Leone",
+  "dataName": "1899_SLE",
   "flagResource": "nationflags/Sierra_Leone",
   "color32": {
    "r": 200,
@@ -9931,8 +9931,8 @@
   "localizationAlias": "SLE"
  },
  {
-  "friendlyName": "1898_Silesia",
-  "dataName": "1898_SIL",
+  "friendlyName": "1899_Silesia",
+  "dataName": "1899_SIL",
   "flagResource": "nationflags/Silesia",
   "color32": {
    "r": 252,
@@ -9968,8 +9968,8 @@
   "localizationAlias": "SIL"
  },
  {
-  "friendlyName": "1898_Sindh",
-  "dataName": "1898_SIN",
+  "friendlyName": "1899_Sindh",
+  "dataName": "1899_SIN",
   "flagResource": "nationflags/Sindh",
   "color32": {
    "r": 200,
@@ -10005,8 +10005,8 @@
   "localizationAlias": "SIN"
  },
  {
-  "friendlyName": "1898_Singapore",
-  "dataName": "1898_SGP",
+  "friendlyName": "1899_Singapore",
+  "dataName": "1899_SGP",
   "flagResource": "nationflags/Singapore",
   "color32": {
    "r": 206,
@@ -10045,8 +10045,8 @@
   "localizationAlias": "SGP"
  },
  {
-  "friendlyName": "1898_Slovakia",
-  "dataName": "1898_SLO",
+  "friendlyName": "1899_Slovakia",
+  "dataName": "1899_SLO",
   "flagResource": "nationflags/Slovakia",
   "color32": {
    "r": 150,
@@ -10085,8 +10085,8 @@
   "localizationAlias": "SLO"
  },
  {
-  "friendlyName": "1898_Slovenia",
-  "dataName": "1898_SLV",
+  "friendlyName": "1899_Slovenia",
+  "dataName": "1899_SLV",
   "flagResource": "nationflags/Slovenia",
   "color32": {
    "r": 101,
@@ -10125,8 +10125,8 @@
   "localizationAlias": "SLV"
  },
  {
-  "friendlyName": "1898_Somalia",
-  "dataName": "1898_SOM",
+  "friendlyName": "1899_Somalia",
+  "dataName": "1899_SOM",
   "flagResource": "nationflags/Somalia",
   "color32": {
    "r": 65,
@@ -10165,8 +10165,8 @@
   "localizationAlias": "SOM"
  },
  {
-  "friendlyName": "1898_Somaliland",
-  "dataName": "1898_SOL",
+  "friendlyName": "1899_Somaliland",
+  "dataName": "1899_SOL",
   "flagResource": "nationflags/Somaliland",
   "color32": {
    "r": 255,
@@ -10202,8 +10202,8 @@
   "localizationAlias": "SOL"
  },
  {
-  "friendlyName": "1898_South Africa",
-  "dataName": "1898_ZAF",
+  "friendlyName": "1899_South Africa",
+  "dataName": "1899_ZAF",
   "flagResource": "nationflags/South_Africa",
   "unionFlagResource": "nationflags/South_Africa",
   "unionTrigger": 4,
@@ -10244,8 +10244,8 @@
   "localizationAlias": "ZAF"
  },
  {
-  "friendlyName": "1898_South Korea",
-  "dataName": "1898_KOR",
+  "friendlyName": "1899_South Korea",
+  "dataName": "1899_KOR",
   "flagResource": "nationflags/South_Korea",
   "unionFlagResource": "nationflags/South_Korea",
   "unionTrigger": 2,
@@ -10302,8 +10302,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_South Peru",
-  "dataName": "1898_SPE",
+  "friendlyName": "1899_South Peru",
+  "dataName": "1899_SPE",
   "flagResource": "nationflags/South_Peru",
   "color32": {
    "r": 5,
@@ -10339,8 +10339,8 @@
   "localizationAlias": "SPE"
  },
  {
-  "friendlyName": "1898_South Sudan",
-  "dataName": "1898_SSD",
+  "friendlyName": "1899_South Sudan",
+  "dataName": "1899_SSD",
   "flagResource": "nationflags/South_Sudan",
   "color32": {
    "r": 110,
@@ -10379,8 +10379,8 @@
   "localizationAlias": "SSD"
  },
  {
-  "friendlyName": "1898_South Yemen",
-  "dataName": "1898_YMS",
+  "friendlyName": "1899_South Yemen",
+  "dataName": "1899_YMS",
   "flagResource": "nationflags/South_Yemen",
   "color32": {
    "r": 157,
@@ -10416,8 +10416,8 @@
   "localizationAlias": "YMS"
  },
  {
-  "friendlyName": "1898_Spain",
-  "dataName": "1898_ESP",
+  "friendlyName": "1899_Spain",
+  "dataName": "1899_ESP",
   "flagResource": "nationflags/Spain",
   "color32": {
    "r": 255,
@@ -10472,8 +10472,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Sri Lanka",
-  "dataName": "1898_LKA",
+  "friendlyName": "1899_Sri Lanka",
+  "dataName": "1899_LKA",
   "flagResource": "nationflags/Sri_Lanka",
   "color32": {
    "r": 233,
@@ -10512,8 +10512,8 @@
   "localizationAlias": "LKA"
  },
  {
-  "friendlyName": "1898_Sudan",
-  "dataName": "1898_SDN",
+  "friendlyName": "1899_Sudan",
+  "dataName": "1899_SDN",
   "flagResource": "nationflags/Sudan",
   "color32": {
    "r": 120,
@@ -10552,8 +10552,8 @@
   "localizationAlias": "SDN"
  },
  {
-  "friendlyName": "1898_Sul Brazil",
-  "dataName": "1898_SUB",
+  "friendlyName": "1899_Sul Brazil",
+  "dataName": "1899_SUB",
   "flagResource": "nationflags/Sul_Brazil",
   "color32": {
    "r": 255,
@@ -10589,8 +10589,8 @@
   "localizationAlias": "SUB"
  },
  {
-  "friendlyName": "1898_Sumatra",
-  "dataName": "1898_SUM",
+  "friendlyName": "1899_Sumatra",
+  "dataName": "1899_SUM",
   "flagResource": "nationflags/Sumatra",
   "color32": {
    "r": 113,
@@ -10626,8 +10626,8 @@
   "localizationAlias": "SUM"
  },
  {
-  "friendlyName": "1898_Suriname",
-  "dataName": "1898_SUR",
+  "friendlyName": "1899_Suriname",
+  "dataName": "1899_SUR",
   "flagResource": "nationflags/Suriname",
   "color32": {
    "r": 236,
@@ -10666,8 +10666,8 @@
   "localizationAlias": "SUR"
  },
  {
-  "friendlyName": "1898_Sweden",
-  "dataName": "1898_SCA",
+  "friendlyName": "1899_Sweden",
+  "dataName": "1899_SCA",
   "flagResource": "nationflags/Sweden",
   "unionFlagResource": "nationflags/Sweden",
   "unionTrigger": 2,
@@ -10724,8 +10724,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Switzerland",
-  "dataName": "1898_SWI",
+  "friendlyName": "1899_Switzerland",
+  "dataName": "1899_SWI",
   "flagResource": "nationflags/Switzerland",
   "color32": {
    "r": 160,
@@ -10780,8 +10780,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Syria",
-  "dataName": "1898_SYR",
+  "friendlyName": "1899_Syria",
+  "dataName": "1899_SYR",
   "flagResource": "nationflags/Syria",
   "color32": {
    "r": 190,
@@ -10820,8 +10820,8 @@
   "localizationAlias": "SYR"
  },
  {
-  "friendlyName": "1898_Taiwan",
-  "dataName": "1898_TWN",
+  "friendlyName": "1899_Taiwan",
+  "dataName": "1899_TWN",
   "flagResource": "nationflags/Taiwan",
   "unionFlagResource": "nationflags/Taiwan",
   "unionTrigger": 2,
@@ -10862,8 +10862,8 @@
   "localizationAlias": "TWN"
  },
  {
-  "friendlyName": "1898_Tajikistan",
-  "dataName": "1898_TJK",
+  "friendlyName": "1899_Tajikistan",
+  "dataName": "1899_TJK",
   "flagResource": "nationflags/Tajikistan",
   "color32": {
    "r": 0,
@@ -10902,8 +10902,8 @@
   "localizationAlias": "TJK"
  },
  {
-  "friendlyName": "1898_Tanzania",
-  "dataName": "1898_TZA",
+  "friendlyName": "1899_Tanzania",
+  "dataName": "1899_TZA",
   "flagResource": "nationflags/Tanzania",
   "unionFlagResource": "nationflags/Tanzania",
   "unionTrigger": 4,
@@ -10944,8 +10944,8 @@
   "localizationAlias": "TZA"
  },
  {
-  "friendlyName": "1898_Tatarstan",
-  "dataName": "1898_TAR",
+  "friendlyName": "1899_Tatarstan",
+  "dataName": "1899_TAR",
   "flagResource": "nationflags/Tatarstan",
   "color32": {
    "r": 178,
@@ -10981,8 +10981,8 @@
   "localizationAlias": "TAR"
  },
  {
-  "friendlyName": "1898_Te Waipounamu",
-  "dataName": "1898_TEW",
+  "friendlyName": "1899_Te Waipounamu",
+  "dataName": "1899_TEW",
   "flagResource": "nationflags/TeWaipounamu",
   "color32": {
    "r": 0,
@@ -11018,8 +11018,8 @@
   "localizationAlias": "TEW"
  },
  {
-  "friendlyName": "1898_Thailand",
-  "dataName": "1898_THA",
+  "friendlyName": "1899_Thailand",
+  "dataName": "1899_THA",
   "flagResource": "nationflags/Thailand",
   "unionFlagResource": "nationflags/Thailand",
   "unionTrigger": 3,
@@ -11076,8 +11076,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Tibet",
-  "dataName": "1898_TBT",
+  "friendlyName": "1899_Tibet",
+  "dataName": "1899_TBT",
   "flagResource": "nationflags/Tibet",
   "color32": {
    "r": 64,
@@ -11113,8 +11113,8 @@
   "localizationAlias": "TBT"
  },
  {
-  "friendlyName": "1898_Tigray Nation",
-  "dataName": "1898_TIG",
+  "friendlyName": "1899_Tigray Nation",
+  "dataName": "1899_TIG",
   "flagResource": "nationflags/Tigray",
   "color32": {
    "r": 150,
@@ -11150,8 +11150,8 @@
   "localizationAlias": "TIG"
  },
  {
-  "friendlyName": "1898_Timor-Leste",
-  "dataName": "1898_TLS",
+  "friendlyName": "1899_Timor-Leste",
+  "dataName": "1899_TLS",
   "flagResource": "nationflags/TimorLeste",
   "color32": {
    "r": 222,
@@ -11190,8 +11190,8 @@
   "localizationAlias": "TLS"
  },
  {
-  "friendlyName": "1898_Togo",
-  "dataName": "1898_TGO",
+  "friendlyName": "1899_Togo",
+  "dataName": "1899_TGO",
   "flagResource": "nationflags/Togo",
   "color32": {
    "r": 204,
@@ -11230,8 +11230,8 @@
   "localizationAlias": "TGO"
  },
  {
-  "friendlyName": "1898_Transylvania",
-  "dataName": "1898_TRA",
+  "friendlyName": "1899_Transylvania",
+  "dataName": "1899_TRA",
   "flagResource": "nationflags/Transylvania",
   "color32": {
    "r": 237,
@@ -11267,8 +11267,8 @@
   "localizationAlias": "TRA"
  },
  {
-  "friendlyName": "1898_Tunisia",
-  "dataName": "1898_TUN",
+  "friendlyName": "1899_Tunisia",
+  "dataName": "1899_TUN",
   "flagResource": "nationflags/Tunisia",
   "color32": {
    "r": 48,
@@ -11307,8 +11307,8 @@
   "localizationAlias": "TUN"
  },
  {
-  "friendlyName": "1898_Turkey",
-  "dataName": "1898_TUR",
+  "friendlyName": "1899_Turkey",
+  "dataName": "1899_TUR",
   "flagResource": "nationflags/Turkey",
   "unionFlagResource": "nationflags/Turkey",
   "unionTrigger": 5,
@@ -11365,8 +11365,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Turkmenistan",
-  "dataName": "1898_TKM",
+  "friendlyName": "1899_Turkmenistan",
+  "dataName": "1899_TKM",
   "flagResource": "nationflags/Turkmenistan",
   "color32": {
    "r": 250,
@@ -11405,8 +11405,8 @@
   "localizationAlias": "TKM"
  },
  {
-  "friendlyName": "1898_Uganda",
-  "dataName": "1898_UGA",
+  "friendlyName": "1899_Uganda",
+  "dataName": "1899_UGA",
   "flagResource": "nationflags/Uganda",
   "color32": {
    "r": 205,
@@ -11445,8 +11445,8 @@
   "localizationAlias": "UGA"
  },
  {
-  "friendlyName": "1898_Ukraine",
-  "dataName": "1898_UKR",
+  "friendlyName": "1899_Ukraine",
+  "dataName": "1899_UKR",
   "flagResource": "nationflags/Ukraine",
   "color32": {
    "r": 0,
@@ -11485,8 +11485,8 @@
   "localizationAlias": "UKR"
  },
  {
-  "friendlyName": "1898_United Arab Emirates",
-  "dataName": "1898_UAE",
+  "friendlyName": "1899_United Arab Emirates",
+  "dataName": "1899_UAE",
   "flagResource": "nationflags/United_Arab_Emirates",
   "color32": {
    "r": 173,
@@ -11525,8 +11525,8 @@
   "localizationAlias": "UAE"
  },
  {
-  "friendlyName": "1898_United Kingdom",
-  "dataName": "1898_GBR",
+  "friendlyName": "1899_United Kingdom",
+  "dataName": "1899_GBR",
   "flagResource": "nationflags/United_Kingdom",
   "unionFlagResource": "nationflags/United_Kingdom",
   "unionTrigger": 3,
@@ -11585,8 +11585,8 @@
   "buildNavyIPs": 0.3
  },
  {
-  "friendlyName": "1898_United Northeast Brazil",
-  "dataName": "1898_UNB",
+  "friendlyName": "1899_United Northeast Brazil",
+  "dataName": "1899_UNB",
   "flagResource": "nationflags/United_Northeast_Brazil",
   "color32": {
    "r": 15,
@@ -11622,8 +11622,8 @@
   "localizationAlias": "UNB"
  },
  {
-  "friendlyName": "1898_United States of America",
-  "dataName": "1898_USA",
+  "friendlyName": "1899_United States of America",
+  "dataName": "1899_USA",
   "flagResource": "nationflags/United_States",
   "unionFlagResource": "nationflags/United_States",
   "unionTrigger": 21,
@@ -11681,8 +11681,8 @@
   "buildNavyIPs": 0.3
  },
  {
-  "friendlyName": "1898_Ural Republic",
-  "dataName": "1898_URL",
+  "friendlyName": "1899_Ural Republic",
+  "dataName": "1899_URL",
   "flagResource": "nationflags/Ural",
   "color32": {
    "r": 183,
@@ -11718,8 +11718,8 @@
   "localizationAlias": "URL"
  },
  {
-  "friendlyName": "1898_Uruguay",
-  "dataName": "1898_URY",
+  "friendlyName": "1899_Uruguay",
+  "dataName": "1899_URY",
   "flagResource": "nationflags/Uruguay",
   "color32": {
    "r": 252,
@@ -11774,8 +11774,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Uzbekistan",
-  "dataName": "1898_UZB",
+  "friendlyName": "1899_Uzbekistan",
+  "dataName": "1899_UZB",
   "flagResource": "nationflags/Uzbekistan",
   "color32": {
    "r": 255,
@@ -11814,8 +11814,8 @@
   "localizationAlias": "UZB"
  },
  {
-  "friendlyName": "1898_Venezuela",
-  "dataName": "1898_VEN",
+  "friendlyName": "1899_Venezuela",
+  "dataName": "1899_VEN",
   "flagResource": "nationflags/Venezuela",
   "color32": {
    "r": 147,
@@ -11870,8 +11870,8 @@
   "buildNavyIPs": 0
  },
  {
-  "friendlyName": "1898_Vietnam",
-  "dataName": "1898_VNM",
+  "friendlyName": "1899_Vietnam",
+  "dataName": "1899_VNM",
   "flagResource": "nationflags/Vietnam",
   "color32": {
    "r": 200,
@@ -11910,8 +11910,8 @@
   "localizationAlias": "VNM"
  },
  {
-  "friendlyName": "1898_Wales",
-  "dataName": "1898_WAL",
+  "friendlyName": "1899_Wales",
+  "dataName": "1899_WAL",
   "flagResource": "nationflags/Wales",
   "color32": {
    "r": 153,
@@ -11947,8 +11947,8 @@
   "localizationAlias": "WAL"
  },
  {
-  "friendlyName": "1898_Waziristan",
-  "dataName": "1898_WAZ",
+  "friendlyName": "1899_Waziristan",
+  "dataName": "1899_WAZ",
   "flagResource": "nationflags/Waziristan",
   "color32": {
    "r": 25,
@@ -11984,8 +11984,8 @@
   "localizationAlias": "WAZ"
  },
  {
-  "friendlyName": "1898_West Germany",
-  "dataName": "1898_WGA",
+  "friendlyName": "1899_West Germany",
+  "dataName": "1899_WGA",
   "flagResource": "nationflags/Germany",
   "color32": {
    "r": 195,
@@ -12021,8 +12021,8 @@
   "localizationAlias": "WGA"
  },
  {
-  "friendlyName": "1898_Western Canada",
-  "dataName": "1898_WCA",
+  "friendlyName": "1899_Western Canada",
+  "dataName": "1899_WCA",
   "flagResource": "nationflags/WesternCanada",
   "color32": {
    "r": 180,
@@ -12058,8 +12058,8 @@
   "localizationAlias": "WCA"
  },
  {
-  "friendlyName": "1898_Westralia",
-  "dataName": "1898_WES",
+  "friendlyName": "1899_Westralia",
+  "dataName": "1899_WES",
   "flagResource": "nationflags/Westralia",
   "color32": {
    "r": 35,
@@ -12095,8 +12095,8 @@
   "localizationAlias": "WES"
  },
  {
-  "friendlyName": "1898_Yemen",
-  "dataName": "1898_YEM",
+  "friendlyName": "1899_Yemen",
+  "dataName": "1899_YEM",
   "flagResource": "nationflags/Yemen",
   "color32": {
    "r": 225,
@@ -12135,8 +12135,8 @@
   "localizationAlias": "YEM"
  },
  {
-  "friendlyName": "1898_Yucatán",
-  "dataName": "1898_YUC",
+  "friendlyName": "1899_Yucatán",
+  "dataName": "1899_YUC",
   "flagResource": "nationflags/Yucatan",
   "color32": {
    "r": 150,
@@ -12172,8 +12172,8 @@
   "localizationAlias": "YUC"
  },
  {
-  "friendlyName": "1898_Yungui",
-  "dataName": "1898_YUN",
+  "friendlyName": "1899_Yungui",
+  "dataName": "1899_YUN",
   "flagResource": "nationflags/Yungui",
   "color32": {
    "r": 155,
@@ -12209,8 +12209,8 @@
   "localizationAlias": "YUN"
  },
  {
-  "friendlyName": "1898_Zambia",
-  "dataName": "1898_ZMB",
+  "friendlyName": "1899_Zambia",
+  "dataName": "1899_ZMB",
   "flagResource": "nationflags/Zambia",
   "color32": {
    "r": 255,
@@ -12249,8 +12249,8 @@
   "localizationAlias": "ZMB"
  },
  {
-  "friendlyName": "1898_Zanzibar",
-  "dataName": "1898_ZAN",
+  "friendlyName": "1899_Zanzibar",
+  "dataName": "1899_ZAN",
   "flagResource": "nationflags/Zanzibar",
   "color32": {
    "r": 191,
@@ -12286,8 +12286,8 @@
   "localizationAlias": "ZAN"
  },
  {
-  "friendlyName": "1898_Zimbabwe",
-  "dataName": "1898_ZWE",
+  "friendlyName": "1899_Zimbabwe",
+  "dataName": "1899_ZWE",
   "flagResource": "nationflags/Zimbabwe",
   "color32": {
    "r": 129,

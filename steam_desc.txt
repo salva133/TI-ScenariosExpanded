@@ -4,7 +4,7 @@ Two start scenarios, each built on the world as it actually stood on the day it 
 
 [hr][/hr]
 
-[h2]1898 — War for our World[/h2]
+[h2]1899 — War for our World[/h2]
 
 The year H. G. Wells published [i]The War of the Worlds[/i]. 52 sovereign nations.
 
@@ -50,14 +50,14 @@ World economic output stands at five percent of the present-day figure, and the 
 
 [hr][/hr]
 
-[h2]One more thing on the 1898 scenario[/h2]
+[h2]One more thing on the 1899 scenario[/h2]
 
 Don't ask me how it is possible that councilors can move that quick without actual planes.
 They just can.
 They fly now.
 
 [h3]FAQs[/h3]
-[i]Do you realise that the tech tree is way too advanced to keep a starting scenario in 1898 plausible?[/i]
+[i]Do you realise that the tech tree is way too advanced to keep a starting scenario in 1899 plausible?[/i]
 - ye
 [i]Do you even care?[/i]
 - nah

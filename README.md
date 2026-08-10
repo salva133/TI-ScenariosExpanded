@@ -26,12 +26,12 @@ more. Both scenarios then appear under **Scenario**.
 
 | Scenario | Starts | Landing site |
 | --- | --- | --- |
-| 1898 — War for our World | 1 January 1898 | the English Midlands |
+| 1899 — War for our World | 18 August 1899 | the English Midlands |
 | 1947 — Roswell | 8 July 1947 | New Mexico |
 
 ---
 
-### 1898 — War for our World
+### 1899 — War for our World
 
 The year H. G. Wells published *The War of the Worlds*. 52 sovereign states,
 243 nations without statehood, a fully colonial map.
@@ -63,7 +63,7 @@ keeps to its splendid isolation; its only alliance is the old one with Portugal.
 Russia is coloured green and Portugal purple, as in the colonial atlases of the
 period. The base game has those two the other way round.
 
-**The first cylinder.** In January 1898 the scenario fires an event of its own,
+**The first cylinder.** In January 1899 the scenario fires an event of its own,
 *The Thing in the Common*: something has come down on a heath common in England,
 as at Horsell Common near Woking in Wells. There is nothing to decide. By the
 time the report reaches the council the cylinder has opened, the deputation that
@@ -73,16 +73,16 @@ option, and it is an acknowledgement.
 
 Alien megafauna appear in the region. The economy of England stops, cohesion and
 public order go with it, and the ground around the pit begins to xenoform.
-Against the miltech of 1898 the thing is very nearly unkillable, which is the
+Against the miltech of 1899 the thing is very nearly unkillable, which is the
 point.
 
 Terra Invicta has no template for alien ground units; they exist only at
 runtime. The only way to place one is the base game's own effect
 `Effect_SpawnMegafaunaArmy`, whose target is the region the event fires on. The
-event is pinned to that one region three times over: by name (`1898_England`),
+event is pinned to that one region three times over: by name (`1899_England`),
 by a scenario tag that no other start carries, and by a latitude and longitude
 window that matches no other region on the map. It is also fenced to January
-1898. It cannot appear anywhere else.
+1899. It cannot appear anywhere else.
 
 ### 1947 — Roswell
 
@@ -157,7 +157,7 @@ The greenhouse gases are the annual values of the historical series the climate
 models are calibrated on — Law Dome ice cores spliced to the instrumental record,
 as compiled for MAGICC and later for CMIP6.
 
-| | 1898 | 1947 |
+| | 1899 | 1947 |
 | --- | ---: | ---: |
 | CO₂ | 295.0 ppm | 310.0 ppm |
 | CH₄ | 0.88 ppm | 1.13 ppm |
@@ -165,14 +165,14 @@ as compiled for MAGICC and later for CMIP6.
 | Stratospheric aerosols | 0 | 0 |
 
 Both years are volcanically quiet. Krakatoa had cleared the stratosphere long
-before 1898, and Santa María and Katmai were still to come; 1947 sits in the long
+before 1899, and Santa María and Katmai were still to come; 1947 sits in the long
 gap between Katmai and Agung. Neither start carries excess aerosols.
 
 ### The sea
 
 The game does not measure its sea level anomaly against the present. The 2022
 campaign starts at +24 cm, which is the rise since roughly 1880 — the same
-baseline the tide-gauge reconstructions use. 1898 therefore starts at +3 cm and
+baseline the tide-gauge reconstructions use. 1899 therefore starts at +3 cm and
 1947 at +9 cm. Both scenarios previously carried the distance to the present day
 instead, which put the water some 20 cm too low.
 
@@ -192,7 +192,7 @@ against the world figure for 2022 and compressed by a square root, because the
 raw spread runs to two orders of magnitude and the game's scale does not.
 
 The result is that the dirty nations are not the industrial ones. Britain burnt
-a third of the world's coal in 1898 and still lands at 0.3, the same as Brazil,
+a third of the world's coal in 1899 and still lands at 0.3, the same as Brazil,
 because the measure is emissions against the size of the economy — and the
 economies clearing rainforest for a fraction of Britain's output come out worse.
 Colombia, Nicaragua and Bolivia sit at 0.2, the Ottoman Empire and Bulgaria at
@@ -200,8 +200,8 @@ Colombia, Nicaragua and Bolivia sit at 0.2, the Ottoman Empire and Bulgaria at
 burn nor forest to clear. The base game orders its present-day nations the same way, which is why
 China and much of Africa start below the European figures.
 
-The world averages 0.54 in 1898 and 0.53 in 1947, against roughly 1.0 today.
-Together with the historical GDP figures that puts world emissions in 1898 at
+The world averages 0.54 in 1899 and 0.53 in 1947, against roughly 1.0 today.
+Together with the historical GDP figures that puts world emissions in 1899 at
 about four percent of the present, which is where the fossil record has them.
 The flat zero the mod shipped before meant every nation emitted at the maximum
 multiplier the game allows.
@@ -217,18 +217,18 @@ repair themselves out of combat, and at the bottom of the scale the repairs can
 outrun the damage, at which point a war stops resolving at all.
 
 The band therefore starts at 1.0, the point where a hit takes a tenth of the
-target. 1898 runs 1.0 to 2.5, 1947 runs 1.0 to 3.4. The whole band is shifted,
+target. 1899 runs 1.0 to 2.5, 1947 runs 1.0 to 3.4. The whole band is shifted,
 not stretched: every distance between two nations is the one the historical
 reading gave them, so the hit chances between any two of them are untouched. The
 one thing that changes with the floor is the ratio in damage between the
 strongest and the weakest, which narrows — the Bhutanese army is no longer
 fighting at a fortieth of the German rate, but at a sixth.
 
-The order is the historical one. Germany and Britain lead 1898, Germany for the
+The order is the historical one. Germany and Britain lead 1899, Germany for the
 general staff, the Krupp guns and the Gewehr 98, Britain for the fleet rather
 than for the army that was about to embarrass itself in South Africa. France
 follows with the Canon de 75 of 1897, the best field gun in the world. The
-United States sits below Russia and Austria because its army in 1898 was 28,000
+United States sits below Russia and Austria because its army in 1899 was 28,000
 regulars, with volunteers still carrying black powder and an artillery park a
 generation old; only the navy was new. Spain sits below the United States, which
 is how that war went, and the Ottoman Empire above Greece, which is how the war
@@ -244,14 +244,14 @@ after the Japanese took the Beiyang fleet apart.
   remain set so that the tech tree and interface keep working.
 - The map itself is unchanged. Borders follow present-day region boundaries;
   only ownership differs.
-- In 1898 no nation has space funding, boost capacity or mission control at all.
+- In 1899 no nation has space funding, boost capacity or mission control at all.
   Getting off the planet has to be built from nothing.
-- The flag bundle holds nothing for the empires of 1898, so those nations fly
+- The flag bundle holds nothing for the empires of 1899, so those nations fly
   their modern flags. Britain and Germany at least fly the union jack and the
   German tricolour rather than the flags of England and East Germany.
 - Federation names are not localised. This is also true of the base game's.
 - Rivalries cannot exist inside a federation, which costs the Italian irredenta
-  against Austria in 1898 and the Tito-Stalin split in 1947.
+  against Austria in 1899 and the Tito-Stalin split in 1947.
 
 ## Building
 
@@ -265,13 +265,13 @@ against the base game's templates.
 ### 2.8.0
 
 - Added the narrative event *The Thing in the Common*, which drops alien
-  megafauna into England in January 1898. It has a single option: when it fires
+  megafauna into England in January 1899. It has a single option: when it fires
   the landing, the deputation and the first casualties are already past, and the
   council is told rather than asked. Three independent restrictions keep it in
   that scenario and that region, and the event is fenced to the first month.
-- The 1898 scenario carries its own tag `Wells1898`, the same mechanism the Dark
+- The 1899 scenario carries its own tag `Wells1899`, the same mechanism the Dark
   Skies DLC uses to fence its events to 2003.
-- The landing site of 1898 is the English Midlands, no longer random. The table
+- The landing site of 1899 is the English Midlands, no longer random. The table
   above said random until now, which had not been true since the start region
   was fixed.
 - `checkall.py` validates events: effect names against the base game, target
@@ -283,7 +283,7 @@ against the base game's templates.
 - Raised the miltech band. Damage in ground combat is proportional to the
   attacker's absolute miltech, so at the old values a battle took some ten times
   the rounds of a present-day one, and two weak nations could repair faster than
-  they could hurt each other. 1898 now runs 1.0 to 2.5 and 1947 1.0 to 3.4,
+  they could hurt each other. 1899 now runs 1.0 to 2.5 and 1947 1.0 to 3.4,
   where they ran 0.1 to 1.6 and 0.2 to 2.6.
 - The band is shifted, not stretched. Hit chances depend only on the difference
   between two nations, and every difference is unchanged, so no nation gained or
@@ -291,12 +291,12 @@ against the base game's templates.
 
 ### 2.6.0
 
-- Corrected the greenhouse gases. N₂O stood at 0.29 ppm in 1898, which is the
+- Corrected the greenhouse gases. N₂O stood at 0.29 ppm in 1899, which is the
   concentration of 1953 and also the exact threshold above which the game counts
   the gas at all; the ice cores give 0.2797 ppm for that year. CH₄ was 20 to
   25 ppb high in both scenarios. CO₂ was already right in both.
 - Corrected the sea level. The game counts its anomaly from about 1880, not from
-  the present day: the 2022 campaign starts at +24 cm. 1898 therefore stands at
+  the present day: the 2022 campaign starts at +24 cm. 1899 therefore stands at
   +3 cm and 1947 at +9 cm, where the mod had −20 and −3. The two old values were
   not even consistent with each other — they were 17 cm apart, where the
   reconstructions have the two years 6 cm apart.
@@ -309,7 +309,7 @@ against the base game's templates.
 
 - Removed the Mars variant. `TIFactionState.NewCampaign()` looks up the habitat
   templates `AlienHQ` and `AlienHQStation` by their literal names, without
-  applying `scenarioPrefix`, so `1898M_AlienHQ` was never found and the method
+  applying `scenarioPrefix`, so `1899M_AlienHQ` was never found and the method
   ran into a null reference. The orbit of the alien station is hard-coded to
   `LowNeptuneOrbit` as well. A scenario-specific alien headquarters is therefore
   not possible through templates, and the variant is gone rather than shipped
@@ -321,10 +321,10 @@ against the base game's templates.
 - Fixed the crash when starting the Mars variant. `AlienHQ` is hard-coded in the
   game's assembly: the alien headquarters must carry exactly that name or
   `TIFactionState.NewCampaign()` cannot find it. Renaming it to
-  `1898_AlienHQMars` broke the scenario. The Mars variant now has its own prefix
-  `1898M_` and defines `1898M_AlienHQ`, which the game resolves through
+  `1899_AlienHQMars` broke the scenario. The Mars variant now has its own prefix
+  `1899M_` and defines `1899M_AlienHQ`, which the game resolves through
   `scenarioPrefix` before falling back to the base entry.
-- As a consequence the two 1898 scenarios no longer share their data; each ships
+- As a consequence the two 1899 scenarios no longer share their data; each ships
   a full prefixed set. The mod grows from 2.1 to 3.1 MB.
 - `build.py` now clears each generator's output folder before running, so no
   file survives from an earlier build that the generator no longer writes.
@@ -367,7 +367,7 @@ against the base game's templates.
 
 ### 2.0.0
 
-- Renamed from *1898 — War for our World* to *Scenarios Expanded*, since the mod
+- Renamed from *1899 — War for our World* to *Scenarios Expanded*, since the mod
   now carries more than one period.
 - Added *1947 — Roswell*.
 - Build pipeline reworked: each scenario is generated separately and merged into
@@ -396,7 +396,7 @@ against the base game's templates.
 
 ### 1.3.0
 
-- Renamed to *1898 — War for our World*.
+- Renamed to *1899 — War for our World*.
 
 ### 1.2.0
 

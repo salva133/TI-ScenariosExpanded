@@ -1,14 +1,14 @@
 [
  {
-  "dataName": "event_1898_HorsellCommon",
+  "dataName": "event_1899_HorsellCommon",
   "friendlyName": "The Thing in the Common",
   "illustrationResource": "illustrations/Event_TerrorFromTheDepths",
   "scenarioTags": [
-   "Wells1898"
+   "Wells1899"
   ],
   "requiresAliens": false,
-  "year": 1898,
-  "endYear": 1898,
+  "year": 1899,
+  "endYear": 1899,
   "earliestMonth": 1,
   "latestMonth": 1,
   "logPublicity": "global",
@@ -22,7 +22,7 @@
   "hitAllQualifyingTargets": true,
   "firstTargetNotificationOnly": true,
   "possibleTargetDataNames": [
-   "1898_England"
+   "1899_England"
   ],
   "targetConditions": [
    {
