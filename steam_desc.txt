@@ -6,7 +6,7 @@ Two start scenarios, each built on the world as it actually stood on the day it 
 
 [h2]1899 — War for our World[/h2]
 
-The year H. G. Wells published [i]The War of the Worlds[/i]. 52 sovereign nations.
+The assumed year H. G. Wells's [i]The War of the Worlds[/i] takes place. 52 sovereign nations.
 
 [table]
 [tr][th]Power[/th][th]Regions[/th][th]of which colonial[/th][/tr]
@@ -30,7 +30,7 @@ Spaceflight and the atom belong to the future. Every road off the planet has to 
 
 The day Roswell Army Air Field reported recovering a flying disc. It comes down over New Mexico.
 
-67 sovereign states. The Cold War is four weeks past the Marshall Plan announcement. On 8 July India is still British, and so are Pakistan, Bangladesh, Burma, Ceylon and Malaya.
+67 sovereign states. The Cold War is four weeks past the Marshall Plan announcement.
 
 [table]
 [tr][th]Power[/th][th]Regions[/th][th]of which colonial[/th][/tr]
