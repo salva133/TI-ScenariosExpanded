@@ -33,8 +33,8 @@ more. Both scenarios then appear under **Scenario**.
 
 ### 1899 — War for our World
 
-The year H. G. Wells published *The War of the Worlds*. 52 sovereign states,
-243 nations without statehood, a fully colonial map.
+The assumed year of *The War of the Worlds*. 52 sovereign states, 243 nations
+without statehood, a fully colonial map.
 
 | Power | Regions | of which colonial |
 | --- | ---: | ---: |
@@ -42,8 +42,9 @@ The year H. G. Wells published *The War of the Worlds*. 52 sovereign states,
 | Russian Empire | 40 | — |
 | French Republic | 34 | 26 |
 | Great Qing | 26 | — |
+| United States | 21 | 6 |
 | Ottoman Empire | 19 | — |
-| United States | 16 | — |
+| German Empire | 15 | 9 |
 
 World economic output is two percent of the present-day figure, distributed by
 the 1900 GDP shares from the Maddison Project. World population 1.68 billion. No
@@ -51,8 +52,17 @@ nuclear weapons, no space budget, no human habitats. Miltech runs 1.0 to 2.5
 instead of the 3 to 5 of the present day. 295 ppm of CO₂ and a sea level 21 cm
 below today's.
 
-Spain still holds Cuba, Puerto Rico and the Philippines: the start date is
-1 January, three months before the Spanish-American War breaks out.
+**The Spanish empire is a year gone.** The start date sits eight months after
+the Treaty of Paris. Cuba is under American military government, Puerto Rico,
+Luzon, the Visayas and Mindanao are American, and the Philippine-American War
+has been running since February. The Carolines, Marianas and Palau went to
+Germany by the treaty of 12 February 1899, ratified on 30 June; Guam stayed
+American. Hawaii was annexed in July 1898. All of it is held as colonies, not as
+national territory, because none of it was administered as such in 1899.
+
+What Spain has left is the peninsula, the Canaries, Rio de Oro and Rio Muni. The
+fleet went down at Cavite and Santiago, the *Desastre del 98* is a year old, and
+her cohesion and unrest carry it.
 
 **Federations.** Triple Alliance (German Empire, Empire of Austria, Kingdom of
 Hungary, Kingdom of Italy), Franco-Russian Alliance, Union of Sweden and Norway.

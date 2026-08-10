@@ -12389,14 +12389,17 @@
   "dataName": "1899_ClaimUSAAmericanCaribbean",
   "relationType": "Claim",
   "nation1": "1899_USA",
-  "region1": "1899_AmericanCaribbean"
+  "region1": "1899_AmericanCaribbean",
+  "initialOwner": true,
+  "initialColony": true
  },
  {
   "dataName": "1899_ClaimUSAAmericanPacific",
   "relationType": "Claim",
   "nation1": "1899_USA",
   "region1": "1899_AmericanPacific",
-  "initialOwner": true
+  "initialOwner": true,
+  "initialColony": true
  },
  {
   "dataName": "1899_ClaimUSABahamas",
@@ -12466,7 +12469,8 @@
   "relationType": "Claim",
   "nation1": "1899_USA",
   "region1": "1899_Cuba",
-  "projectUnlockName": "Project_GreaterUnitedNorthAmerica"
+  "initialOwner": true,
+  "initialColony": true
  },
  {
   "dataName": "1899_ClaimUSACumberland",
@@ -15803,14 +15807,6 @@
   "initialColony": true
  },
  {
-  "dataName": "1899_ClaimESPCuba",
-  "relationType": "Claim",
-  "nation1": "1899_ESP",
-  "region1": "1899_Cuba",
-  "initialOwner": true,
-  "initialColony": true
- },
- {
   "dataName": "1899_ClaimALPCzechia",
   "relationType": "Claim",
   "nation1": "1899_ALP",
@@ -16304,9 +16300,9 @@
   "initialColony": true
  },
  {
-  "dataName": "1899_ClaimESPMicronesia",
+  "dataName": "1899_ClaimDEUMicronesia",
   "relationType": "Claim",
-  "nation1": "1899_ESP",
+  "nation1": "1899_DEU",
   "region1": "1899_Micronesia",
   "initialOwner": true,
   "initialColony": true
@@ -16494,25 +16490,25 @@
   "initialColony": true
  },
  {
-  "dataName": "1899_ClaimESPLuzon",
+  "dataName": "1899_ClaimUSALuzon",
   "relationType": "Claim",
-  "nation1": "1899_ESP",
+  "nation1": "1899_USA",
   "region1": "1899_Luzon",
   "initialOwner": true,
   "initialColony": true
  },
  {
-  "dataName": "1899_ClaimESPViasyasyMindanao",
+  "dataName": "1899_ClaimUSAViasyasyMindanao",
   "relationType": "Claim",
-  "nation1": "1899_ESP",
+  "nation1": "1899_USA",
   "region1": "1899_ViasyasyMindanao",
   "initialOwner": true,
   "initialColony": true
  },
  {
-  "dataName": "1899_ClaimESPVisayas",
+  "dataName": "1899_ClaimUSAVisayas",
   "relationType": "Claim",
-  "nation1": "1899_ESP",
+  "nation1": "1899_USA",
   "region1": "1899_Visayas",
   "initialOwner": true,
   "initialColony": true
@@ -16786,14 +16782,6 @@
   "relationType": "Claim",
   "nation1": "1899_GBR",
   "region1": "1899_Uganda",
-  "initialOwner": true,
-  "initialColony": true
- },
- {
-  "dataName": "1899_ClaimESPAmericanCaribbean",
-  "relationType": "Claim",
-  "nation1": "1899_ESP",
-  "region1": "1899_AmericanCaribbean",
   "initialOwner": true,
   "initialColony": true
  },
