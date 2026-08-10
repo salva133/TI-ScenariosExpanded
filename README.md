@@ -9,7 +9,7 @@ The mod adds scenarios and changes nothing in existing campaigns. Every record
 carries a scenario prefix and is appended to the base data, so the 2022, 2026,
 2030 and 2070 scenarios — and the Dark Skies scenarios — remain untouched.
 
-**Version 2.7.0** · Terra Invicta 1.0.51
+**Version 2.8.0** · Terra Invicta 1.0.51
 
 ## Installation
 
@@ -26,7 +26,7 @@ more. Both scenarios then appear under **Scenario**.
 
 | Scenario | Starts | Landing site |
 | --- | --- | --- |
-| 1898 — War for our World | 1 January 1898 | random |
+| 1898 — War for our World | 1 January 1898 | the English Midlands |
 | 1947 — Roswell | 8 July 1947 | New Mexico |
 
 ---
@@ -62,6 +62,27 @@ keeps to its splendid isolation; its only alliance is the old one with Portugal.
 
 Russia is coloured green and Portugal purple, as in the colonial atlases of the
 period. The base game has those two the other way round.
+
+**The first cylinder.** In January 1898 the scenario fires an event of its own,
+*The Thing in the Common*: something has come down on a heath common in England,
+as at Horsell Common near Woking in Wells. There is nothing to decide. By the
+time the report reaches the council the cylinder has opened, the deputation that
+walked towards it under a white flag has been burnt off the field, and what rose
+out of the pit is already moving towards inhabited country. The event has one
+option, and it is an acknowledgement.
+
+Alien megafauna appear in the region. The economy of England stops, cohesion and
+public order go with it, and the ground around the pit begins to xenoform.
+Against the miltech of 1898 the thing is very nearly unkillable, which is the
+point.
+
+Terra Invicta has no template for alien ground units; they exist only at
+runtime. The only way to place one is the base game's own effect
+`Effect_SpawnMegafaunaArmy`, whose target is the region the event fires on. The
+event is pinned to that one region three times over: by name (`1898_England`),
+by a scenario tag that no other start carries, and by a latitude and longitude
+window that matches no other region on the map. It is also fenced to January
+1898. It cannot appear anywhere else.
 
 ### 1947 — Roswell
 
@@ -240,6 +261,22 @@ warns on any duplicate identifier. `checkall.py` then validates the merged mod
 against the base game's templates.
 
 ## Changelog
+
+### 2.8.0
+
+- Added the narrative event *The Thing in the Common*, which drops alien
+  megafauna into England in January 1898. It has a single option: when it fires
+  the landing, the deputation and the first casualties are already past, and the
+  council is told rather than asked. Three independent restrictions keep it in
+  that scenario and that region, and the event is fenced to the first month.
+- The 1898 scenario carries its own tag `Wells1898`, the same mechanism the Dark
+  Skies DLC uses to fence its events to 2003.
+- The landing site of 1898 is the English Midlands, no longer random. The table
+  above said random until now, which had not been true since the start region
+  was fixed.
+- `checkall.py` validates events: effect names against the base game, target
+  region against the scenario, year against the start date, and every
+  localisation key the game can ask for, in both languages.
 
 ### 2.7.0
 

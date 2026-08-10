@@ -1,0 +1,84 @@
+[
+ {
+  "dataName": "event_1898_HorsellCommon",
+  "friendlyName": "The Thing in the Common",
+  "illustrationResource": "illustrations/Event_TerrorFromTheDepths",
+  "scenarioTags": [
+   "Wells1898"
+  ],
+  "requiresAliens": false,
+  "year": 1898,
+  "endYear": 1898,
+  "earliestMonth": 1,
+  "latestMonth": 1,
+  "logPublicity": "global",
+  "alertPublicity": "factions",
+  "repeatable": "OncePerCampaign",
+  "numOptions": 1,
+  "forceEvent": true,
+  "reqEventUnlock": false,
+  "altBaseWeight": {},
+  "targetType": "region",
+  "hitAllQualifyingTargets": true,
+  "firstTargetNotificationOnly": true,
+  "possibleTargetDataNames": [
+   "1898_England"
+  ],
+  "targetConditions": [
+   {
+    "$type": "TIRegionCondition_fLatitude",
+    "sign": "GreaterThan",
+    "strValue": "51"
+   },
+   {
+    "$type": "TIRegionCondition_fLatitude",
+    "sign": "LessThan",
+    "strValue": "52"
+   },
+   {
+    "$type": "TIRegionCondition_fLongitude",
+    "sign": "GreaterThan",
+    "strValue": "-1"
+   },
+   {
+    "$type": "TIRegionCondition_fLongitude",
+    "sign": "LessThan",
+    "strValue": "1"
+   }
+  ],
+  "targetWeightModifiers": [
+   {}
+  ],
+  "sameSecondaryForAllTargets": false,
+  "secondaryStateConditions": [],
+  "secondaryWeightModifiers": [
+   {}
+  ],
+  "eventOptions": [
+   {
+    "baseAIPreference": 1,
+    "outcomes": [
+     {
+      "weight": 1,
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ],
+      "effectTemplateNames": [
+       "Effect_SpawnMegafaunaArmy",
+       "Effect_GDPLoss04",
+       "Effect_MajorCohesionLoss",
+       "Effect_MajorUnrestGain",
+       "Effect_XenoformingIncrease25"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

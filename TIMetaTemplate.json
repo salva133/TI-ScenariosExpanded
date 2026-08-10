@@ -3,7 +3,8 @@
   "dataName": "WarForOurWorldScenario",
   "friendlyName": "1898 - War for our World",
   "scenarioTags": [
-   "NotPostApoc"
+   "NotPostApoc",
+   "Wells1898"
   ],
   "newCampaignOptionCategory": "Scenario",
   "isNewCampaignOption": true,

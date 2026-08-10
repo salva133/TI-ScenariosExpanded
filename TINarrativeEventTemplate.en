@@ -1,0 +1,8 @@
+TINarrativeEventTemplate.displayName.event_1898_HorsellCommon=The Thing in the Common
+TINarrativeEventTemplate.event_1898_HorsellCommon.summary=On a heath common in {targetRegionName}, what nobody could have stopped has happened.
+TINarrativeEventTemplate.event_1898_HorsellCommon.query=The observatories took it for a meteorite; the papers called it a shooting star. By morning a cylinder thirty yards across lay in the sand, and the disc at its end was slowly turning itself out. By noon a ring of sightseers had formed around the pit. In the afternoon three men walked towards it with a bedsheet on a pole.<br/><br/>What happened next is told the same way by the few who got off the common: a glaring beam, a sound like tearing cloth, and where the deputation had stood, nothing but scorched ground. Something rose out of the pit, taller than the pines at its edge, and began to move. It is going south, towards the towns.
+TINarrativeEventTemplate.event_1898_HorsellCommon.option0=There was nothing anyone could have done.
+TINarrativeEventTemplate.event_1898_HorsellCommon.optionDetail0=<skip/>
+TINarrativeEventTemplate.event_1898_HorsellCommon.option0.outcome0=It is already walking.
+TINarrativeEventTemplate.event_1898_HorsellCommon.option0.outcome0.Summary=Something not of this world is loose in {targetRegionName}.
+TINarrativeEventTemplate.event_1898_HorsellCommon.option0.outcome0.Detail=The deputation is dead, the common is burnt, and what climbed out of the cylinder is moving towards inhabited country.
