@@ -63,7 +63,8 @@ keeps to its splendid isolation; its only alliance is the old one with Portugal.
 Russia is coloured green and Portugal purple, as in the colonial atlases of the
 period. The base game has those two the other way round.
 
-**The first cylinder.** In January 1899 the scenario fires an event of its own,
+**The first cylinder.** In the first weeks of the campaign the scenario fires an
+event of its own,
 *The Thing in the Common*: something has come down on a heath common in England,
 as at Horsell Common near Woking in Wells. There is nothing to decide. By the
 time the report reaches the council the cylinder has opened, the deputation that
@@ -81,8 +82,8 @@ runtime. The only way to place one is the base game's own effect
 `Effect_SpawnMegafaunaArmy`, whose target is the region the event fires on. The
 event is pinned to that one region three times over: by name (`1899_England`),
 by a scenario tag that no other start carries, and by a latitude and longitude
-window that matches no other region on the map. It is also fenced to January
-1899. It cannot appear anywhere else.
+window that matches no other region on the map. It is also fenced to the months
+from the start date to the end of 1899. It cannot appear anywhere else.
 
 ### 1947 — Roswell
 
@@ -265,7 +266,7 @@ against the base game's templates.
 ### 2.8.0
 
 - Added the narrative event *The Thing in the Common*, which drops alien
-  megafauna into England in January 1899. It has a single option: when it fires
+  megafauna into England in the opening weeks. It has a single option: when it fires
   the landing, the deputation and the first casualties are already past, and the
   council is told rather than asked. Three independent restrictions keep it in
   that scenario and that region, and the event is fenced to the first month.
