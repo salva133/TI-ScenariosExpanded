@@ -18,7 +18,7 @@ The year H. G. Wells published [i]The War of the Worlds[/i]. 52 sovereign nation
 [tr][td]United States[/td][td]16[/td][td]—[/td][/tr]
 [/table]
 
-World economic output stands at two percent of the present-day figure, distributed by the 1900 GDP shares from the Maddison Project. World population 1.68 billion. Miltech runs from 0.2 to 1.6. The air holds 295 ppm of CO2 and the sea lies 21 cm below today's level. Every nation carries the carbon intensity its economy actually had, colonies included, so the coal empires and the countries clearing rainforest each pollute the way they did.
+World economic output stands at two percent of the present-day figure, distributed by the 1900 GDP shares from the Maddison Project. World population 1.68 billion. Miltech runs from 1.0 to 2.5, against the 3 to 5 of the present day. The air holds 295 ppm of CO2 and the sea lies 21 cm below today's level. Every nation carries the carbon intensity its economy actually had, colonies included, so the coal empires and the countries clearing rainforest each pollute the way they did.
 
 Spaceflight and the atom belong to the future. Every road off the planet has to be built from the ground up, and that is the challenge.
 

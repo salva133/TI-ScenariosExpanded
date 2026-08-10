@@ -9,7 +9,7 @@ The mod adds scenarios and changes nothing in existing campaigns. Every record
 carries a scenario prefix and is appended to the base data, so the 2022, 2026,
 2030 and 2070 scenarios — and the Dark Skies scenarios — remain untouched.
 
-**Version 2.6.0** · Terra Invicta 1.0.51
+**Version 2.7.0** · Terra Invicta 1.0.51
 
 ## Installation
 
@@ -47,8 +47,9 @@ The year H. G. Wells published *The War of the Worlds*. 52 sovereign states,
 
 World economic output is two percent of the present-day figure, distributed by
 the 1900 GDP shares from the Maddison Project. World population 1.68 billion. No
-nuclear weapons, no space budget, no human habitats. Miltech runs 0.2 to 1.6
-instead of 4.2 to 4.5. 295 ppm of CO₂ and a sea level 21 cm below today's.
+nuclear weapons, no space budget, no human habitats. Miltech runs 1.0 to 2.5
+instead of the 3 to 5 of the present day. 295 ppm of CO₂ and a sea level 21 cm
+below today's.
 
 Spain still holds Cuba, Puerto Rico and the Philippines: the start date is
 1 January, three months before the Spanish-American War breaks out.
@@ -184,6 +185,35 @@ about four percent of the present, which is where the fossil record has them.
 The flat zero the mod shipped before meant every nation emitted at the maximum
 multiplier the game allows.
 
+## Military technology
+
+Miltech is a single number per nation doing two jobs. The difference between two
+nations decides how often they hit each other; the absolute value decides how
+hard. A hit takes about a tenth of the attacker's miltech in percent of the
+target's health, so two armies at 0.3 need some thirty hits apiece to settle
+matters, where the present-day campaigns are done in two or three. Armies also
+repair themselves out of combat, and at the bottom of the scale the repairs can
+outrun the damage, at which point a war stops resolving at all.
+
+The band therefore starts at 1.0, the point where a hit takes a tenth of the
+target. 1898 runs 1.0 to 2.5, 1947 runs 1.0 to 3.4. The whole band is shifted,
+not stretched: every distance between two nations is the one the historical
+reading gave them, so the hit chances between any two of them are untouched. The
+one thing that changes with the floor is the ratio in damage between the
+strongest and the weakest, which narrows — the Bhutanese army is no longer
+fighting at a fortieth of the German rate, but at a sixth.
+
+The order is the historical one. Germany and Britain lead 1898, Germany for the
+general staff, the Krupp guns and the Gewehr 98, Britain for the fleet rather
+than for the army that was about to embarrass itself in South Africa. France
+follows with the Canon de 75 of 1897, the best field gun in the world. The
+United States sits below Russia and Austria because its army in 1898 was 28,000
+regulars, with volunteers still carrying black powder and an artillery park a
+generation old; only the navy was new. Spain sits below the United States, which
+is how that war went, and the Ottoman Empire above Greece, which is how the war
+of 1897 went. China sits at 1.5, level with Portugal and Greece, three years
+after the Japanese took the Beiyang fleet apart.
+
 ## Known limitations
 
 - Organisations, councillors and portraits come from the present-day set,
@@ -210,6 +240,17 @@ warns on any duplicate identifier. `checkall.py` then validates the merged mod
 against the base game's templates.
 
 ## Changelog
+
+### 2.7.0
+
+- Raised the miltech band. Damage in ground combat is proportional to the
+  attacker's absolute miltech, so at the old values a battle took some ten times
+  the rounds of a present-day one, and two weak nations could repair faster than
+  they could hurt each other. 1898 now runs 1.0 to 2.5 and 1947 1.0 to 3.4,
+  where they ran 0.1 to 1.6 and 0.2 to 2.6.
+- The band is shifted, not stretched. Hit chances depend only on the difference
+  between two nations, and every difference is unchanged, so no nation gained or
+  lost ground against any other. The order is untouched.
 
 ### 2.6.0
 
