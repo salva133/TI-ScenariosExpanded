@@ -7,10 +7,6 @@
    "Wells1899"
   ],
   "requiresAliens": false,
-  "year": 1899,
-  "endYear": 1899,
-  "earliestMonth": 8,
-  "latestMonth": 12,
   "logPublicity": "global",
   "alertPublicity": "factions",
   "repeatable": "OncePerCampaign",
@@ -18,40 +14,26 @@
   "forceEvent": true,
   "reqEventUnlock": false,
   "altBaseWeight": {},
-  "targetType": "region",
+  "targetType": "mapRegion",
   "hitAllQualifyingTargets": true,
   "firstTargetNotificationOnly": true,
+  "global_cooldown_months": 0,
+  "target_cooldown_months": 0,
   "possibleTargetDataNames": [
-   "1899_England"
+   "map_England"
   ],
-  "targetConditions": [
-   {
-    "$type": "TIRegionCondition_fLatitude",
-    "sign": "GreaterThan",
-    "strValue": "51"
-   },
-   {
-    "$type": "TIRegionCondition_fLatitude",
-    "sign": "LessThan",
-    "strValue": "52"
-   },
-   {
-    "$type": "TIRegionCondition_fLongitude",
-    "sign": "GreaterThan",
-    "strValue": "-1"
-   },
-   {
-    "$type": "TIRegionCondition_fLongitude",
-    "sign": "LessThan",
-    "strValue": "1"
-   }
-  ],
+  "targetConditions": [],
   "targetWeightModifiers": [
+   {},
+   {},
+   {},
    {}
   ],
   "sameSecondaryForAllTargets": false,
   "secondaryStateConditions": [],
   "secondaryWeightModifiers": [
+   {},
+   {},
    {}
   ],
   "eventOptions": [
@@ -75,6 +57,172 @@
        "Effect_MajorCohesionLoss",
        "Effect_MajorUnrestGain",
        "Effect_XenoformingIncrease25"
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     }
+    ]
+   },
+   {
+    "outcomes": [
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     }
+    ]
+   },
+   {
+    "outcomes": [
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     }
+    ]
+   },
+   {
+    "outcomes": [
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
       ]
      }
     ]
