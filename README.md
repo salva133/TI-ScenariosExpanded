@@ -26,7 +26,7 @@ more. Both scenarios then appear under **Scenario**.
 
 | Scenario | Starts | Landing site |
 | --- | --- | --- |
-| 1899 — War for our World | 31 August 1899 | the English Midlands |
+| 1899 — War for our World | 31 August 1899 | England |
 | 1947 — Roswell | 8 July 1947 | New Mexico |
 
 ---
@@ -107,8 +107,8 @@ The day Roswell Army Air Field reported recovering a flying disc. The disc comes
 down over New Mexico, which is the `RockyMountains` region.
 
 67 sovereign states. The Cold War is four weeks past the Marshall Plan
-announcement and India is five weeks from independence — on 8 July it is still
-British, and so are Pakistan, Bangladesh, Burma, Ceylon and Malaya.
+announcement. On 8 July India is still British, and so are Pakistan,
+Bangladesh, Burma, Ceylon and Malaya.
 
 | Power | Regions | of which colonial |
 | --- | ---: | ---: |
@@ -289,12 +289,14 @@ against the base game's templates.
   that scenario and that region, and the event is fenced to the first month.
 - The 1899 scenario carries its own tag `Wells1899`, the same mechanism the Dark
   Skies DLC uses to fence its events to 2003.
-- The landing site of 1899 is the English Midlands, no longer random. The table
-  above said random until now, which had not been true since the start region
-  was fixed.
+- The landing site of 1899 is England, no longer random. The table above said
+  random until now, which had not been true since the start region was fixed.
+- Dropped the German localisation: `TIMetaTemplate.deu` and
+  `TINationTemplate.deu` are gone. The mod is developed in English only, and
+  further translations are reserved.
 - `checkall.py` validates events: effect names against the base game, target
   region against the scenario, year against the start date, and every
-  localisation key the game can ask for, in both languages.
+  localisation key the game can ask for.
 
 ### 2.7.0
 
