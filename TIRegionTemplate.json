@@ -1,6 +1,6 @@
 [
  {
-  "dataName": "1898_Afghanistan",
+  "dataName": "1899_Afghanistan",
   "mapRegionName": "map_Afghanistan",
   "primaryCity": "Kabul",
   "sortNation": "Afghanistan",
@@ -41,7 +41,7 @@
   "localizationAlias": "Afghanistan"
  },
  {
-  "dataName": "1898_Tirana",
+  "dataName": "1899_Tirana",
   "mapRegionName": "map_Albania",
   "primaryCity": "Tirana",
   "sortNation": "Albania",
@@ -75,7 +75,7 @@
   "localizationAlias": "Tirana"
  },
  {
-  "dataName": "1898_Algeria",
+  "dataName": "1899_Algeria",
   "mapRegionName": "map_Algeria",
   "primaryCity": "Algiers",
   "sortNation": "Algeria",
@@ -110,7 +110,7 @@
   "localizationAlias": "Algeria"
  },
  {
-  "dataName": "1898_SaharanAlgeria",
+  "dataName": "1899_SaharanAlgeria",
   "mapRegionName": "map_SouthAlgeria",
   "primaryCity": "Béchar",
   "sortNation": "Algeria",
@@ -147,7 +147,7 @@
   "localizationAlias": "SaharanAlgeria"
  },
  {
-  "dataName": "1898_Angola",
+  "dataName": "1899_Angola",
   "mapRegionName": "map_Angola",
   "primaryCity": "Luanda",
   "sortNation": "Angola",
@@ -190,7 +190,7 @@
   "localizationAlias": "Angola"
  },
  {
-  "dataName": "1898_EastAngola",
+  "dataName": "1899_EastAngola",
   "mapRegionName": "map_EastAngola",
   "primaryCity": "Luena",
   "sortNation": "Angola",
@@ -228,7 +228,7 @@
   "localizationAlias": "EastAngola"
  },
  {
-  "dataName": "1898_GranChaco",
+  "dataName": "1899_GranChaco",
   "mapRegionName": "map_GranChaco",
   "primaryCity": "Salta",
   "sortNation": "Argentina",
@@ -288,7 +288,7 @@
   "localizationAlias": "GranChaco"
  },
  {
-  "dataName": "1898_Pampas",
+  "dataName": "1899_Pampas",
   "mapRegionName": "map_Pampas",
   "primaryCity": "Buenos Aires",
   "sortNation": "Argentina",
@@ -348,7 +348,7 @@
   "localizationAlias": "Pampas"
  },
  {
-  "dataName": "1898_Patagonia",
+  "dataName": "1899_Patagonia",
   "mapRegionName": "map_Patagonia",
   "primaryCity": "Neuquen",
   "sortNation": "Argentina",
@@ -407,7 +407,7 @@
   "localizationAlias": "Patagonia"
  },
  {
-  "dataName": "1898_Armenia",
+  "dataName": "1899_Armenia",
   "mapRegionName": "map_Armenia",
   "primaryCity": "Yeveran",
   "sortNation": "Armenia",
@@ -440,7 +440,7 @@
   "localizationAlias": "Armenia"
  },
  {
-  "dataName": "1898_Brisbane",
+  "dataName": "1899_Brisbane",
   "mapRegionName": "map_Queensland",
   "primaryCity": "Brisbane",
   "sortNation": "Australia",
@@ -551,7 +551,7 @@
   "localizationAlias": "Brisbane"
  },
  {
-  "dataName": "1898_Sydney",
+  "dataName": "1899_Sydney",
   "mapRegionName": "map_NewSouthWales",
   "primaryCity": "Sydney",
   "sortNation": "Australia",
@@ -640,7 +640,7 @@
   "localizationAlias": "Sydney"
  },
  {
-  "dataName": "1898_Westralia",
+  "dataName": "1899_Westralia",
   "mapRegionName": "map_Westralia",
   "primaryCity": "Perth",
   "sortNation": "Australia",
@@ -731,7 +731,7 @@
   "localizationAlias": "Westralia"
  },
  {
-  "dataName": "1898_Darwin",
+  "dataName": "1899_Darwin",
   "mapRegionName": "map_NorthernAustralia",
   "primaryCity": "Darwin",
   "sortNation": "Australia",
@@ -819,7 +819,7 @@
   "localizationAlias": "Darwin"
  },
  {
-  "dataName": "1898_Melbourne",
+  "dataName": "1899_Melbourne",
   "mapRegionName": "map_Victoria",
   "primaryCity": "Melbourne",
   "sortNation": "Australia",
@@ -908,7 +908,7 @@
   "localizationAlias": "Melbourne"
  },
  {
-  "dataName": "1898_Adelaide",
+  "dataName": "1899_Adelaide",
   "mapRegionName": "map_SouthernAustralia",
   "primaryCity": "Adelaide",
   "sortNation": "Australia",
@@ -995,7 +995,7 @@
   "localizationAlias": "Adelaide"
  },
  {
-  "dataName": "1898_Vienna",
+  "dataName": "1899_Vienna",
   "mapRegionName": "map_Austria",
   "primaryCity": "Vienna",
   "sortNation": "Austria",
@@ -1029,7 +1029,7 @@
   "localizationAlias": "Vienna"
  },
  {
-  "dataName": "1898_Azerbaijan",
+  "dataName": "1899_Azerbaijan",
   "mapRegionName": "map_Azerbaijan",
   "primaryCity": "Baku",
   "sortNation": "Azerbaijan",
@@ -1075,7 +1075,7 @@
   "localizationAlias": "Azerbaijan"
  },
  {
-  "dataName": "1898_Bahamas",
+  "dataName": "1899_Bahamas",
   "mapRegionName": "map_Bahamas",
   "primaryCity": "Nassau",
   "sortNation": "Bahamas",
@@ -1122,7 +1122,7 @@
   "localizationAlias": "Bahamas"
  },
  {
-  "dataName": "1898_Bangladesh",
+  "dataName": "1899_Bangladesh",
   "mapRegionName": "map_Bangladesh",
   "primaryCity": "Dhaka",
   "sortNation": "Bangladesh",
@@ -1159,7 +1159,7 @@
   "localizationAlias": "Bangladesh"
  },
  {
-  "dataName": "1898_Belarus",
+  "dataName": "1899_Belarus",
   "mapRegionName": "map_Belarus",
   "primaryCity": "Minsk",
   "sortNation": "Belarus",
@@ -1195,7 +1195,7 @@
   "localizationAlias": "Belarus"
  },
  {
-  "dataName": "1898_Belgium",
+  "dataName": "1899_Belgium",
   "mapRegionName": "map_Belgium",
   "primaryCity": "Brussels",
   "sortNation": "Belgium-Luxembourg",
@@ -1258,7 +1258,7 @@
   "localizationAlias": "Belgium"
  },
  {
-  "dataName": "1898_Belize",
+  "dataName": "1899_Belize",
   "mapRegionName": "map_Belize",
   "primaryCity": "Belize City",
   "sortNation": "Belize",
@@ -1308,7 +1308,7 @@
   "localizationAlias": "Belize"
  },
  {
-  "dataName": "1898_TogoBenin",
+  "dataName": "1899_TogoBenin",
   "mapRegionName": "map_TogoBenin",
   "primaryCity": "Cotonou",
   "sortNation": "Benin",
@@ -1348,7 +1348,7 @@
   "localizationAlias": "TogoBenin"
  },
  {
-  "dataName": "1898_Bolivia",
+  "dataName": "1899_Bolivia",
   "mapRegionName": "map_Bolivia",
   "primaryCity": "La Paz",
   "sortNation": "Bolivia",
@@ -1384,7 +1384,7 @@
   "localizationAlias": "Bolivia"
  },
  {
-  "dataName": "1898_Sarajevo",
+  "dataName": "1899_Sarajevo",
   "mapRegionName": "map_BosniaMontenegro",
   "primaryCity": "Sarajevo",
   "sortNation": "Bosnia-Herzegovina",
@@ -1422,7 +1422,7 @@
   "localizationAlias": "Sarajevo"
  },
  {
-  "dataName": "1898_Botswana",
+  "dataName": "1899_Botswana",
   "mapRegionName": "map_Botswana",
   "primaryCity": "Gaborone",
   "sortNation": "Botswana",
@@ -1461,7 +1461,7 @@
   "localizationAlias": "Botswana"
  },
  {
-  "dataName": "1898_Amazonia",
+  "dataName": "1899_Amazonia",
   "mapRegionName": "map_Amazonia",
   "primaryCity": "Manaus",
   "sortNation": "Brazil",
@@ -1518,7 +1518,7 @@
   "localizationAlias": "Amazonia"
  },
  {
-  "dataName": "1898_Belem",
+  "dataName": "1899_Belem",
   "mapRegionName": "map_Belem",
   "primaryCity": "Belem",
   "sortNation": "Brazil",
@@ -1575,7 +1575,7 @@
   "localizationAlias": "Belem"
  },
  {
-  "dataName": "1898_Brasilia",
+  "dataName": "1899_Brasilia",
   "mapRegionName": "map_Brasilia",
   "primaryCity": "Brasilia",
   "sortNation": "Brazil",
@@ -1645,7 +1645,7 @@
   "localizationAlias": "Brasilia"
  },
  {
-  "dataName": "1898_Cuiaba",
+  "dataName": "1899_Cuiaba",
   "mapRegionName": "map_Cuiaba",
   "primaryCity": "Cuiabá",
   "sortNation": "Brazil",
@@ -1701,7 +1701,7 @@
   "localizationAlias": "Cuiaba"
  },
  {
-  "dataName": "1898_Fortaleza",
+  "dataName": "1899_Fortaleza",
   "mapRegionName": "map_Fortaleza",
   "primaryCity": "Fortaleza",
   "sortNation": "Brazil",
@@ -1757,7 +1757,7 @@
   "localizationAlias": "Fortaleza"
  },
  {
-  "dataName": "1898_PortoAlegre",
+  "dataName": "1899_PortoAlegre",
   "mapRegionName": "map_PortoAlegre",
   "primaryCity": "Porto Alegre",
   "sortNation": "Brazil",
@@ -1813,7 +1813,7 @@
   "localizationAlias": "PortoAlegre"
  },
  {
-  "dataName": "1898_Recife",
+  "dataName": "1899_Recife",
   "mapRegionName": "map_Recife",
   "primaryCity": "Recife",
   "sortNation": "Brazil",
@@ -1868,7 +1868,7 @@
   "localizationAlias": "Recife"
  },
  {
-  "dataName": "1898_RiodeJaneiro",
+  "dataName": "1899_RiodeJaneiro",
   "mapRegionName": "map_RiodeJaneiro",
   "primaryCity": "Rio de Janeiro",
   "sortNation": "Brazil",
@@ -1940,7 +1940,7 @@
   "localizationAlias": "RiodeJaneiro"
  },
  {
-  "dataName": "1898_SaoPaulo",
+  "dataName": "1899_SaoPaulo",
   "mapRegionName": "map_SaoPaulo",
   "primaryCity": "Sao Paulo",
   "sortNation": "Brazil",
@@ -2011,7 +2011,7 @@
   "localizationAlias": "SaoPaulo"
  },
  {
-  "dataName": "1898_Bhutan",
+  "dataName": "1899_Bhutan",
   "mapRegionName": "map_Bhutan",
   "primaryCity": "Thimphu",
   "sortNation": "Bhutan",
@@ -2044,7 +2044,7 @@
   "localizationAlias": "Bhutan"
  },
  {
-  "dataName": "1898_Brunei",
+  "dataName": "1899_Brunei",
   "mapRegionName": "map_Brunei",
   "primaryCity": "Bandar Seri Begawan",
   "sortNation": "Brunei",
@@ -2091,7 +2091,7 @@
   "localizationAlias": "Brunei"
  },
  {
-  "dataName": "1898_Bulgaria",
+  "dataName": "1899_Bulgaria",
   "mapRegionName": "map_Bulgaria",
   "primaryCity": "Sofia",
   "sortNation": "Bulgaria",
@@ -2124,7 +2124,7 @@
   "localizationAlias": "Bulgaria"
  },
  {
-  "dataName": "1898_BurkinaFaso",
+  "dataName": "1899_BurkinaFaso",
   "mapRegionName": "map_BurkinaFaso",
   "primaryCity": "Ouagadougou",
   "sortNation": "BurkinaFaso",
@@ -2160,7 +2160,7 @@
   "localizationAlias": "BurkinaFaso"
  },
  {
-  "dataName": "1898_CaboVerde",
+  "dataName": "1899_CaboVerde",
   "mapRegionName": "map_CaboVerde",
   "primaryCity": "Praia",
   "sortNation": "Cabo Verde",
@@ -2204,7 +2204,7 @@
   "localizationAlias": "CaboVerde"
  },
  {
-  "dataName": "1898_Cambodia",
+  "dataName": "1899_Cambodia",
   "mapRegionName": "map_Cambodia",
   "primaryCity": "Phnom Penh",
   "sortNation": "Cambodia",
@@ -2243,7 +2243,7 @@
   "localizationAlias": "Cambodia"
  },
  {
-  "dataName": "1898_Cameroon",
+  "dataName": "1899_Cameroon",
   "mapRegionName": "map_Cameroon",
   "primaryCity": "Yaoundé",
   "sortNation": "Cameroon",
@@ -2282,7 +2282,7 @@
   "localizationAlias": "Cameroon"
  },
  {
-  "dataName": "1898_WestCameroon",
+  "dataName": "1899_WestCameroon",
   "mapRegionName": "map_WestCameroon",
   "primaryCity": "Bamenda",
   "sortNation": "Cameroon",
@@ -2319,7 +2319,7 @@
   "localizationAlias": "WestCameroon"
  },
  {
-  "dataName": "1898_Alberta",
+  "dataName": "1899_Alberta",
   "mapRegionName": "map_Alberta",
   "primaryCity": "Calgary",
   "sortNation": "Canada",
@@ -2425,7 +2425,7 @@
   "localizationAlias": "Alberta"
  },
  {
-  "dataName": "1898_BritishColumbia",
+  "dataName": "1899_BritishColumbia",
   "mapRegionName": "map_BritishColumbia",
   "primaryCity": "Vancouver",
   "sortNation": "Canada",
@@ -2529,7 +2529,7 @@
   "localizationAlias": "BritishColumbia"
  },
  {
-  "dataName": "1898_CanadianArctic",
+  "dataName": "1899_CanadianArctic",
   "mapRegionName": "map_CanadianArctic",
   "primaryCity": "Yellowknife",
   "sortNation": "Canada",
@@ -2624,7 +2624,7 @@
   "localizationAlias": "CanadianArctic"
  },
  {
-  "dataName": "1898_Halifax",
+  "dataName": "1899_Halifax",
   "mapRegionName": "map_Halifax",
   "primaryCity": "Halifax",
   "sortNation": "Canada",
@@ -2718,7 +2718,7 @@
   "localizationAlias": "Halifax"
  },
  {
-  "dataName": "1898_Laurentia",
+  "dataName": "1899_Laurentia",
   "mapRegionName": "map_Quebec",
   "primaryCity": "Montreal",
   "sortNation": "Canada",
@@ -2824,7 +2824,7 @@
   "localizationAlias": "Laurentia"
  },
  {
-  "dataName": "1898_Manitoba",
+  "dataName": "1899_Manitoba",
   "mapRegionName": "map_Manitoba",
   "primaryCity": "Winnipeg",
   "sortNation": "Canada",
@@ -2928,7 +2928,7 @@
   "localizationAlias": "Manitoba"
  },
  {
-  "dataName": "1898_Ontario",
+  "dataName": "1899_Ontario",
   "mapRegionName": "map_Ontario",
   "primaryCity": "Toronto",
   "sortNation": "Canada",
@@ -3033,7 +3033,7 @@
   "localizationAlias": "Ontario"
  },
  {
-  "dataName": "1898_Prairies",
+  "dataName": "1899_Prairies",
   "mapRegionName": "map_Prairies",
   "primaryCity": "Saskatoon",
   "sortNation": "Canada",
@@ -3138,7 +3138,7 @@
   "localizationAlias": "Prairies"
  },
  {
-  "dataName": "1898_Yukon",
+  "dataName": "1899_Yukon",
   "mapRegionName": "map_Yukon",
   "primaryCity": "Whitehorse",
   "sortNation": "Canada",
@@ -3231,7 +3231,7 @@
   "localizationAlias": "Yukon"
  },
  {
-  "dataName": "1898_CentralAfricanRepublic",
+  "dataName": "1899_CentralAfricanRepublic",
   "mapRegionName": "map_CentralAfricanRepublic",
   "primaryCity": "Bangui",
   "sortNation": "CentralAfricanRepublic",
@@ -3270,7 +3270,7 @@
   "localizationAlias": "CentralAfricanRepublic"
  },
  {
-  "dataName": "1898_Logone",
+  "dataName": "1899_Logone",
   "mapRegionName": "map_Logone",
   "primaryCity": "Bambari",
   "sortNation": "CentralAfricanRepublic",
@@ -3309,7 +3309,7 @@
   "localizationAlias": "Logone"
  },
  {
-  "dataName": "1898_Chad",
+  "dataName": "1899_Chad",
   "mapRegionName": "map_Chad",
   "primaryCity": "N'Djamena",
   "sortNation": "Chad",
@@ -3359,7 +3359,7 @@
   "localizationAlias": "Chad"
  },
  {
-  "dataName": "1898_NorthernChad",
+  "dataName": "1899_NorthernChad",
   "mapRegionName": "map_NorthernChad",
   "primaryCity": "Abéché",
   "sortNation": "Chad",
@@ -3409,7 +3409,7 @@
   "localizationAlias": "NorthernChad"
  },
  {
-  "dataName": "1898_Santiago",
+  "dataName": "1899_Santiago",
   "mapRegionName": "map_SouthernChile",
   "primaryCity": "Santiago",
   "sortNation": "Chile",
@@ -3443,7 +3443,7 @@
   "localizationAlias": "Santiago"
  },
  {
-  "dataName": "1898_Valparaiso",
+  "dataName": "1899_Valparaiso",
   "mapRegionName": "map_NorthernChile",
   "primaryCity": "Valparaíso",
   "sortNation": "Chile",
@@ -3479,7 +3479,7 @@
   "localizationAlias": "Valparaiso"
  },
  {
-  "dataName": "1898_Anhui",
+  "dataName": "1899_Anhui",
   "mapRegionName": "map_Anhui",
   "primaryCity": "Hefei",
   "sortNation": "China",
@@ -3512,7 +3512,7 @@
   "localizationAlias": "Anhui"
  },
  {
-  "dataName": "1898_Beijing",
+  "dataName": "1899_Beijing",
   "mapRegionName": "map_Beijing",
   "primaryCity": "Beijing",
   "sortNation": "China",
@@ -3548,7 +3548,7 @@
   "localizationAlias": "Beijing"
  },
  {
-  "dataName": "1898_Chongqing",
+  "dataName": "1899_Chongqing",
   "mapRegionName": "map_Chongqing",
   "primaryCity": "Chongqing",
   "sortNation": "China",
@@ -3587,7 +3587,7 @@
   "localizationAlias": "Chongqing"
  },
  {
-  "dataName": "1898_Fujian",
+  "dataName": "1899_Fujian",
   "mapRegionName": "map_Fujian",
   "primaryCity": "Quanzhou",
   "sortNation": "China",
@@ -3620,7 +3620,7 @@
   "localizationAlias": "Fujian"
  },
  {
-  "dataName": "1898_Gansu",
+  "dataName": "1899_Gansu",
   "mapRegionName": "map_Gansu",
   "primaryCity": "Lanzhou",
   "sortNation": "China",
@@ -3654,7 +3654,7 @@
   "localizationAlias": "Gansu"
  },
  {
-  "dataName": "1898_Guangzhou",
+  "dataName": "1899_Guangzhou",
   "mapRegionName": "map_Guangzhou",
   "primaryCity": "Guangzhou",
   "sortNation": "China",
@@ -3689,7 +3689,7 @@
   "localizationAlias": "Guangzhou"
  },
  {
-  "dataName": "1898_Guizhou",
+  "dataName": "1899_Guizhou",
   "mapRegionName": "map_Guizhou",
   "primaryCity": "Guiyang",
   "sortNation": "China",
@@ -3724,7 +3724,7 @@
   "localizationAlias": "Guizhou"
  },
  {
-  "dataName": "1898_Hangzhou",
+  "dataName": "1899_Hangzhou",
   "mapRegionName": "map_Hangzhou",
   "primaryCity": "Hangzhou",
   "sortNation": "China",
@@ -3757,7 +3757,7 @@
   "localizationAlias": "Hangzhou"
  },
  {
-  "dataName": "1898_HongKong",
+  "dataName": "1899_HongKong",
   "mapRegionName": "map_HongKong",
   "primaryCity": "Hong Kong",
   "sortNation": "China",
@@ -3792,7 +3792,7 @@
   "localizationAlias": "HongKong"
  },
  {
-  "dataName": "1898_Hunan",
+  "dataName": "1899_Hunan",
   "mapRegionName": "map_Hunan",
   "primaryCity": "Changsha",
   "sortNation": "China",
@@ -3825,7 +3825,7 @@
   "localizationAlias": "Hunan"
  },
  {
-  "dataName": "1898_InnerMongolia",
+  "dataName": "1899_InnerMongolia",
   "mapRegionName": "map_InnerMongolia",
   "primaryCity": "Hohhot",
   "sortNation": "China",
@@ -3864,7 +3864,7 @@
   "localizationAlias": "InnerMongolia"
  },
  {
-  "dataName": "1898_Jilin",
+  "dataName": "1899_Jilin",
   "mapRegionName": "map_Jilin",
   "primaryCity": "Changchun",
   "sortNation": "China",
@@ -3900,7 +3900,7 @@
   "localizationAlias": "Jilin"
  },
  {
-  "dataName": "1898_Liaoning",
+  "dataName": "1899_Liaoning",
   "mapRegionName": "map_Liaoning",
   "primaryCity": "Shenyang",
   "sortNation": "China",
@@ -3936,7 +3936,7 @@
   "localizationAlias": "Liaoning"
  },
  {
-  "dataName": "1898_Manchuria",
+  "dataName": "1899_Manchuria",
   "mapRegionName": "map_Manchuria",
   "primaryCity": "Harbin",
   "sortNation": "China",
@@ -3974,7 +3974,7 @@
   "localizationAlias": "Manchuria"
  },
  {
-  "dataName": "1898_Nanchang",
+  "dataName": "1899_Nanchang",
   "mapRegionName": "map_Nanchang",
   "primaryCity": "Nanchang",
   "sortNation": "China",
@@ -4008,7 +4008,7 @@
   "localizationAlias": "Nanchang"
  },
  {
-  "dataName": "1898_Nanning",
+  "dataName": "1899_Nanning",
   "mapRegionName": "map_Nanning",
   "primaryCity": "Nanning",
   "sortNation": "China",
@@ -4043,7 +4043,7 @@
   "localizationAlias": "Nanning"
  },
  {
-  "dataName": "1898_Qinghai",
+  "dataName": "1899_Qinghai",
   "mapRegionName": "map_Qinghai",
   "primaryCity": "Xining",
   "sortNation": "China",
@@ -4088,7 +4088,7 @@
   "localizationAlias": "Qinghai"
  },
  {
-  "dataName": "1898_Shandong",
+  "dataName": "1899_Shandong",
   "mapRegionName": "map_Shandong",
   "primaryCity": "Jinan",
   "sortNation": "China",
@@ -4124,7 +4124,7 @@
   "localizationAlias": "Shandong"
  },
  {
-  "dataName": "1898_Shanghai",
+  "dataName": "1899_Shanghai",
   "mapRegionName": "map_Shanghai",
   "primaryCity": "Shanghai",
   "sortNation": "China",
@@ -4162,7 +4162,7 @@
   "localizationAlias": "Shanghai"
  },
  {
-  "dataName": "1898_Shanxi",
+  "dataName": "1899_Shanxi",
   "mapRegionName": "map_Shanxi",
   "primaryCity": "Taiyuan",
   "sortNation": "China",
@@ -4195,7 +4195,7 @@
   "localizationAlias": "Shanxi"
  },
  {
-  "dataName": "1898_Tibet",
+  "dataName": "1899_Tibet",
   "mapRegionName": "map_Tibet",
   "primaryCity": "Lhasa",
   "sortNation": "China",
@@ -4243,7 +4243,7 @@
   "localizationAlias": "Tibet"
  },
  {
-  "dataName": "1898_Wuhan",
+  "dataName": "1899_Wuhan",
   "mapRegionName": "map_Wuhan",
   "primaryCity": "Wuhan",
   "sortNation": "China",
@@ -4277,7 +4277,7 @@
   "localizationAlias": "Wuhan"
  },
  {
-  "dataName": "1898_Xian",
+  "dataName": "1899_Xian",
   "mapRegionName": "map_Xian",
   "primaryCity": "Xian",
   "sortNation": "China",
@@ -4311,7 +4311,7 @@
   "localizationAlias": "Xian"
  },
  {
-  "dataName": "1898_Xinjiang",
+  "dataName": "1899_Xinjiang",
   "mapRegionName": "map_Xinjiang",
   "primaryCity": "Urumqi",
   "sortNation": "China",
@@ -4367,7 +4367,7 @@
   "localizationAlias": "Xinjiang"
  },
  {
-  "dataName": "1898_Yunnan",
+  "dataName": "1899_Yunnan",
   "mapRegionName": "map_Yunnan",
   "primaryCity": "Kunming",
   "sortNation": "China",
@@ -4400,7 +4400,7 @@
   "localizationAlias": "Yunnan"
  },
  {
-  "dataName": "1898_Zhengzhou",
+  "dataName": "1899_Zhengzhou",
   "mapRegionName": "map_Zhengzhou",
   "primaryCity": "Zhengzhou",
   "sortNation": "China",
@@ -4434,7 +4434,7 @@
   "localizationAlias": "Zhengzhou"
  },
  {
-  "dataName": "1898_Colombia",
+  "dataName": "1899_Colombia",
   "mapRegionName": "map_Colombia",
   "primaryCity": "Bogota",
   "sortNation": "Colombia",
@@ -4467,7 +4467,7 @@
   "localizationAlias": "Colombia"
  },
  {
-  "dataName": "1898_Villavicencio",
+  "dataName": "1899_Villavicencio",
   "mapRegionName": "map_Villavicencio",
   "primaryCity": "Villavicencio",
   "sortNation": "Colombia",
@@ -4500,7 +4500,7 @@
   "localizationAlias": "Villavicencio"
  },
  {
-  "dataName": "1898_Ratnakara",
+  "dataName": "1899_Ratnakara",
   "mapRegionName": "map_Ratnakara",
   "primaryCity": "Moroni",
   "sortNation": "Comoros",
@@ -4590,7 +4590,7 @@
   "localizationAlias": "Ratnakara"
  },
  {
-  "dataName": "1898_Kinshasa",
+  "dataName": "1899_Kinshasa",
   "mapRegionName": "map_Kinshasa",
   "primaryCity": "Kinshasa",
   "sortNation": "Congo",
@@ -4624,7 +4624,7 @@
   "localizationAlias": "Kinshasa"
  },
  {
-  "dataName": "1898_Kisangani",
+  "dataName": "1899_Kisangani",
   "mapRegionName": "map_Kisangani",
   "primaryCity": "Kisangani",
   "sortNation": "Congo",
@@ -4659,7 +4659,7 @@
   "localizationAlias": "Kisangani"
  },
  {
-  "dataName": "1898_Lubumbashi",
+  "dataName": "1899_Lubumbashi",
   "mapRegionName": "map_Lubumbashi",
   "primaryCity": "Lubumbashi",
   "sortNation": "Congo",
@@ -4695,7 +4695,7 @@
   "localizationAlias": "Lubumbashi"
  },
  {
-  "dataName": "1898_CostaRica",
+  "dataName": "1899_CostaRica",
   "mapRegionName": "map_CostaRica",
   "primaryCity": "San José",
   "sortNation": "CostaRica",
@@ -4756,7 +4756,7 @@
   "localizationAlias": "CostaRica"
  },
  {
-  "dataName": "1898_Zagreb",
+  "dataName": "1899_Zagreb",
   "mapRegionName": "map_CroatiaSlovenia",
   "primaryCity": "Zagreb",
   "sortNation": "Croatia",
@@ -4790,7 +4790,7 @@
   "localizationAlias": "Zagreb"
  },
  {
-  "dataName": "1898_Cuba",
+  "dataName": "1899_Cuba",
   "mapRegionName": "map_Cuba",
   "primaryCity": "Havana",
   "sortNation": "Cuba",
@@ -4834,7 +4834,7 @@
   "localizationAlias": "Cuba"
  },
  {
-  "dataName": "1898_Czechia",
+  "dataName": "1899_Czechia",
   "mapRegionName": "map_Czechia",
   "primaryCity": "Prague",
   "sortNation": "Czechia",
@@ -4868,7 +4868,7 @@
   "localizationAlias": "Czechia"
  },
  {
-  "dataName": "1898_Denmark",
+  "dataName": "1899_Denmark",
   "mapRegionName": "map_Denmark",
   "primaryCity": "Copenhagen",
   "sortNation": "Denmark",
@@ -4953,7 +4953,7 @@
   "localizationAlias": "Denmark"
  },
  {
-  "dataName": "1898_Greenland",
+  "dataName": "1899_Greenland",
   "mapRegionName": "map_Greenland",
   "primaryCity": "Nuuk",
   "sortNation": "Denmark",
@@ -4999,7 +4999,7 @@
   "localizationAlias": "Greenland"
  },
  {
-  "dataName": "1898_Djibouti",
+  "dataName": "1899_Djibouti",
   "mapRegionName": "map_Djibouti",
   "primaryCity": "Djibouti (r)",
   "sortNation": "Djibouti",
@@ -5032,7 +5032,7 @@
   "localizationAlias": "Djibouti"
  },
  {
-  "dataName": "1898_EastHispanola",
+  "dataName": "1899_EastHispanola",
   "mapRegionName": "map_EastHispanola",
   "primaryCity": "Santo Domingo",
   "sortNation": "Dominican Republic",
@@ -5066,7 +5066,7 @@
   "localizationAlias": "EastHispanola"
  },
  {
-  "dataName": "1898_Ecuador",
+  "dataName": "1899_Ecuador",
   "mapRegionName": "map_Ecuador",
   "primaryCity": "Quito",
   "sortNation": "Ecuador",
@@ -5100,7 +5100,7 @@
   "localizationAlias": "Ecuador"
  },
  {
-  "dataName": "1898_Alexandria",
+  "dataName": "1899_Alexandria",
   "mapRegionName": "map_Alexandria",
   "primaryCity": "Alexandria",
   "sortNation": "Egypt",
@@ -5135,7 +5135,7 @@
   "localizationAlias": "Alexandria"
  },
  {
-  "dataName": "1898_Cairo",
+  "dataName": "1899_Cairo",
   "mapRegionName": "map_Egypt",
   "primaryCity": "Cairo",
   "sortNation": "Egypt",
@@ -5172,7 +5172,7 @@
   "localizationAlias": "Cairo"
  },
  {
-  "dataName": "1898_Luxor",
+  "dataName": "1899_Luxor",
   "mapRegionName": "map_Luxor",
   "primaryCity": "Luxor",
   "sortNation": "Egypt",
@@ -5218,7 +5218,7 @@
   "localizationAlias": "Luxor"
  },
  {
-  "dataName": "1898_ElSalvador",
+  "dataName": "1899_ElSalvador",
   "mapRegionName": "map_ElSalvador",
   "primaryCity": "San Salvador",
   "sortNation": "El Salvador",
@@ -5251,7 +5251,7 @@
   "localizationAlias": "ElSalvador"
  },
  {
-  "dataName": "1898_EquatorialGuinea",
+  "dataName": "1899_EquatorialGuinea",
   "mapRegionName": "map_EquatorialGuinea",
   "primaryCity": "Bata-Malabo",
   "sortNation": "Equatorial Guinea",
@@ -5286,7 +5286,7 @@
   "localizationAlias": "EquatorialGuinea"
  },
  {
-  "dataName": "1898_Eritrea",
+  "dataName": "1899_Eritrea",
   "mapRegionName": "map_Eritrea",
   "primaryCity": "Asmara",
   "sortNation": "Eritrea",
@@ -5337,7 +5337,7 @@
   "localizationAlias": "Eritrea"
  },
  {
-  "dataName": "1898_Estonia",
+  "dataName": "1899_Estonia",
   "mapRegionName": "map_Estonia",
   "primaryCity": "Talinn",
   "sortNation": "Estonia",
@@ -5373,7 +5373,7 @@
   "localizationAlias": "Estonia"
  },
  {
-  "dataName": "1898_Eswatini",
+  "dataName": "1899_Eswatini",
   "mapRegionName": "map_Eswatini",
   "primaryCity": "Mbabane",
   "sortNation": "Eswatini",
@@ -5409,7 +5409,7 @@
   "localizationAlias": "Eswatini"
  },
  {
-  "dataName": "1898_DireDiwa",
+  "dataName": "1899_DireDiwa",
   "mapRegionName": "map_DireDiwa",
   "primaryCity": "Dire Dawa",
   "sortNation": "Ethiopia",
@@ -5460,7 +5460,7 @@
   "localizationAlias": "DireDiwa"
  },
  {
-  "dataName": "1898_Ethiopia",
+  "dataName": "1899_Ethiopia",
   "mapRegionName": "map_Ethiopia",
   "primaryCity": "Addis Ababa",
   "sortNation": "Ethiopia",
@@ -5512,7 +5512,7 @@
   "localizationAlias": "Ethiopia"
  },
  {
-  "dataName": "1898_Mekelle",
+  "dataName": "1899_Mekelle",
   "mapRegionName": "map_Mekelle",
   "primaryCity": "Mekelle",
   "sortNation": "Ethiopia",
@@ -5563,7 +5563,7 @@
   "localizationAlias": "Mekelle"
  },
  {
-  "dataName": "1898_Finland",
+  "dataName": "1899_Finland",
   "mapRegionName": "map_Finland",
   "primaryCity": "Helsinki",
   "sortNation": "Finland",
@@ -5605,7 +5605,7 @@
   "localizationAlias": "Finland"
  },
  {
-  "dataName": "1898_FrenchGuiana",
+  "dataName": "1899_FrenchGuiana",
   "mapRegionName": "map_FrenchGuiana",
   "primaryCity": "Kourou",
   "sortNation": "France",
@@ -5688,7 +5688,7 @@
   "localizationAlias": "FrenchGuiana"
  },
  {
-  "dataName": "1898_FrenchPacific",
+  "dataName": "1899_FrenchPacific",
   "mapRegionName": "map_FrenchPacific",
   "primaryCity": "Noumea",
   "sortNation": "France",
@@ -5736,7 +5736,7 @@
   "localizationAlias": "FrenchPacific"
  },
  {
-  "dataName": "1898_FrenchRatnakara",
+  "dataName": "1899_FrenchRatnakara",
   "mapRegionName": "map_FrenchRatnakara",
   "primaryCity": "Saint-Denis",
   "sortNation": "France",
@@ -5781,7 +5781,7 @@
   "localizationAlias": "FrenchRatnakara"
  },
  {
-  "dataName": "1898_FrenchWestIndies",
+  "dataName": "1899_FrenchWestIndies",
   "mapRegionName": "map_FrenchWestIndies",
   "primaryCity": "Pointe-a-Pitre",
   "sortNation": "France",
@@ -5843,7 +5843,7 @@
   "localizationAlias": "FrenchWestIndies"
  },
  {
-  "dataName": "1898_Lyon",
+  "dataName": "1899_Lyon",
   "mapRegionName": "map_Lyon",
   "primaryCity": "Lyon",
   "sortNation": "France",
@@ -5921,7 +5921,7 @@
   "localizationAlias": "Lyon"
  },
  {
-  "dataName": "1898_Nantes",
+  "dataName": "1899_Nantes",
   "mapRegionName": "map_Nantes",
   "primaryCity": "Nantes",
   "sortNation": "France",
@@ -5983,7 +5983,7 @@
   "localizationAlias": "Nantes"
  },
  {
-  "dataName": "1898_Paris",
+  "dataName": "1899_Paris",
   "mapRegionName": "map_Paris",
   "primaryCity": "Paris",
   "sortNation": "France",
@@ -6063,7 +6063,7 @@
   "localizationAlias": "Paris"
  },
  {
-  "dataName": "1898_Toulouse",
+  "dataName": "1899_Toulouse",
   "mapRegionName": "map_Toulouse",
   "primaryCity": "Toulouse",
   "sortNation": "France",
@@ -6142,7 +6142,7 @@
   "localizationAlias": "Toulouse"
  },
  {
-  "dataName": "1898_Libreville",
+  "dataName": "1899_Libreville",
   "mapRegionName": "map_LowerGuinea",
   "primaryCity": "Libreville",
   "sortNation": "Gabon",
@@ -6179,7 +6179,7 @@
   "localizationAlias": "Libreville"
  },
  {
-  "dataName": "1898_Gambia",
+  "dataName": "1899_Gambia",
   "mapRegionName": "map_Gambia",
   "primaryCity": "Banjul",
   "sortNation": "Gambia",
@@ -6215,7 +6215,7 @@
   "localizationAlias": "Gambia"
  },
  {
-  "dataName": "1898_Georgia",
+  "dataName": "1899_Georgia",
   "mapRegionName": "map_Georgia",
   "primaryCity": "Tbilisi",
   "sortNation": "Georgia",
@@ -6248,7 +6248,7 @@
   "localizationAlias": "Georgia"
  },
  {
-  "dataName": "1898_Bavaria",
+  "dataName": "1899_Bavaria",
   "mapRegionName": "map_Bavaria",
   "primaryCity": "Munich",
   "sortNation": "Germany",
@@ -6306,7 +6306,7 @@
   "localizationAlias": "Bavaria"
  },
  {
-  "dataName": "1898_EastGermany",
+  "dataName": "1899_EastGermany",
   "mapRegionName": "map_EastGermany",
   "primaryCity": "Berlin",
   "sortNation": "Germany",
@@ -6355,7 +6355,7 @@
   "localizationAlias": "EastGermany"
  },
  {
-  "dataName": "1898_Germany",
+  "dataName": "1899_Germany",
   "mapRegionName": "map_Germany",
   "primaryCity": "Hamburg",
   "sortNation": "Germany",
@@ -6409,7 +6409,7 @@
   "localizationAlias": "Germany"
  },
  {
-  "dataName": "1898_Accra",
+  "dataName": "1899_Accra",
   "mapRegionName": "map_Ghana",
   "primaryCity": "Accra",
   "sortNation": "Ghana",
@@ -6450,7 +6450,7 @@
   "localizationAlias": "Accra"
  },
  {
-  "dataName": "1898_Greece",
+  "dataName": "1899_Greece",
   "mapRegionName": "map_Greece",
   "primaryCity": "Athens",
   "sortNation": "Greece",
@@ -6486,7 +6486,7 @@
   "localizationAlias": "Greece"
  },
  {
-  "dataName": "1898_Guatemala",
+  "dataName": "1899_Guatemala",
   "mapRegionName": "map_Guatemala",
   "primaryCity": "Guatemala City",
   "sortNation": "Guatemala",
@@ -6519,7 +6519,7 @@
   "localizationAlias": "Guatemala"
  },
  {
-  "dataName": "1898_Guinea",
+  "dataName": "1899_Guinea",
   "mapRegionName": "map_Guinea",
   "primaryCity": "Conakry",
   "sortNation": "Guinea",
@@ -6559,7 +6559,7 @@
   "localizationAlias": "Guinea"
  },
  {
-  "dataName": "1898_GuineaBissau",
+  "dataName": "1899_GuineaBissau",
   "mapRegionName": "map_GuineaBissau",
   "primaryCity": "Bissau",
   "sortNation": "Guinea-Bissau",
@@ -6592,7 +6592,7 @@
   "localizationAlias": "GuineaBissau"
  },
  {
-  "dataName": "1898_GulfStates",
+  "dataName": "1899_GulfStates",
   "mapRegionName": "map_GulfStates",
   "primaryCity": "Doha",
   "sortNation": "Qatar-Bahrain",
@@ -6629,7 +6629,7 @@
   "localizationAlias": "GulfStates"
  },
  {
-  "dataName": "1898_Guyana",
+  "dataName": "1899_Guyana",
   "mapRegionName": "map_Guyana",
   "primaryCity": "Georgetown",
   "sortNation": "Guyana",
@@ -6697,7 +6697,7 @@
   "localizationAlias": "Guyana"
  },
  {
-  "dataName": "1898_WestHispanola",
+  "dataName": "1899_WestHispanola",
   "mapRegionName": "map_WestHispanola",
   "primaryCity": "Port-au-Prince",
   "sortNation": "Haiti",
@@ -6731,7 +6731,7 @@
   "localizationAlias": "WestHispanola"
  },
  {
-  "dataName": "1898_Honduras",
+  "dataName": "1899_Honduras",
   "mapRegionName": "map_Honduras",
   "primaryCity": "Tegucigalpa",
   "sortNation": "Honduras",
@@ -6781,7 +6781,7 @@
   "localizationAlias": "Honduras"
  },
  {
-  "dataName": "1898_Hungary",
+  "dataName": "1899_Hungary",
   "mapRegionName": "map_Hungary",
   "primaryCity": "Budapest",
   "sortNation": "Hungary",
@@ -6814,7 +6814,7 @@
   "localizationAlias": "Hungary"
  },
  {
-  "dataName": "1898_Iceland",
+  "dataName": "1899_Iceland",
   "mapRegionName": "map_Iceland",
   "primaryCity": "Reykjavik",
   "sortNation": "Iceland",
@@ -6849,7 +6849,7 @@
   "localizationAlias": "Iceland"
  },
  {
-  "dataName": "1898_AndhraPradesh",
+  "dataName": "1899_AndhraPradesh",
   "mapRegionName": "map_AndhraPradesh",
   "primaryCity": "Visakhapatnam",
   "sortNation": "India",
@@ -6885,7 +6885,7 @@
   "localizationAlias": "AndhraPradesh"
  },
  {
-  "dataName": "1898_ArunchalPradesh",
+  "dataName": "1899_ArunchalPradesh",
   "mapRegionName": "map_ArunchalPradesh",
   "primaryCity": "Itanagar",
   "sortNation": "India",
@@ -6935,7 +6935,7 @@
   "localizationAlias": "ArunchalPradesh"
  },
  {
-  "dataName": "1898_Assam",
+  "dataName": "1899_Assam",
   "mapRegionName": "map_Assam",
   "primaryCity": "Gauhati",
   "sortNation": "India",
@@ -6989,7 +6989,7 @@
   "localizationAlias": "Assam"
  },
  {
-  "dataName": "1898_Bangalore",
+  "dataName": "1899_Bangalore",
   "mapRegionName": "map_Bangalore",
   "primaryCity": "Bangalore",
   "sortNation": "India",
@@ -7031,7 +7031,7 @@
   "localizationAlias": "Bangalore"
  },
  {
-  "dataName": "1898_Bihar",
+  "dataName": "1899_Bihar",
   "mapRegionName": "map_Bihar",
   "primaryCity": "Patna",
   "sortNation": "India",
@@ -7068,7 +7068,7 @@
   "localizationAlias": "Bihar"
  },
  {
-  "dataName": "1898_Chennai",
+  "dataName": "1899_Chennai",
   "mapRegionName": "map_Chennai",
   "primaryCity": "Chennai",
   "sortNation": "India",
@@ -7108,7 +7108,7 @@
   "localizationAlias": "Chennai"
  },
  {
-  "dataName": "1898_Faridabad",
+  "dataName": "1899_Faridabad",
   "mapRegionName": "map_Faridabad",
   "primaryCity": "Faridabad",
   "sortNation": "India",
@@ -7145,7 +7145,7 @@
   "localizationAlias": "Faridabad"
  },
  {
-  "dataName": "1898_Gujarat",
+  "dataName": "1899_Gujarat",
   "mapRegionName": "map_Gujarat",
   "primaryCity": "Ahmedabad",
   "sortNation": "India",
@@ -7179,7 +7179,7 @@
   "localizationAlias": "Gujarat"
  },
  {
-  "dataName": "1898_Hyderabad",
+  "dataName": "1899_Hyderabad",
   "mapRegionName": "map_Hyderabad",
   "primaryCity": "Hyderabad",
   "sortNation": "India",
@@ -7213,7 +7213,7 @@
   "localizationAlias": "Hyderabad"
  },
  {
-  "dataName": "1898_Indore",
+  "dataName": "1899_Indore",
   "mapRegionName": "map_Indore",
   "primaryCity": "Indore",
   "sortNation": "India",
@@ -7247,7 +7247,7 @@
   "localizationAlias": "Indore"
  },
  {
-  "dataName": "1898_Jaipur",
+  "dataName": "1899_Jaipur",
   "mapRegionName": "map_Jaipur",
   "primaryCity": "Jaipur",
   "sortNation": "India",
@@ -7284,7 +7284,7 @@
   "localizationAlias": "Jaipur"
  },
  {
-  "dataName": "1898_JammuandKashmir",
+  "dataName": "1899_JammuandKashmir",
   "mapRegionName": "map_JammuandKashmir",
   "primaryCity": "Srinagar",
   "sortNation": "India",
@@ -7324,7 +7324,7 @@
   "localizationAlias": "JammuandKashmir"
  },
  {
-  "dataName": "1898_Kolkata",
+  "dataName": "1899_Kolkata",
   "mapRegionName": "map_Kolkata",
   "primaryCity": "Kolkata",
   "sortNation": "India",
@@ -7365,7 +7365,7 @@
   "localizationAlias": "Kolkata"
  },
  {
-  "dataName": "1898_Mumbai",
+  "dataName": "1899_Mumbai",
   "mapRegionName": "map_Mumbai",
   "primaryCity": "Mumbai",
   "sortNation": "India",
@@ -7401,7 +7401,7 @@
   "localizationAlias": "Mumbai"
  },
  {
-  "dataName": "1898_NewDelhi",
+  "dataName": "1899_NewDelhi",
   "mapRegionName": "map_NewDelhi",
   "primaryCity": "New Delhi",
   "sortNation": "India",
@@ -7440,7 +7440,7 @@
   "localizationAlias": "NewDelhi"
  },
  {
-  "dataName": "1898_Odisha",
+  "dataName": "1899_Odisha",
   "mapRegionName": "map_Odisha",
   "primaryCity": "Bhubaneswar",
   "sortNation": "India",
@@ -7477,7 +7477,7 @@
   "localizationAlias": "Odisha"
  },
  {
-  "dataName": "1898_Raipur",
+  "dataName": "1899_Raipur",
   "mapRegionName": "map_Raipur",
   "primaryCity": "Raipur",
   "sortNation": "India",
@@ -7514,7 +7514,7 @@
   "localizationAlias": "Raipur"
  },
  {
-  "dataName": "1898_Aceh",
+  "dataName": "1899_Aceh",
   "mapRegionName": "map_Aceh",
   "primaryCity": "Banda Aceh",
   "sortNation": "Indonesia",
@@ -7554,7 +7554,7 @@
   "localizationAlias": "Aceh"
  },
  {
-  "dataName": "1898_Borneo",
+  "dataName": "1899_Borneo",
   "mapRegionName": "map_Borneo",
   "primaryCity": "Samarinda",
   "sortNation": "Indonesia",
@@ -7621,7 +7621,7 @@
   "localizationAlias": "Borneo"
  },
  {
-  "dataName": "1898_Java",
+  "dataName": "1899_Java",
   "mapRegionName": "map_Java",
   "primaryCity": "Jakarta",
   "sortNation": "Indonesia",
@@ -7690,7 +7690,7 @@
   "localizationAlias": "Java"
  },
  {
-  "dataName": "1898_LesserSundas",
+  "dataName": "1899_LesserSundas",
   "mapRegionName": "map_LesserSundas",
   "primaryCity": "Denpasar",
   "sortNation": "Indonesia",
@@ -7759,7 +7759,7 @@
   "localizationAlias": "LesserSundas"
  },
  {
-  "dataName": "1898_MoluccasandSulawesi",
+  "dataName": "1899_MoluccasandSulawesi",
   "mapRegionName": "map_MoluccasandSulawesi",
   "primaryCity": "Ambon",
   "sortNation": "Indonesia",
@@ -7827,7 +7827,7 @@
   "localizationAlias": "MoluccasandSulawesi"
  },
  {
-  "dataName": "1898_NewGuinea",
+  "dataName": "1899_NewGuinea",
   "mapRegionName": "map_NewGuinea",
   "primaryCity": "Biak",
   "sortNation": "Indonesia",
@@ -7891,7 +7891,7 @@
   "localizationAlias": "NewGuinea"
  },
  {
-  "dataName": "1898_Sulawesi",
+  "dataName": "1899_Sulawesi",
   "mapRegionName": "map_Sulawesi",
   "primaryCity": "Makassar",
   "sortNation": "Indonesia",
@@ -7960,7 +7960,7 @@
   "localizationAlias": "Sulawesi"
  },
  {
-  "dataName": "1898_Sumatra",
+  "dataName": "1899_Sumatra",
   "mapRegionName": "map_Sumatra",
   "primaryCity": "Medan",
   "sortNation": "Indonesia",
@@ -8030,7 +8030,7 @@
   "localizationAlias": "Sumatra"
  },
  {
-  "dataName": "1898_Ahvaz",
+  "dataName": "1899_Ahvaz",
   "mapRegionName": "map_Ahvaz",
   "primaryCity": "Ahvaz",
   "sortNation": "Iran",
@@ -8067,7 +8067,7 @@
   "localizationAlias": "Ahvaz"
  },
  {
-  "dataName": "1898_Isfahan",
+  "dataName": "1899_Isfahan",
   "mapRegionName": "map_Isfahan",
   "primaryCity": "Isfahan",
   "sortNation": "Iran",
@@ -8102,7 +8102,7 @@
   "localizationAlias": "Isfahan"
  },
  {
-  "dataName": "1898_Mashhad",
+  "dataName": "1899_Mashhad",
   "mapRegionName": "map_Mashhad",
   "primaryCity": "Mashhad",
   "sortNation": "Iran",
@@ -8137,7 +8137,7 @@
   "localizationAlias": "Mashhad"
  },
  {
-  "dataName": "1898_Tabriz",
+  "dataName": "1899_Tabriz",
   "mapRegionName": "map_Tabriz",
   "primaryCity": "Tabriz",
   "sortNation": "Iran",
@@ -8178,7 +8178,7 @@
   "localizationAlias": "Tabriz"
  },
  {
-  "dataName": "1898_Tehran",
+  "dataName": "1899_Tehran",
   "mapRegionName": "map_Tehran",
   "primaryCity": "Tehran",
   "sortNation": "Iran",
@@ -8220,7 +8220,7 @@
   "localizationAlias": "Tehran"
  },
  {
-  "dataName": "1898_Baghdad",
+  "dataName": "1899_Baghdad",
   "mapRegionName": "map_Baghdad",
   "primaryCity": "Baghdad",
   "sortNation": "Iraq",
@@ -8257,7 +8257,7 @@
   "localizationAlias": "Baghdad"
  },
  {
-  "dataName": "1898_Mosul",
+  "dataName": "1899_Mosul",
   "mapRegionName": "map_Mosul",
   "primaryCity": "Mosul",
   "sortNation": "Iraq",
@@ -8295,7 +8295,7 @@
   "localizationAlias": "Mosul"
  },
  {
-  "dataName": "1898_Ireland",
+  "dataName": "1899_Ireland",
   "mapRegionName": "map_Ireland",
   "primaryCity": "Dublin",
   "sortNation": "Ireland",
@@ -8380,7 +8380,7 @@
   "localizationAlias": "Ireland"
  },
  {
-  "dataName": "1898_Israel",
+  "dataName": "1899_Israel",
   "mapRegionName": "map_Israel",
   "primaryCity": "Tel Aviv",
   "sortNation": "Israel",
@@ -8428,7 +8428,7 @@
   "localizationAlias": "Israel"
  },
  {
-  "dataName": "1898_Italy",
+  "dataName": "1899_Italy",
   "mapRegionName": "map_Italy",
   "primaryCity": "Rome",
   "sortNation": "Italy",
@@ -8493,7 +8493,7 @@
   "localizationAlias": "Italy"
  },
  {
-  "dataName": "1898_Milan",
+  "dataName": "1899_Milan",
   "mapRegionName": "map_Milan",
   "primaryCity": "Milan",
   "sortNation": "Italy",
@@ -8559,7 +8559,7 @@
   "localizationAlias": "Milan"
  },
  {
-  "dataName": "1898_Naples",
+  "dataName": "1899_Naples",
   "mapRegionName": "map_Naples",
   "primaryCity": "Naples",
   "sortNation": "Italy",
@@ -8624,7 +8624,7 @@
   "localizationAlias": "Naples"
  },
  {
-  "dataName": "1898_IvoryCoast",
+  "dataName": "1899_IvoryCoast",
   "mapRegionName": "map_IvoryCoast",
   "primaryCity": "Abidjan",
   "sortNation": "IvoryCoast",
@@ -8657,7 +8657,7 @@
   "localizationAlias": "IvoryCoast"
  },
  {
-  "dataName": "1898_Jamaica",
+  "dataName": "1899_Jamaica",
   "mapRegionName": "map_Jamaica",
   "primaryCity": "Kingston",
   "sortNation": "Jamaica",
@@ -8715,7 +8715,7 @@
   "localizationAlias": "Jamaica"
  },
  {
-  "dataName": "1898_Hokkaido",
+  "dataName": "1899_Hokkaido",
   "mapRegionName": "map_Hokkaido",
   "primaryCity": "Sapporo",
   "sortNation": "Japan",
@@ -8748,7 +8748,7 @@
   "localizationAlias": "Hokkaido"
  },
  {
-  "dataName": "1898_KyushuandShikoku",
+  "dataName": "1899_KyushuandShikoku",
   "mapRegionName": "map_KyushuandShikoku",
   "primaryCity": "Fukuoka",
   "sortNation": "Japan",
@@ -8781,7 +8781,7 @@
   "localizationAlias": "KyushuandShikoku"
  },
  {
-  "dataName": "1898_NorthHonshu",
+  "dataName": "1899_NorthHonshu",
   "mapRegionName": "map_NorthHonshu",
   "primaryCity": "Tokyo",
   "sortNation": "Japan",
@@ -8816,7 +8816,7 @@
   "localizationAlias": "NorthHonshu"
  },
  {
-  "dataName": "1898_Ryukus",
+  "dataName": "1899_Ryukus",
   "mapRegionName": "map_Ryukus",
   "primaryCity": "Okinawa",
   "sortNation": "Japan",
@@ -8849,7 +8849,7 @@
   "localizationAlias": "Ryukus"
  },
  {
-  "dataName": "1898_SouthHonshu",
+  "dataName": "1899_SouthHonshu",
   "mapRegionName": "map_SouthHonshu",
   "primaryCity": "Osaka",
   "sortNation": "Japan",
@@ -8883,7 +8883,7 @@
   "localizationAlias": "SouthHonshu"
  },
  {
-  "dataName": "1898_Jordan",
+  "dataName": "1899_Jordan",
   "mapRegionName": "map_Jordan",
   "primaryCity": "Amman",
   "sortNation": "Jordan",
@@ -8917,7 +8917,7 @@
   "localizationAlias": "Jordan"
  },
  {
-  "dataName": "1898_Almaty",
+  "dataName": "1899_Almaty",
   "mapRegionName": "map_Almaty",
   "primaryCity": "Almaty",
   "sortNation": "Kazakhstan",
@@ -8976,7 +8976,7 @@
   "localizationAlias": "Almaty"
  },
  {
-  "dataName": "1898_Astana",
+  "dataName": "1899_Astana",
   "mapRegionName": "map_Astana",
   "primaryCity": "Astana",
   "sortNation": "Kazakhstan",
@@ -9035,7 +9035,7 @@
   "localizationAlias": "Astana"
  },
  {
-  "dataName": "1898_Kenya",
+  "dataName": "1899_Kenya",
   "mapRegionName": "map_Kenya",
   "primaryCity": "Nairobi",
   "sortNation": "Kenya",
@@ -9075,7 +9075,7 @@
   "localizationAlias": "Kenya"
  },
  {
-  "dataName": "1898_Mombasa",
+  "dataName": "1899_Mombasa",
   "mapRegionName": "map_Mombasa",
   "primaryCity": "Mombasa",
   "sortNation": "Kenya",
@@ -9115,7 +9115,7 @@
   "localizationAlias": "Mombasa"
  },
  {
-  "dataName": "1898_Kosovo",
+  "dataName": "1899_Kosovo",
   "mapRegionName": "map_Kosovo",
   "primaryCity": "Pristina",
   "sortNation": "Kosovo",
@@ -9147,7 +9147,7 @@
   "localizationAlias": "Kosovo"
  },
  {
-  "dataName": "1898_Kuwait",
+  "dataName": "1899_Kuwait",
   "mapRegionName": "map_Kuwait",
   "primaryCity": "Kuwait City",
   "sortNation": "Kuwait",
@@ -9183,7 +9183,7 @@
   "localizationAlias": "Kuwait"
  },
  {
-  "dataName": "1898_Kyrgyzstan",
+  "dataName": "1899_Kyrgyzstan",
   "mapRegionName": "map_Kyrgyzstan",
   "primaryCity": "Bishkek",
   "sortNation": "Kyrgyzstan",
@@ -9222,7 +9222,7 @@
   "localizationAlias": "Kyrgyzstan"
  },
  {
-  "dataName": "1898_Laos",
+  "dataName": "1899_Laos",
   "mapRegionName": "map_Laos",
   "primaryCity": "Vientiane",
   "sortNation": "Laos",
@@ -9255,7 +9255,7 @@
   "localizationAlias": "Laos"
  },
  {
-  "dataName": "1898_Latvia",
+  "dataName": "1899_Latvia",
   "mapRegionName": "map_Latvia",
   "primaryCity": "Riga",
   "sortNation": "Latvia",
@@ -9291,7 +9291,7 @@
   "localizationAlias": "Latvia"
  },
  {
-  "dataName": "1898_Lebanon",
+  "dataName": "1899_Lebanon",
   "mapRegionName": "map_Lebanon",
   "primaryCity": "Beirut",
   "sortNation": "Lebanon",
@@ -9329,7 +9329,7 @@
   "localizationAlias": "Lebanon"
  },
  {
-  "dataName": "1898_WestIndies",
+  "dataName": "1899_WestIndies",
   "mapRegionName": "map_WestIndies",
   "primaryCity": "Bridgetown",
   "sortNation": "Lesser Antilles States",
@@ -9397,7 +9397,7 @@
   "localizationAlias": "WestIndies"
  },
  {
-  "dataName": "1898_Lesotho",
+  "dataName": "1899_Lesotho",
   "mapRegionName": "map_Lesotho",
   "primaryCity": "Maseru",
   "sortNation": "Lesotho",
@@ -9433,7 +9433,7 @@
   "localizationAlias": "Lesotho"
  },
  {
-  "dataName": "1898_Liberia",
+  "dataName": "1899_Liberia",
   "mapRegionName": "map_Liberia",
   "primaryCity": "Monrovia",
   "sortNation": "Liberia",
@@ -9466,7 +9466,7 @@
   "localizationAlias": "Liberia"
  },
  {
-  "dataName": "1898_Cyrenaica",
+  "dataName": "1899_Cyrenaica",
   "mapRegionName": "map_Cyrenaica",
   "primaryCity": "Benghazi",
   "sortNation": "Libya",
@@ -9511,7 +9511,7 @@
   "localizationAlias": "Cyrenaica"
  },
  {
-  "dataName": "1898_Libya",
+  "dataName": "1899_Libya",
   "mapRegionName": "map_Libya",
   "primaryCity": "Tripoli",
   "sortNation": "Libya",
@@ -9555,7 +9555,7 @@
   "localizationAlias": "Libya"
  },
  {
-  "dataName": "1898_Lithuania",
+  "dataName": "1899_Lithuania",
   "mapRegionName": "map_Lithuania",
   "primaryCity": "Vilnius",
   "sortNation": "Lithuania",
@@ -9591,7 +9591,7 @@
   "localizationAlias": "Lithuania"
  },
  {
-  "dataName": "1898_Madagascar",
+  "dataName": "1899_Madagascar",
   "mapRegionName": "map_Madagascar",
   "primaryCity": "Antananarivo",
   "sortNation": "Madagascar",
@@ -9628,7 +9628,7 @@
   "localizationAlias": "Madagascar"
  },
  {
-  "dataName": "1898_Malawi",
+  "dataName": "1899_Malawi",
   "mapRegionName": "map_Malawi",
   "primaryCity": "Lilongwe",
   "sortNation": "Malawi",
@@ -9664,7 +9664,7 @@
   "localizationAlias": "Malawi"
  },
  {
-  "dataName": "1898_MalayPeninsula",
+  "dataName": "1899_MalayPeninsula",
   "mapRegionName": "map_MalayPeninsula",
   "primaryCity": "Kuala Lumpur",
   "sortNation": "Malaysia",
@@ -9722,7 +9722,7 @@
   "localizationAlias": "MalayPeninsula"
  },
  {
-  "dataName": "1898_SarawakandSabah",
+  "dataName": "1899_SarawakandSabah",
   "mapRegionName": "map_SarawakandSabah",
   "primaryCity": "Kota Kinabalu",
   "sortNation": "Malaysia",
@@ -9779,7 +9779,7 @@
   "localizationAlias": "SarawakandSabah"
  },
  {
-  "dataName": "1898_Maldives",
+  "dataName": "1899_Maldives",
   "mapRegionName": "map_Maldives",
   "primaryCity": "Malé",
   "sortNation": "Maldives",
@@ -9824,7 +9824,7 @@
   "localizationAlias": "Maldives"
  },
  {
-  "dataName": "1898_Gao",
+  "dataName": "1899_Gao",
   "mapRegionName": "map_Gao",
   "primaryCity": "Gao",
   "sortNation": "Mali",
@@ -9864,7 +9864,7 @@
   "localizationAlias": "Gao"
  },
  {
-  "dataName": "1898_Mali",
+  "dataName": "1899_Mali",
   "mapRegionName": "map_Mali",
   "primaryCity": "Bamako",
   "sortNation": "Mali",
@@ -9904,7 +9904,7 @@
   "localizationAlias": "Mali"
  },
  {
-  "dataName": "1898_Mauritania",
+  "dataName": "1899_Mauritania",
   "mapRegionName": "map_Mauritania",
   "primaryCity": "Nouakchott",
   "sortNation": "Mauritania",
@@ -9947,7 +9947,7 @@
   "localizationAlias": "Mauritania"
  },
  {
-  "dataName": "1898_Mauritius",
+  "dataName": "1899_Mauritius",
   "mapRegionName": "map_Mauritius",
   "primaryCity": "Port Louis",
   "sortNation": "Mauritius",
@@ -9997,7 +9997,7 @@
   "localizationAlias": "Mauritius"
  },
  {
-  "dataName": "1898_Melanesia",
+  "dataName": "1899_Melanesia",
   "mapRegionName": "map_Melanesia",
   "primaryCity": "Suva",
   "sortNation": "Melanesia",
@@ -10037,7 +10037,7 @@
   "localizationAlias": "Melanesia"
  },
  {
-  "dataName": "1898_Merida",
+  "dataName": "1899_Merida",
   "mapRegionName": "map_Merida",
   "primaryCity": "Merida",
   "sortNation": "Mexico",
@@ -10071,7 +10071,7 @@
   "localizationAlias": "Merida"
  },
  {
-  "dataName": "1898_MexicoCity",
+  "dataName": "1899_MexicoCity",
   "mapRegionName": "map_MexicoCity",
   "primaryCity": "Mexico City",
   "sortNation": "Mexico",
@@ -10107,7 +10107,7 @@
   "localizationAlias": "MexicoCity"
  },
  {
-  "dataName": "1898_Monterrey",
+  "dataName": "1899_Monterrey",
   "mapRegionName": "map_Monterrey",
   "primaryCity": "Monterrey",
   "sortNation": "Mexico",
@@ -10143,7 +10143,7 @@
   "localizationAlias": "Monterrey"
  },
  {
-  "dataName": "1898_Tijuana",
+  "dataName": "1899_Tijuana",
   "mapRegionName": "map_Tijuana",
   "primaryCity": "Tijuana",
   "sortNation": "Mexico",
@@ -10179,7 +10179,7 @@
   "localizationAlias": "Tijuana"
  },
  {
-  "dataName": "1898_Micronesia",
+  "dataName": "1899_Micronesia",
   "mapRegionName": "map_Micronesia",
   "primaryCity": "Weno",
   "sortNation": "Micronesia",
@@ -10216,7 +10216,7 @@
   "localizationAlias": "Micronesia"
  },
  {
-  "dataName": "1898_Moldova",
+  "dataName": "1899_Moldova",
   "mapRegionName": "map_Moldova",
   "primaryCity": "Chisinau",
   "sortNation": "Moldova",
@@ -10249,7 +10249,7 @@
   "localizationAlias": "Moldova"
  },
  {
-  "dataName": "1898_Mongolia",
+  "dataName": "1899_Mongolia",
   "mapRegionName": "map_Mongolia",
   "primaryCity": "Ulan Bataar",
   "sortNation": "Mongolia",
@@ -10283,7 +10283,7 @@
   "localizationAlias": "Mongolia"
  },
  {
-  "dataName": "1898_Montenegro",
+  "dataName": "1899_Montenegro",
   "mapRegionName": "map_Montenegro",
   "primaryCity": "Podgorica",
   "sortNation": "Montenegro",
@@ -10322,7 +10322,7 @@
   "localizationAlias": "Montenegro"
  },
  {
-  "dataName": "1898_Rabat",
+  "dataName": "1899_Rabat",
   "mapRegionName": "map_Morocco",
   "primaryCity": "Rabat",
   "sortNation": "Morocco",
@@ -10357,7 +10357,7 @@
   "localizationAlias": "Rabat"
  },
  {
-  "dataName": "1898_WesternSahara",
+  "dataName": "1899_WesternSahara",
   "mapRegionName": "map_WesternSahara",
   "primaryCity": "Laâyoune",
   "sortNation": "Morocco",
@@ -10402,7 +10402,7 @@
   "localizationAlias": "WesternSahara"
  },
  {
-  "dataName": "1898_Mozambique",
+  "dataName": "1899_Mozambique",
   "mapRegionName": "map_Mozambique",
   "primaryCity": "Maputo",
   "sortNation": "Mozambique",
@@ -10444,7 +10444,7 @@
   "localizationAlias": "Mozambique"
  },
  {
-  "dataName": "1898_NorthMozambique",
+  "dataName": "1899_NorthMozambique",
   "mapRegionName": "map_NorthMozambique",
   "primaryCity": "Nampula",
   "sortNation": "Mozambique",
@@ -10487,7 +10487,7 @@
   "localizationAlias": "NorthMozambique"
  },
  {
-  "dataName": "1898_Myanmar",
+  "dataName": "1899_Myanmar",
   "mapRegionName": "map_Myanmar",
   "primaryCity": "Yangon",
   "sortNation": "Myanmar",
@@ -10521,7 +10521,7 @@
   "localizationAlias": "Myanmar"
  },
  {
-  "dataName": "1898_UpperMyanmar",
+  "dataName": "1899_UpperMyanmar",
   "mapRegionName": "map_UpperMyanmar",
   "primaryCity": "Mandalay",
   "sortNation": "Myanmar",
@@ -10555,7 +10555,7 @@
   "localizationAlias": "UpperMyanmar"
  },
  {
-  "dataName": "1898_Namibia",
+  "dataName": "1899_Namibia",
   "mapRegionName": "map_Namibia",
   "primaryCity": "Windhoek",
   "sortNation": "Namibia",
@@ -10593,7 +10593,7 @@
   "localizationAlias": "Namibia"
  },
  {
-  "dataName": "1898_Himalayas",
+  "dataName": "1899_Himalayas",
   "mapRegionName": "map_Himalayas",
   "primaryCity": "Kathmandu",
   "sortNation": "Nepal",
@@ -10633,7 +10633,7 @@
   "localizationAlias": "Himalayas"
  },
  {
-  "dataName": "1898_DutchCaribbean",
+  "dataName": "1899_DutchCaribbean",
   "mapRegionName": "map_DutchCaribbean",
   "primaryCity": "Willemstad",
   "sortNation": "Netherlands",
@@ -10689,7 +10689,7 @@
   "localizationAlias": "DutchCaribbean"
  },
  {
-  "dataName": "1898_Netherlands",
+  "dataName": "1899_Netherlands",
   "mapRegionName": "map_Netherlands",
   "primaryCity": "Amsterdam",
   "sortNation": "Netherlands",
@@ -10757,7 +10757,7 @@
   "localizationAlias": "Netherlands"
  },
  {
-  "dataName": "1898_NewZealand",
+  "dataName": "1899_NewZealand",
   "mapRegionName": "map_NewZealand",
   "primaryCity": "Aukland",
   "sortNation": "NewZealand",
@@ -10842,7 +10842,7 @@
   "localizationAlias": "NewZealand"
  },
  {
-  "dataName": "1898_TeWaipounamu",
+  "dataName": "1899_TeWaipounamu",
   "mapRegionName": "map_TeWaipounamu",
   "primaryCity": "Christchurch",
   "sortNation": "NewZealand",
@@ -10927,7 +10927,7 @@
   "localizationAlias": "TeWaipounamu"
  },
  {
-  "dataName": "1898_Nicaragua",
+  "dataName": "1899_Nicaragua",
   "mapRegionName": "map_Nicaragua",
   "primaryCity": "Managua",
   "sortNation": "Nicaragua",
@@ -10988,7 +10988,7 @@
   "localizationAlias": "Nicaragua"
  },
  {
-  "dataName": "1898_Niger",
+  "dataName": "1899_Niger",
   "mapRegionName": "map_Niger",
   "primaryCity": "Niamey",
   "sortNation": "Niger",
@@ -11032,7 +11032,7 @@
   "localizationAlias": "Niger"
  },
  {
-  "dataName": "1898_Kano",
+  "dataName": "1899_Kano",
   "mapRegionName": "map_Kano",
   "primaryCity": "Kano",
   "sortNation": "Nigeria",
@@ -11066,7 +11066,7 @@
   "localizationAlias": "Kano"
  },
  {
-  "dataName": "1898_Lagos",
+  "dataName": "1899_Lagos",
   "mapRegionName": "map_Lagos",
   "primaryCity": "Lagos",
   "sortNation": "Nigeria",
@@ -11102,7 +11102,7 @@
   "localizationAlias": "Lagos"
  },
  {
-  "dataName": "1898_PortHarcourt",
+  "dataName": "1899_PortHarcourt",
   "mapRegionName": "map_PortHarcourt",
   "primaryCity": "Port Harcourt",
   "sortNation": "Nigeria",
@@ -11138,7 +11138,7 @@
   "localizationAlias": "PortHarcourt"
  },
  {
-  "dataName": "1898_NorthKorea",
+  "dataName": "1899_NorthKorea",
   "mapRegionName": "map_NorthKorea",
   "primaryCity": "Pyongyang",
   "sortNation": "NorthKorea",
@@ -11172,7 +11172,7 @@
   "localizationAlias": "NorthKorea"
  },
  {
-  "dataName": "1898_NorthMacedonia",
+  "dataName": "1899_NorthMacedonia",
   "mapRegionName": "map_NorthMacedonia",
   "primaryCity": "Skopje",
   "sortNation": "North Macedonia",
@@ -11208,7 +11208,7 @@
   "localizationAlias": "NorthMacedonia"
  },
  {
-  "dataName": "1898_Norway",
+  "dataName": "1899_Norway",
   "mapRegionName": "map_Norway",
   "primaryCity": "Oslo",
   "sortNation": "Norway",
@@ -11298,7 +11298,7 @@
   "localizationAlias": "Norway"
  },
  {
-  "dataName": "1898_Oman",
+  "dataName": "1899_Oman",
   "mapRegionName": "map_Oman",
   "primaryCity": "Muscat",
   "sortNation": "Oman",
@@ -11334,7 +11334,7 @@
   "localizationAlias": "Oman"
  },
  {
-  "dataName": "1898_Baluchistan",
+  "dataName": "1899_Baluchistan",
   "mapRegionName": "map_Baluchistan",
   "primaryCity": "Quetta",
   "sortNation": "Pakistan",
@@ -11378,7 +11378,7 @@
   "localizationAlias": "Baluchistan"
  },
  {
-  "dataName": "1898_Peshawar",
+  "dataName": "1899_Peshawar",
   "mapRegionName": "map_Peshawar",
   "primaryCity": "Peshawar",
   "sortNation": "Pakistan",
@@ -11419,7 +11419,7 @@
   "localizationAlias": "Peshawar"
  },
  {
-  "dataName": "1898_Punjab",
+  "dataName": "1899_Punjab",
   "mapRegionName": "map_Punjab",
   "primaryCity": "Islamabad",
   "sortNation": "Pakistan",
@@ -11460,7 +11460,7 @@
   "localizationAlias": "Punjab"
  },
  {
-  "dataName": "1898_Sindh",
+  "dataName": "1899_Sindh",
   "mapRegionName": "map_Sindh",
   "primaryCity": "Karachi",
   "sortNation": "Pakistan",
@@ -11504,7 +11504,7 @@
   "localizationAlias": "Sindh"
  },
  {
-  "dataName": "1898_Palestine",
+  "dataName": "1899_Palestine",
   "mapRegionName": "map_Palestine",
   "primaryCity": "Hebron",
   "sortNation": "Palestine",
@@ -11538,7 +11538,7 @@
   "localizationAlias": "Palestine"
  },
  {
-  "dataName": "1898_Panama",
+  "dataName": "1899_Panama",
   "mapRegionName": "map_Panama",
   "primaryCity": "Panama City",
   "sortNation": "Panama",
@@ -11588,7 +11588,7 @@
   "localizationAlias": "Panama"
  },
  {
-  "dataName": "1898_PortMorseby",
+  "dataName": "1899_PortMorseby",
   "mapRegionName": "map_PapuaNewGuinea",
   "primaryCity": "Port Morseby",
   "sortNation": "Papua New Guinea",
@@ -11627,7 +11627,7 @@
   "localizationAlias": "PortMorseby"
  },
  {
-  "dataName": "1898_Paraguay",
+  "dataName": "1899_Paraguay",
   "mapRegionName": "map_Paraguay",
   "primaryCity": "Asuncion",
   "sortNation": "Paraguay",
@@ -11660,7 +11660,7 @@
   "localizationAlias": "Paraguay"
  },
  {
-  "dataName": "1898_Arequipa",
+  "dataName": "1899_Arequipa",
   "mapRegionName": "map_Arequipa",
   "primaryCity": "Arequipa",
   "sortNation": "Peru",
@@ -11695,7 +11695,7 @@
   "localizationAlias": "Arequipa"
  },
  {
-  "dataName": "1898_Peru",
+  "dataName": "1899_Peru",
   "mapRegionName": "map_Peru",
   "primaryCity": "Lima",
   "sortNation": "Peru",
@@ -11748,7 +11748,7 @@
   "localizationAlias": "Peru"
  },
  {
-  "dataName": "1898_Luzon",
+  "dataName": "1899_Luzon",
   "mapRegionName": "map_Luzon",
   "primaryCity": "Manila",
   "sortNation": "Philippines",
@@ -11805,7 +11805,7 @@
   "localizationAlias": "Luzon"
  },
  {
-  "dataName": "1898_Visayas",
+  "dataName": "1899_Visayas",
   "mapRegionName": "map_Visayas",
   "primaryCity": "Cebu City",
   "sortNation": "Philippines",
@@ -11860,7 +11860,7 @@
   "localizationAlias": "Visayas"
  },
  {
-  "dataName": "1898_ViasyasyMindanao",
+  "dataName": "1899_ViasyasyMindanao",
   "mapRegionName": "map_ViasyasyMindanao",
   "primaryCity": "Davao",
   "sortNation": "Philippines",
@@ -11918,7 +11918,7 @@
   "localizationAlias": "ViasyasyMindanao"
  },
  {
-  "dataName": "1898_Gdansk",
+  "dataName": "1899_Gdansk",
   "mapRegionName": "map_Gdansk",
   "primaryCity": "Gdansk",
   "sortNation": "Poland",
@@ -11952,7 +11952,7 @@
   "localizationAlias": "Gdansk"
  },
  {
-  "dataName": "1898_Katowice",
+  "dataName": "1899_Katowice",
   "mapRegionName": "map_Katowice",
   "primaryCity": "Katowice",
   "sortNation": "Poland",
@@ -11986,7 +11986,7 @@
   "localizationAlias": "Katowice"
  },
  {
-  "dataName": "1898_Poland",
+  "dataName": "1899_Poland",
   "mapRegionName": "map_Poland",
   "primaryCity": "Warsaw",
   "sortNation": "Poland",
@@ -12021,7 +12021,7 @@
   "localizationAlias": "Poland"
  },
  {
-  "dataName": "1898_Polynesia",
+  "dataName": "1899_Polynesia",
   "mapRegionName": "map_Polynesia",
   "primaryCity": "Apia",
   "sortNation": "Polynesia",
@@ -12058,7 +12058,7 @@
   "localizationAlias": "Polynesia"
  },
  {
-  "dataName": "1898_Azores",
+  "dataName": "1899_Azores",
   "mapRegionName": "map_Azores",
   "primaryCity": "Funchal",
   "sortNation": "Portugal",
@@ -12117,7 +12117,7 @@
   "localizationAlias": "Azores"
  },
  {
-  "dataName": "1898_Portugal",
+  "dataName": "1899_Portugal",
   "mapRegionName": "map_Portugal",
   "primaryCity": "Lisbon",
   "sortNation": "Portugal",
@@ -12176,7 +12176,7 @@
   "localizationAlias": "Portugal"
  },
  {
-  "dataName": "1898_Brazzaville",
+  "dataName": "1899_Brazzaville",
   "mapRegionName": "map_CongoBrazzaville",
   "primaryCity": "Brazzaville",
   "sortNation": "RepublicoftheCongo",
@@ -12209,7 +12209,7 @@
   "localizationAlias": "Brazzaville"
  },
  {
-  "dataName": "1898_Romania",
+  "dataName": "1899_Romania",
   "mapRegionName": "map_Romania",
   "primaryCity": "Bucharest",
   "sortNation": "Romania",
@@ -12242,7 +12242,7 @@
   "localizationAlias": "Romania"
  },
  {
-  "dataName": "1898_Transylvania",
+  "dataName": "1899_Transylvania",
   "mapRegionName": "map_Transylvania",
   "primaryCity": "Cluj",
   "sortNation": "Romania",
@@ -12279,7 +12279,7 @@
   "localizationAlias": "Transylvania"
  },
  {
-  "dataName": "1898_Arkhangelsk",
+  "dataName": "1899_Arkhangelsk",
   "mapRegionName": "map_Arkhangelsk",
   "primaryCity": "Arkhangelsk",
   "sortNation": "Russia",
@@ -12315,7 +12315,7 @@
   "localizationAlias": "Arkhangelsk"
  },
  {
-  "dataName": "1898_Crimea",
+  "dataName": "1899_Crimea",
   "mapRegionName": "map_Crimea",
   "primaryCity": "Sevastopol",
   "sortNation": "Russia",
@@ -12356,7 +12356,7 @@
   "localizationAlias": "Crimea"
  },
  {
-  "dataName": "1898_EasternSiberia",
+  "dataName": "1899_EasternSiberia",
   "mapRegionName": "map_Irkutsk",
   "primaryCity": "Irkutsk",
   "sortNation": "Russia",
@@ -12422,7 +12422,7 @@
   "localizationAlias": "EasternSiberia"
  },
  {
-  "dataName": "1898_Kaliningrad",
+  "dataName": "1899_Kaliningrad",
   "mapRegionName": "map_Kaliningrad",
   "primaryCity": "Kaliningrad",
   "sortNation": "Russia",
@@ -12458,7 +12458,7 @@
   "localizationAlias": "Kaliningrad"
  },
  {
-  "dataName": "1898_Kamchatka",
+  "dataName": "1899_Kamchatka",
   "mapRegionName": "map_Kamchatka",
   "primaryCity": "Petropavlovsk",
   "sortNation": "Russia",
@@ -12520,7 +12520,7 @@
   "localizationAlias": "Kamchatka"
  },
  {
-  "dataName": "1898_Karelia",
+  "dataName": "1899_Karelia",
   "mapRegionName": "map_Karelia",
   "primaryCity": "Murmansk",
   "sortNation": "Russia",
@@ -12554,7 +12554,7 @@
   "localizationAlias": "Karelia"
  },
  {
-  "dataName": "1898_Kirov",
+  "dataName": "1899_Kirov",
   "mapRegionName": "map_Kirov",
   "primaryCity": "Nizhny Novgorod",
   "sortNation": "Russia",
@@ -12588,7 +12588,7 @@
   "localizationAlias": "Kirov"
  },
  {
-  "dataName": "1898_Makhachkala",
+  "dataName": "1899_Makhachkala",
   "mapRegionName": "map_NorthCaucasus",
   "primaryCity": "Makhachkala",
   "sortNation": "Russia",
@@ -12636,7 +12636,7 @@
   "localizationAlias": "Makhachkala"
  },
  {
-  "dataName": "1898_Moskva",
+  "dataName": "1899_Moskva",
   "mapRegionName": "map_Moskva",
   "primaryCity": "Moscow",
   "sortNation": "Russia",
@@ -12672,7 +12672,7 @@
   "localizationAlias": "Moskva"
  },
  {
-  "dataName": "1898_Norilsk",
+  "dataName": "1899_Norilsk",
   "mapRegionName": "map_NorthKrasnoyarsk",
   "primaryCity": "Norilsk",
   "sortNation": "Russia",
@@ -12714,7 +12714,7 @@
   "localizationAlias": "Norilsk"
  },
  {
-  "dataName": "1898_Novgorod",
+  "dataName": "1899_Novgorod",
   "mapRegionName": "map_Novgorod",
   "primaryCity": "St. Petersburg",
   "sortNation": "Russia",
@@ -12748,7 +12748,7 @@
   "localizationAlias": "Novgorod"
  },
  {
-  "dataName": "1898_Rostovskaya",
+  "dataName": "1899_Rostovskaya",
   "mapRegionName": "map_Rostovskaya",
   "primaryCity": "Rostov-On-Don",
   "sortNation": "Russia",
@@ -12786,7 +12786,7 @@
   "localizationAlias": "Rostovskaya"
  },
  {
-  "dataName": "1898_RussianFarEast",
+  "dataName": "1899_RussianFarEast",
   "mapRegionName": "map_RussianFarEast",
   "primaryCity": "Vladivostok",
   "sortNation": "Russia",
@@ -12853,7 +12853,7 @@
   "localizationAlias": "RussianFarEast"
  },
  {
-  "dataName": "1898_Sakha",
+  "dataName": "1899_Sakha",
   "mapRegionName": "map_Sakha",
   "primaryCity": "Yakutsk",
   "sortNation": "Russia",
@@ -12888,7 +12888,7 @@
   "localizationAlias": "Sakha"
  },
  {
-  "dataName": "1898_SakhalinKurils",
+  "dataName": "1899_SakhalinKurils",
   "mapRegionName": "map_SakhalinKurils",
   "primaryCity": "Yuzhno-Sakhalinsk",
   "sortNation": "Russia",
@@ -12937,7 +12937,7 @@
   "localizationAlias": "SakhalinKurils"
  },
  {
-  "dataName": "1898_Surgut",
+  "dataName": "1899_Surgut",
   "mapRegionName": "map_NorthUrals",
   "primaryCity": "Surgut",
   "sortNation": "Russia",
@@ -12973,7 +12973,7 @@
   "localizationAlias": "Surgut"
  },
  {
-  "dataName": "1898_Urals",
+  "dataName": "1899_Urals",
   "mapRegionName": "map_Urals",
   "primaryCity": "Yekaterinburg",
   "sortNation": "Russia",
@@ -13007,7 +13007,7 @@
   "localizationAlias": "Urals"
  },
  {
-  "dataName": "1898_Volga",
+  "dataName": "1899_Volga",
   "mapRegionName": "map_Volga",
   "primaryCity": "Kazan",
   "sortNation": "Russia",
@@ -13060,7 +13060,7 @@
   "localizationAlias": "Volga"
  },
  {
-  "dataName": "1898_Voronezh",
+  "dataName": "1899_Voronezh",
   "mapRegionName": "map_Voronezh",
   "primaryCity": "Voronezh",
   "sortNation": "Russia",
@@ -13094,7 +13094,7 @@
   "localizationAlias": "Voronezh"
  },
  {
-  "dataName": "1898_WesternSiberia",
+  "dataName": "1899_WesternSiberia",
   "mapRegionName": "map_Novosibirsk",
   "primaryCity": "Novosibirsk",
   "sortNation": "Russia",
@@ -13149,7 +13149,7 @@
   "localizationAlias": "WesternSiberia"
  },
  {
-  "dataName": "1898_Kigali",
+  "dataName": "1899_Kigali",
   "mapRegionName": "map_RwandaBurundi",
   "primaryCity": "Kigali",
   "sortNation": "Rwanda-Burundi",
@@ -13186,7 +13186,7 @@
   "localizationAlias": "Kigali"
  },
  {
-  "dataName": "1898_SaoTomePrincipe",
+  "dataName": "1899_SaoTomePrincipe",
   "mapRegionName": "map_SaoTomePrincipe",
   "primaryCity": "São Tomé",
   "sortNation": "São Tomé and Principe",
@@ -13232,7 +13232,7 @@
   "localizationAlias": "SaoTomePrincipe"
  },
  {
-  "dataName": "1898_Hijaz",
+  "dataName": "1899_Hijaz",
   "mapRegionName": "map_Hijaz",
   "primaryCity": "Jeddah",
   "sortNation": "Saudi Arabia",
@@ -13269,7 +13269,7 @@
   "localizationAlias": "Hijaz"
  },
  {
-  "dataName": "1898_Najd",
+  "dataName": "1899_Najd",
   "mapRegionName": "map_Najd",
   "primaryCity": "Riyadh",
   "sortNation": "Saudi Arabia",
@@ -13306,7 +13306,7 @@
   "localizationAlias": "Najd"
  },
  {
-  "dataName": "1898_Qassimah",
+  "dataName": "1899_Qassimah",
   "mapRegionName": "map_Qassimah",
   "primaryCity": "Buraydah",
   "sortNation": "Saudi Arabia",
@@ -13343,7 +13343,7 @@
   "localizationAlias": "Qassimah"
  },
  {
-  "dataName": "1898_Senegambia",
+  "dataName": "1899_Senegambia",
   "mapRegionName": "map_Senegambia",
   "primaryCity": "Dakar",
   "sortNation": "Senegal",
@@ -13381,7 +13381,7 @@
   "localizationAlias": "Senegambia"
  },
  {
-  "dataName": "1898_Belgrade",
+  "dataName": "1899_Belgrade",
   "mapRegionName": "map_Belgrade",
   "primaryCity": "Belgrade",
   "sortNation": "Serbia",
@@ -13418,7 +13418,7 @@
   "localizationAlias": "Belgrade"
  },
  {
-  "dataName": "1898_Seychelles",
+  "dataName": "1899_Seychelles",
   "mapRegionName": "map_Seychelles",
   "primaryCity": "Victoria",
   "sortNation": "Seychelles",
@@ -13469,7 +13469,7 @@
   "localizationAlias": "Seychelles"
  },
  {
-  "dataName": "1898_SierraLeone",
+  "dataName": "1899_SierraLeone",
   "mapRegionName": "map_SierraLeone",
   "primaryCity": "Freetown",
   "sortNation": "Sierra Leone",
@@ -13505,7 +13505,7 @@
   "localizationAlias": "SierraLeone"
  },
  {
-  "dataName": "1898_Singapore",
+  "dataName": "1899_Singapore",
   "mapRegionName": "map_Singapore",
   "primaryCity": "Singapore (r)",
   "sortNation": "Singapore",
@@ -13557,7 +13557,7 @@
   "localizationAlias": "Singapore"
  },
  {
-  "dataName": "1898_Slovenia",
+  "dataName": "1899_Slovenia",
   "mapRegionName": "map_Slovenia",
   "primaryCity": "Ljubljana",
   "sortNation": "Slovenia",
@@ -13590,7 +13590,7 @@
   "localizationAlias": "Slovenia"
  },
  {
-  "dataName": "1898_Slovakia",
+  "dataName": "1899_Slovakia",
   "mapRegionName": "map_Slovakia",
   "primaryCity": "Bratislava",
   "sortNation": "Slovakia",
@@ -13623,7 +13623,7 @@
   "localizationAlias": "Slovakia"
  },
  {
-  "dataName": "1898_Somalia",
+  "dataName": "1899_Somalia",
   "mapRegionName": "map_Somalia",
   "primaryCity": "Mogadishu",
   "sortNation": "Somalia",
@@ -13656,7 +13656,7 @@
   "localizationAlias": "Somalia"
  },
  {
-  "dataName": "1898_Somaliland",
+  "dataName": "1899_Somaliland",
   "mapRegionName": "map_Somaliland",
   "primaryCity": "Hargeisa",
   "sortNation": "Somaliland",
@@ -13689,7 +13689,7 @@
   "localizationAlias": "Somaliland"
  },
  {
-  "dataName": "1898_CapeTown",
+  "dataName": "1899_CapeTown",
   "mapRegionName": "map_CapeTown",
   "primaryCity": "Cape Town",
   "sortNation": "South Africa",
@@ -13757,7 +13757,7 @@
   "localizationAlias": "CapeTown"
  },
  {
-  "dataName": "1898_Johannesburg",
+  "dataName": "1899_Johannesburg",
   "mapRegionName": "map_Johannesburg",
   "primaryCity": "Johannesburg",
   "sortNation": "South Africa",
@@ -13827,7 +13827,7 @@
   "localizationAlias": "Johannesburg"
  },
  {
-  "dataName": "1898_SouthKorea",
+  "dataName": "1899_SouthKorea",
   "mapRegionName": "map_SouthKorea",
   "primaryCity": "Seoul",
   "sortNation": "SouthKorea",
@@ -13861,7 +13861,7 @@
   "localizationAlias": "SouthKorea"
  },
  {
-  "dataName": "1898_SouthSudan",
+  "dataName": "1899_SouthSudan",
   "mapRegionName": "map_SouthSudan",
   "primaryCity": "Juba",
   "sortNation": "SouthSudan",
@@ -13897,7 +13897,7 @@
   "localizationAlias": "SouthSudan"
  },
  {
-  "dataName": "1898_Barcelona",
+  "dataName": "1899_Barcelona",
   "mapRegionName": "map_Barcelona",
   "primaryCity": "Barcelona",
   "sortNation": "Spain",
@@ -13989,7 +13989,7 @@
   "localizationAlias": "Barcelona"
  },
  {
-  "dataName": "1898_BasqueCountry",
+  "dataName": "1899_BasqueCountry",
   "mapRegionName": "map_BasqueCountry",
   "primaryCity": "Bilbao",
   "sortNation": "Spain",
@@ -14034,7 +14034,7 @@
   "localizationAlias": "BasqueCountry"
  },
  {
-  "dataName": "1898_NorthernSpain",
+  "dataName": "1899_NorthernSpain",
   "mapRegionName": "map_LeonGalicia",
   "primaryCity": "Asturias",
   "sortNation": "Spain",
@@ -14123,7 +14123,7 @@
   "localizationAlias": "NorthernSpain"
  },
  {
-  "dataName": "1898_CanaryIslands",
+  "dataName": "1899_CanaryIslands",
   "mapRegionName": "map_CanaryIslands",
   "primaryCity": "Santa Cruz de Tenerife",
   "sortNation": "Spain",
@@ -14167,7 +14167,7 @@
   "localizationAlias": "CanaryIslands"
  },
  {
-  "dataName": "1898_Spain",
+  "dataName": "1899_Spain",
   "mapRegionName": "map_Spain",
   "primaryCity": "Madrid",
   "sortNation": "Spain",
@@ -14259,7 +14259,7 @@
   "localizationAlias": "Spain"
  },
  {
-  "dataName": "1898_SriLanka",
+  "dataName": "1899_SriLanka",
   "mapRegionName": "map_SriLanka",
   "primaryCity": "Colombo",
   "sortNation": "SriLanka",
@@ -14295,7 +14295,7 @@
   "localizationAlias": "SriLanka"
  },
  {
-  "dataName": "1898_Darfur",
+  "dataName": "1899_Darfur",
   "mapRegionName": "map_Darfur",
   "primaryCity": "Nyala",
   "sortNation": "Sudan",
@@ -14339,7 +14339,7 @@
   "localizationAlias": "Darfur"
  },
  {
-  "dataName": "1898_NorthernSudan",
+  "dataName": "1899_NorthernSudan",
   "mapRegionName": "map_NorthernSudan",
   "primaryCity": "Port Sudan",
   "sortNation": "Sudan",
@@ -14386,7 +14386,7 @@
   "localizationAlias": "NorthernSudan"
  },
  {
-  "dataName": "1898_Sudan",
+  "dataName": "1899_Sudan",
   "mapRegionName": "map_Sudan",
   "primaryCity": "Khartoum",
   "sortNation": "Sudan",
@@ -14434,7 +14434,7 @@
   "localizationAlias": "Sudan"
  },
  {
-  "dataName": "1898_Suriname",
+  "dataName": "1899_Suriname",
   "mapRegionName": "map_Suriname",
   "primaryCity": "Paramaribo",
   "sortNation": "Suriname",
@@ -14501,7 +14501,7 @@
   "localizationAlias": "Suriname"
  },
  {
-  "dataName": "1898_Sweden",
+  "dataName": "1899_Sweden",
   "mapRegionName": "map_Sweden",
   "primaryCity": "Stockholm",
   "sortNation": "Sweden",
@@ -14584,7 +14584,7 @@
   "localizationAlias": "Sweden"
  },
  {
-  "dataName": "1898_Zurich",
+  "dataName": "1899_Zurich",
   "mapRegionName": "map_Switzerland",
   "primaryCity": "Zurich",
   "sortNation": "Switzerland",
@@ -14625,7 +14625,7 @@
   "localizationAlias": "Zurich"
  },
  {
-  "dataName": "1898_Syria",
+  "dataName": "1899_Syria",
   "mapRegionName": "map_Syria",
   "primaryCity": "Damascus",
   "sortNation": "Syria",
@@ -14666,7 +14666,7 @@
   "localizationAlias": "Syria"
  },
  {
-  "dataName": "1898_Taiwan",
+  "dataName": "1899_Taiwan",
   "mapRegionName": "map_Taiwan",
   "primaryCity": "Taipei",
   "sortNation": "Taiwan",
@@ -14700,7 +14700,7 @@
   "localizationAlias": "Taiwan"
  },
  {
-  "dataName": "1898_Tajikistan",
+  "dataName": "1899_Tajikistan",
   "mapRegionName": "map_Tajikistan",
   "primaryCity": "Dushanbe",
   "sortNation": "Tajikistan",
@@ -14733,7 +14733,7 @@
   "localizationAlias": "Tajikistan"
  },
  {
-  "dataName": "1898_Tanzania",
+  "dataName": "1899_Tanzania",
   "mapRegionName": "map_Tanzania",
   "primaryCity": "Dar Es Salaam",
   "sortNation": "Tanzania",
@@ -14776,7 +14776,7 @@
   "localizationAlias": "Tanzania"
  },
  {
-  "dataName": "1898_WestTanzania",
+  "dataName": "1899_WestTanzania",
   "mapRegionName": "map_WestTanzania",
   "primaryCity": "Dodoma",
   "sortNation": "Tanzania",
@@ -14818,7 +14818,7 @@
   "localizationAlias": "WestTanzania"
  },
  {
-  "dataName": "1898_Zanzibar",
+  "dataName": "1899_Zanzibar",
   "mapRegionName": "map_Zanzibar",
   "primaryCity": "Zanzibar City",
   "sortNation": "Tanzania",
@@ -14866,7 +14866,7 @@
   "localizationAlias": "Zanzibar"
  },
  {
-  "dataName": "1898_Bangkok",
+  "dataName": "1899_Bangkok",
   "mapRegionName": "map_SouthThailand",
   "primaryCity": "Bangkok",
   "sortNation": "Thailand",
@@ -14903,7 +14903,7 @@
   "localizationAlias": "Bangkok"
  },
  {
-  "dataName": "1898_ChiangMai",
+  "dataName": "1899_ChiangMai",
   "mapRegionName": "map_NorthThailand",
   "primaryCity": "Chiang Mai",
   "sortNation": "Thailand",
@@ -14939,7 +14939,7 @@
   "localizationAlias": "ChiangMai"
  },
  {
-  "dataName": "1898_TimorLeste",
+  "dataName": "1899_TimorLeste",
   "mapRegionName": "map_EastTimor",
   "primaryCity": "Dili",
   "sortNation": "Timor Leste",
@@ -14995,7 +14995,7 @@
   "localizationAlias": "TimorLeste"
  },
  {
-  "dataName": "1898_Togo",
+  "dataName": "1899_Togo",
   "mapRegionName": "map_Togo",
   "primaryCity": "Lomé",
   "sortNation": "Togo",
@@ -15035,7 +15035,7 @@
   "localizationAlias": "Togo"
  },
  {
-  "dataName": "1898_Tunisia",
+  "dataName": "1899_Tunisia",
   "mapRegionName": "map_Tunisia",
   "primaryCity": "Tunis",
   "sortNation": "Tunisia",
@@ -15068,7 +15068,7 @@
   "localizationAlias": "Tunisia"
  },
  {
-  "dataName": "1898_Anatolia",
+  "dataName": "1899_Anatolia",
   "mapRegionName": "map_Anatolia",
   "primaryCity": "Ankara",
   "sortNation": "Turkey",
@@ -15115,7 +15115,7 @@
   "localizationAlias": "Anatolia"
  },
  {
-  "dataName": "1898_Diyarbakir",
+  "dataName": "1899_Diyarbakir",
   "mapRegionName": "map_Diyarbakir",
   "primaryCity": "Diyarbakir",
   "sortNation": "Turkey",
@@ -15166,7 +15166,7 @@
   "localizationAlias": "Diyarbakir"
  },
  {
-  "dataName": "1898_Istanbul",
+  "dataName": "1899_Istanbul",
   "mapRegionName": "map_Istanbul",
   "primaryCity": "Istanbul",
   "sortNation": "Turkey",
@@ -15211,7 +15211,7 @@
   "localizationAlias": "Istanbul"
  },
  {
-  "dataName": "1898_Turkmenistan",
+  "dataName": "1899_Turkmenistan",
   "mapRegionName": "map_Turkmenistan",
   "primaryCity": "Ashgabat",
   "sortNation": "Turkmenistan",
@@ -15247,7 +15247,7 @@
   "localizationAlias": "Turkmenistan"
  },
  {
-  "dataName": "1898_Uganda",
+  "dataName": "1899_Uganda",
   "mapRegionName": "map_Uganda",
   "primaryCity": "Kampala",
   "sortNation": "Uganda",
@@ -15286,7 +15286,7 @@
   "localizationAlias": "Uganda"
  },
  {
-  "dataName": "1898_Donetsk",
+  "dataName": "1899_Donetsk",
   "mapRegionName": "map_Donetsk",
   "primaryCity": "Donetsk",
   "sortNation": "Ukraine",
@@ -15324,7 +15324,7 @@
   "localizationAlias": "Donetsk"
  },
  {
-  "dataName": "1898_Kharkiv",
+  "dataName": "1899_Kharkiv",
   "mapRegionName": "map_Kharkiv",
   "primaryCity": "Kharkiv",
   "sortNation": "Ukraine",
@@ -15357,7 +15357,7 @@
   "localizationAlias": "Kharkiv"
  },
  {
-  "dataName": "1898_Kiev",
+  "dataName": "1899_Kiev",
   "mapRegionName": "map_Kiev",
   "primaryCity": "Kiev",
   "sortNation": "Ukraine",
@@ -15390,7 +15390,7 @@
   "localizationAlias": "Kiev"
  },
  {
-  "dataName": "1898_Odesa",
+  "dataName": "1899_Odesa",
   "mapRegionName": "map_Odesa",
   "primaryCity": "Odesa",
   "sortNation": "Ukraine",
@@ -15423,7 +15423,7 @@
   "localizationAlias": "Odesa"
  },
  {
-  "dataName": "1898_Dubai",
+  "dataName": "1899_Dubai",
   "mapRegionName": "map_UnitedArabEmirates",
   "primaryCity": "Dubai",
   "sortNation": "United Arab Emirates",
@@ -15458,7 +15458,7 @@
   "localizationAlias": "Dubai"
  },
  {
-  "dataName": "1898_EnglishMidlands",
+  "dataName": "1899_EnglishMidlands",
   "mapRegionName": "map_EnglishMidlands",
   "primaryCity": "Birmingham",
   "sortNation": "United Kingdom",
@@ -15549,7 +15549,7 @@
   "localizationAlias": "EnglishMidlands"
  },
  {
-  "dataName": "1898_BritishWestIndies",
+  "dataName": "1899_BritishWestIndies",
   "mapRegionName": "map_BritishWestIndies",
   "primaryCity": "George Town",
   "sortNation": "United Kingdom",
@@ -15608,7 +15608,7 @@
   "localizationAlias": "BritishWestIndies"
  },
  {
-  "dataName": "1898_England",
+  "dataName": "1899_England",
   "mapRegionName": "map_England",
   "primaryCity": "London",
   "sortNation": "United Kingdom",
@@ -15700,7 +15700,7 @@
   "localizationAlias": "England"
  },
  {
-  "dataName": "1898_NorthernIreland",
+  "dataName": "1899_NorthernIreland",
   "mapRegionName": "map_NorthernIreland",
   "primaryCity": "Belfast",
   "sortNation": "United Kingdom",
@@ -15742,7 +15742,7 @@
   "localizationAlias": "NorthernIreland"
  },
  {
-  "dataName": "1898_Scotland",
+  "dataName": "1899_Scotland",
   "mapRegionName": "map_Scotland",
   "primaryCity": "Glasgow",
   "sortNation": "United Kingdom",
@@ -15777,7 +15777,7 @@
   "localizationAlias": "Scotland"
  },
  {
-  "dataName": "1898_Wales",
+  "dataName": "1899_Wales",
   "mapRegionName": "map_Wales",
   "primaryCity": "Cardiff",
   "sortNation": "United Kingdom",
@@ -15858,7 +15858,7 @@
   "localizationAlias": "Wales"
  },
  {
-  "dataName": "1898_Uruguay",
+  "dataName": "1899_Uruguay",
   "mapRegionName": "map_Uruguay",
   "primaryCity": "Montevideo",
   "sortNation": "Uruguay",
@@ -15919,7 +15919,7 @@
   "localizationAlias": "Uruguay"
  },
  {
-  "dataName": "1898_Alaska",
+  "dataName": "1899_Alaska",
   "mapRegionName": "map_Alaska",
   "primaryCity": "Anchorage",
   "sortNation": "USA",
@@ -16028,7 +16028,7 @@
   "localizationAlias": "Alaska"
  },
  {
-  "dataName": "1898_AmericanCaribbean",
+  "dataName": "1899_AmericanCaribbean",
   "mapRegionName": "map_AmericanCaribbean",
   "primaryCity": "San Juan",
   "sortNation": "USA",
@@ -16087,7 +16087,7 @@
   "localizationAlias": "AmericanCaribbean"
  },
  {
-  "dataName": "1898_AmericanPacific",
+  "dataName": "1899_AmericanPacific",
   "mapRegionName": "map_AmericanPacific",
   "primaryCity": "Honolulu",
   "sortNation": "USA",
@@ -16210,7 +16210,7 @@
   "localizationAlias": "AmericanPacific"
  },
  {
-  "dataName": "1898_Boise",
+  "dataName": "1899_Boise",
   "mapRegionName": "map_Boise",
   "primaryCity": "Boise",
   "sortNation": "USA",
@@ -16317,7 +16317,7 @@
   "localizationAlias": "Boise"
  },
  {
-  "dataName": "1898_California",
+  "dataName": "1899_California",
   "mapRegionName": "map_California",
   "primaryCity": "Los Angeles",
   "sortNation": "USA",
@@ -16428,7 +16428,7 @@
   "localizationAlias": "California"
  },
  {
-  "dataName": "1898_Cascadia",
+  "dataName": "1899_Cascadia",
   "mapRegionName": "map_Cascadia",
   "primaryCity": "Seattle",
   "sortNation": "USA",
@@ -16533,7 +16533,7 @@
   "localizationAlias": "Cascadia"
  },
  {
-  "dataName": "1898_Cumberland",
+  "dataName": "1899_Cumberland",
   "mapRegionName": "map_Cumberland",
   "primaryCity": "Nashville",
   "sortNation": "USA",
@@ -16641,7 +16641,7 @@
   "localizationAlias": "Cumberland"
  },
  {
-  "dataName": "1898_Dakota",
+  "dataName": "1899_Dakota",
   "mapRegionName": "map_Dakota",
   "primaryCity": "Minneapolis",
   "sortNation": "USA",
@@ -16748,7 +16748,7 @@
   "localizationAlias": "Dakota"
  },
  {
-  "dataName": "1898_Dixie",
+  "dataName": "1899_Dixie",
   "mapRegionName": "map_Dixie",
   "primaryCity": "Atlanta",
   "sortNation": "USA",
@@ -16855,7 +16855,7 @@
   "localizationAlias": "Dixie"
  },
  {
-  "dataName": "1898_HighPlains",
+  "dataName": "1899_HighPlains",
   "mapRegionName": "map_HighPlains",
   "primaryCity": "St. Louis",
   "sortNation": "USA",
@@ -16960,7 +16960,7 @@
   "localizationAlias": "HighPlains"
  },
  {
-  "dataName": "1898_MississippiDelta",
+  "dataName": "1899_MississippiDelta",
   "mapRegionName": "map_MississippiDelta",
   "primaryCity": "New Orleans",
   "sortNation": "USA",
@@ -17065,7 +17065,7 @@
   "localizationAlias": "MississippiDelta"
  },
  {
-  "dataName": "1898_NewEngland",
+  "dataName": "1899_NewEngland",
   "mapRegionName": "map_NewEngland",
   "primaryCity": "Boston",
   "sortNation": "USA",
@@ -17172,7 +17172,7 @@
   "localizationAlias": "NewEngland"
  },
  {
-  "dataName": "1898_NewYork",
+  "dataName": "1899_NewYork",
   "mapRegionName": "map_NewYork",
   "primaryCity": "New York City",
   "sortNation": "USA",
@@ -17284,7 +17284,7 @@
   "localizationAlias": "NewYork"
  },
  {
-  "dataName": "1898_RockyMountains",
+  "dataName": "1899_RockyMountains",
   "mapRegionName": "map_RockyMountains",
   "primaryCity": "Denver",
   "sortNation": "USA",
@@ -17399,7 +17399,7 @@
   "localizationAlias": "RockyMountains"
  },
  {
-  "dataName": "1898_RustBelt",
+  "dataName": "1899_RustBelt",
   "mapRegionName": "map_RustBelt",
   "primaryCity": "Chicago",
   "sortNation": "USA",
@@ -17509,7 +17509,7 @@
   "localizationAlias": "RustBelt"
  },
  {
-  "dataName": "1898_Shenandoah",
+  "dataName": "1899_Shenandoah",
   "mapRegionName": "map_Shenandoah",
   "primaryCity": "Washington",
   "sortNation": "USA",
@@ -17620,7 +17620,7 @@
   "localizationAlias": "Shenandoah"
  },
  {
-  "dataName": "1898_Texas",
+  "dataName": "1899_Texas",
   "mapRegionName": "map_Texas",
   "primaryCity": "Dallas",
   "sortNation": "USA",
@@ -17727,7 +17727,7 @@
   "localizationAlias": "Texas"
  },
  {
-  "dataName": "1898_Karakalpakstan",
+  "dataName": "1899_Karakalpakstan",
   "mapRegionName": "map_Karakalpakstan",
   "primaryCity": "Nukus",
   "sortNation": "Uzbekistan",
@@ -17763,7 +17763,7 @@
   "localizationAlias": "Karakalpakstan"
  },
  {
-  "dataName": "1898_Uzbekistan",
+  "dataName": "1899_Uzbekistan",
   "mapRegionName": "map_Uzbekistan",
   "primaryCity": "Tashkent",
   "sortNation": "Uzbekistan",
@@ -17807,7 +17807,7 @@
   "localizationAlias": "Uzbekistan"
  },
  {
-  "dataName": "1898_Venezuela",
+  "dataName": "1899_Venezuela",
   "mapRegionName": "map_Venezuela",
   "primaryCity": "Caracas",
   "sortNation": "Venezuela",
@@ -17842,7 +17842,7 @@
   "localizationAlias": "Venezuela"
  },
  {
-  "dataName": "1898_Hanoi",
+  "dataName": "1899_Hanoi",
   "mapRegionName": "map_Hanoi",
   "primaryCity": "Hanoi",
   "sortNation": "Vietnam",
@@ -17877,7 +17877,7 @@
   "localizationAlias": "Hanoi"
  },
  {
-  "dataName": "1898_HoChiMinhCity",
+  "dataName": "1899_HoChiMinhCity",
   "mapRegionName": "map_HoChiMinhCity",
   "primaryCity": "Ho Chi Minh City",
   "sortNation": "Vietnam",
@@ -17911,7 +17911,7 @@
   "localizationAlias": "HoChiMinhCity"
  },
  {
-  "dataName": "1898_Aden",
+  "dataName": "1899_Aden",
   "mapRegionName": "map_Aden",
   "primaryCity": "Aden",
   "sortNation": "Yemen",
@@ -17946,7 +17946,7 @@
   "localizationAlias": "Aden"
  },
  {
-  "dataName": "1898_Yemen",
+  "dataName": "1899_Yemen",
   "mapRegionName": "map_Yemen",
   "primaryCity": "Sanaa",
   "sortNation": "Yemen",
@@ -17981,7 +17981,7 @@
   "localizationAlias": "Yemen"
  },
  {
-  "dataName": "1898_Zambia",
+  "dataName": "1899_Zambia",
   "mapRegionName": "map_Zambia",
   "primaryCity": "Lusaka",
   "sortNation": "Zambia",
@@ -18020,7 +18020,7 @@
   "localizationAlias": "Zambia"
  },
  {
-  "dataName": "1898_Zimbabwe",
+  "dataName": "1899_Zimbabwe",
   "mapRegionName": "map_Zimbabwe",
   "primaryCity": "Harare",
   "sortNation": "Zimbabwe",

@@ -1,0 +1,232 @@
+[
+ {
+  "dataName": "1899_event_HorsellCommon",
+  "friendlyName": "The Thing in the Common",
+  "illustrationResource": "illustrations/Event_TerrorFromTheDepths",
+  "scenarioTags": [
+   "Wells1899"
+  ],
+  "requiresAliens": false,
+  "logPublicity": "global",
+  "alertPublicity": "factions",
+  "repeatable": "OncePerCampaign",
+  "numOptions": 1,
+  "forceEvent": true,
+  "reqEventUnlock": false,
+  "altBaseWeight": {},
+  "targetType": "mapRegion",
+  "hitAllQualifyingTargets": true,
+  "firstTargetNotificationOnly": true,
+  "global_cooldown_months": 0,
+  "target_cooldown_months": 0,
+  "possibleTargetDataNames": [
+   "map_England"
+  ],
+  "targetConditions": [],
+  "targetWeightModifiers": [
+   {},
+   {},
+   {},
+   {}
+  ],
+  "sameSecondaryForAllTargets": false,
+  "secondaryStateConditions": [],
+  "secondaryWeightModifiers": [
+   {},
+   {},
+   {}
+  ],
+  "eventOptions": [
+   {
+    "baseAIPreference": 1,
+    "outcomes": [
+     {
+      "weight": 1,
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ],
+      "effectTemplateNames": [
+       "Effect_SpawnMegafaunaArmy",
+       "Effect_GDPLoss04",
+       "Effect_MajorCohesionLoss",
+       "Effect_MajorUnrestGain",
+       "Effect_XenoformingIncrease25"
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     }
+    ]
+   },
+   {
+    "outcomes": [
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     }
+    ]
+   },
+   {
+    "outcomes": [
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     }
+    ]
+   },
+   {
+    "outcomes": [
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     },
+     {
+      "facWtMod": [
+       {}
+      ],
+      "tarWtMod": [
+       {}
+      ],
+      "secWtMod": [
+       {}
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

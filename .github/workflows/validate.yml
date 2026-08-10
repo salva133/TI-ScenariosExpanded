@@ -13,5 +13,5 @@ jobs:
   validate:
     uses: salva133/My-Workflows/.github/workflows/validate-ti-mod.yml@latest
     with:
-      id_prefixes: 1898_, WarForOurWorld, Roswell
+      id_prefixes: 1899_, WarForOurWorld, Roswell
       ignore_reference_fields: federation

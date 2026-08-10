@@ -1,9 +1,9 @@
 [
  {
-  "dataName": "1898_Start",
-  "year": 1898,
-  "month": 1,
-  "day": 1,
+  "dataName": "1899_Start",
+  "year": 1899,
+  "month": 8,
+  "day": 31,
   "hour": 0,
   "minute": 0,
   "second": 0,
@@ -19,7 +19,7 @@
   "bonusFissiles": 0,
   "bonusAntimatter": 0,
   "bonusExotics": 0,
-  "initialCrashdownRegionTemplateName": "1898_EnglishMidlands",
+  "initialCrashdownRegionTemplateName": "1899_England",
   "initialAtmosphericCO2_ppm": 295.0,
   "initialAtmosphericCH4_ppm": 0.88,
   "initialAtmosphericN2O_ppm": 0.28,
