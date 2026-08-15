@@ -9,7 +9,7 @@ The mod adds scenarios and changes nothing in existing campaigns. Every record
 carries a scenario prefix and is appended to the base data, so the 2022, 2026,
 2030 and 2070 scenarios — and the Dark Skies scenarios — remain untouched.
 
-**Version 2.8.1** · Terra Invicta 1.0.51
+**Version 2.8.2** · Terra Invicta 1.0.51
 
 ## Installation
 
