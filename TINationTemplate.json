@@ -2306,7 +2306,7 @@
   "dataName": "1899_COL",
   "flagResource": "nationflags/Colombia",
   "unionFlagResource": "nationflags/Colombia",
-  "unionTrigger": 6,
+  "unionTrigger": 5,
   "color32": {
    "r": 255,
    "g": 222,
@@ -3479,7 +3479,7 @@
   "dataName": "1899_EUA",
   "flagResource": "nationflags/France",
   "unionFlagResource": "nationflags/France",
-  "unionTrigger": 37,
+  "unionTrigger": 11,
   "color32": {
    "r": 135,
    "g": 206,
@@ -3733,7 +3733,7 @@
   "dataName": "1899_DEU",
   "flagResource": "nationflags/Germany",
   "unionFlagResource": "nationflags/Germany",
-  "unionTrigger": 18,
+  "unionTrigger": 9,
   "color32": {
    "r": 105,
    "g": 133,
@@ -10248,7 +10248,7 @@
   "dataName": "1899_KOR",
   "flagResource": "nationflags/South_Korea",
   "unionFlagResource": "nationflags/South_Korea",
-  "unionTrigger": 5,
+  "unionTrigger": 4,
   "color32": {
    "r": 89,
    "g": 89,
@@ -10670,7 +10670,7 @@
   "dataName": "1899_SCA",
   "flagResource": "nationflags/Sweden",
   "unionFlagResource": "nationflags/Sweden",
-  "unionTrigger": 4,
+  "unionTrigger": 3,
   "color32": {
    "r": 227,
    "g": 206,
@@ -11529,7 +11529,7 @@
   "dataName": "1899_GBR",
   "flagResource": "nationflags/United_Kingdom",
   "unionFlagResource": "nationflags/United_Kingdom",
-  "unionTrigger": 96,
+  "unionTrigger": 10,
   "color32": {
    "r": 204,
    "g": 0,
@@ -11626,7 +11626,7 @@
   "dataName": "1899_USA",
   "flagResource": "nationflags/United_States",
   "unionFlagResource": "nationflags/United_States",
-  "unionTrigger": 24,
+  "unionTrigger": 18,
   "color32": {
    "r": 13,
    "g": 89,
@@ -15901,7 +15901,7 @@
   "dataName": "1947_EUA",
   "flagResource": "nationflags/France",
   "unionFlagResource": "nationflags/France",
-  "unionTrigger": 41,
+  "unionTrigger": 11,
   "color32": {
    "r": 135,
    "g": 206,
@@ -21796,7 +21796,7 @@
   "dataName": "1947_RUS",
   "flagResource": "nationflags/USSR",
   "unionFlagResource": "nationflags/USSR",
-  "unionTrigger": 45,
+  "unionTrigger": 42,
   "color32": {
    "r": 145,
    "g": 20,
@@ -23204,7 +23204,7 @@
   "dataName": "1947_SCA",
   "flagResource": "nationflags/Sweden",
   "unionFlagResource": "nationflags/Sweden",
-  "unionTrigger": 4,
+  "unionTrigger": 3,
   "color32": {
    "r": 227,
    "g": 206,
@@ -24079,7 +24079,7 @@
   "dataName": "1947_GBR",
   "flagResource": "nationflags/United_Kingdom",
   "unionFlagResource": "nationflags/United_Kingdom",
-  "unionTrigger": 82,
+  "unionTrigger": 9,
   "color32": {
    "r": 204,
    "g": 0,
@@ -24176,7 +24176,7 @@
   "dataName": "1947_USA",
   "flagResource": "nationflags/United_States",
   "unionFlagResource": "nationflags/United_States",
-  "unionTrigger": 28,
+  "unionTrigger": 20,
   "color32": {
    "r": 13,
    "g": 89,
