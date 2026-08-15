@@ -1250,7 +1250,7 @@
   "dataName": "1899_BOL",
   "flagResource": "nationflags/Bolivia",
   "unionFlagResource": "nationflags/Bolivia",
-  "unionTrigger": 2,
+  "unionTrigger": 4,
   "color32": {
    "r": 200,
    "g": 210,
@@ -2306,7 +2306,7 @@
   "dataName": "1899_COL",
   "flagResource": "nationflags/Colombia",
   "unionFlagResource": "nationflags/Colombia",
-  "unionTrigger": 7,
+  "unionTrigger": 6,
   "color32": {
    "r": 255,
    "g": 222,
@@ -3307,7 +3307,7 @@
   "dataName": "1899_ETH",
   "flagResource": "nationflags/Ethiopia",
   "unionFlagResource": "nationflags/Ethiopia",
-  "unionTrigger": 5,
+  "unionTrigger": 6,
   "color32": {
    "r": 210,
    "g": 105,
@@ -3479,7 +3479,7 @@
   "dataName": "1899_EUA",
   "flagResource": "nationflags/France",
   "unionFlagResource": "nationflags/France",
-  "unionTrigger": 5,
+  "unionTrigger": 37,
   "color32": {
    "r": 135,
    "g": 206,
@@ -3733,7 +3733,7 @@
   "dataName": "1899_DEU",
   "flagResource": "nationflags/Germany",
   "unionFlagResource": "nationflags/Germany",
-  "unionTrigger": 2,
+  "unionTrigger": 18,
   "color32": {
    "r": 105,
    "g": 133,
@@ -3999,7 +3999,7 @@
   "dataName": "1899_GTM",
   "flagResource": "nationflags/Guatemala",
   "unionFlagResource": "nationflags/Guatemala",
-  "unionTrigger": 3,
+  "unionTrigger": 4,
   "color32": {
    "r": 73,
    "g": 151,
@@ -5198,7 +5198,7 @@
   "dataName": "1899_JPN",
   "flagResource": "nationflags/Japan",
   "unionFlagResource": "nationflags/Japan",
-  "unionTrigger": 7,
+  "unionTrigger": 9,
   "color32": {
    "r": 224,
    "g": 0,
@@ -7008,7 +7008,7 @@
   "dataName": "1899_MAR",
   "flagResource": "nationflags/Morocco",
   "unionFlagResource": "nationflags/Morocco",
-  "unionTrigger": 3,
+  "unionTrigger": 4,
   "color32": {
    "r": 193,
    "g": 39,
@@ -8386,7 +8386,7 @@
   "friendlyName": "1899_Peru",
   "dataName": "1899_PER",
   "flagResource": "nationflags/Peru",
-  "unionTrigger": 3,
+  "unionTrigger": 5,
   "color32": {
    "r": 205,
    "g": 133,
@@ -9649,7 +9649,7 @@
   "dataName": "1899_SER",
   "flagResource": "nationflags/Serbia",
   "unionFlagResource": "nationflags/Serbia",
-  "unionTrigger": 3,
+  "unionTrigger": 4,
   "color32": {
    "r": 172,
    "g": 152,
@@ -10248,7 +10248,7 @@
   "dataName": "1899_KOR",
   "flagResource": "nationflags/South_Korea",
   "unionFlagResource": "nationflags/South_Korea",
-  "unionTrigger": 2,
+  "unionTrigger": 5,
   "color32": {
    "r": 89,
    "g": 89,
@@ -10670,7 +10670,7 @@
   "dataName": "1899_SCA",
   "flagResource": "nationflags/Sweden",
   "unionFlagResource": "nationflags/Sweden",
-  "unionTrigger": 2,
+  "unionTrigger": 4,
   "color32": {
    "r": 227,
    "g": 206,
@@ -11022,7 +11022,7 @@
   "dataName": "1899_THA",
   "flagResource": "nationflags/Thailand",
   "unionFlagResource": "nationflags/Thailand",
-  "unionTrigger": 3,
+  "unionTrigger": 5,
   "color32": {
    "r": 0,
    "g": 46,
@@ -11311,7 +11311,7 @@
   "dataName": "1899_TUR",
   "flagResource": "nationflags/Turkey",
   "unionFlagResource": "nationflags/Turkey",
-  "unionTrigger": 5,
+  "unionTrigger": 22,
   "color32": {
    "r": 178,
    "g": 34,
@@ -11529,7 +11529,7 @@
   "dataName": "1899_GBR",
   "flagResource": "nationflags/United_Kingdom",
   "unionFlagResource": "nationflags/United_Kingdom",
-  "unionTrigger": 3,
+  "unionTrigger": 96,
   "color32": {
    "r": 204,
    "g": 0,
@@ -11626,7 +11626,7 @@
   "dataName": "1899_USA",
   "flagResource": "nationflags/United_States",
   "unionFlagResource": "nationflags/United_States",
-  "unionTrigger": 21,
+  "unionTrigger": 24,
   "color32": {
    "r": 13,
    "g": 89,
@@ -12881,7 +12881,7 @@
   "dataName": "1947_AUS",
   "flagResource": "nationflags/Australia",
   "unionFlagResource": "nationflags/Australia",
-  "unionTrigger": 7,
+  "unionTrigger": 10,
   "color32": {
    "r": 8,
    "g": 150,
@@ -13592,7 +13592,7 @@
   "dataName": "1947_BOL",
   "flagResource": "nationflags/Bolivia",
   "unionFlagResource": "nationflags/Bolivia",
-  "unionTrigger": 2,
+  "unionTrigger": 4,
   "color32": {
    "r": 200,
    "g": 210,
@@ -14664,7 +14664,7 @@
   "dataName": "1947_COL",
   "flagResource": "nationflags/Colombia",
   "unionFlagResource": "nationflags/Colombia",
-  "unionTrigger": 7,
+  "unionTrigger": 5,
   "color32": {
    "r": 255,
    "g": 222,
@@ -14988,7 +14988,7 @@
   "dataName": "1947_CZE",
   "flagResource": "nationflags/Czech_Republic",
   "unionFlagResource": "nationflags/Czech_Republic",
-  "unionTrigger": 2,
+  "unionTrigger": 5,
   "color32": {
    "r": 190,
    "g": 65,
@@ -15439,7 +15439,7 @@
   "dataName": "1947_EGY",
   "flagResource": "nationflags/Egypt",
   "unionFlagResource": "nationflags/Egypt",
-  "unionTrigger": 4,
+  "unionTrigger": 6,
   "color32": {
    "r": 188,
    "g": 143,
@@ -15713,7 +15713,7 @@
   "dataName": "1947_ETH",
   "flagResource": "nationflags/Ethiopia",
   "unionFlagResource": "nationflags/Ethiopia",
-  "unionTrigger": 5,
+  "unionTrigger": 6,
   "color32": {
    "r": 210,
    "g": 105,
@@ -15901,7 +15901,7 @@
   "dataName": "1947_EUA",
   "flagResource": "nationflags/France",
   "unionFlagResource": "nationflags/France",
-  "unionTrigger": 5,
+  "unionTrigger": 41,
   "color32": {
    "r": 135,
    "g": 206,
@@ -16405,7 +16405,7 @@
   "dataName": "1947_GTM",
   "flagResource": "nationflags/Guatemala",
   "unionFlagResource": "nationflags/Guatemala",
-  "unionTrigger": 3,
+  "unionTrigger": 4,
   "color32": {
    "r": 73,
    "g": 151,
@@ -17340,7 +17340,7 @@
   "dataName": "1947_IRL",
   "flagResource": "nationflags/Ireland",
   "unionFlagResource": "nationflags/Ireland",
-  "unionTrigger": 3,
+  "unionTrigger": 4,
   "color32": {
    "r": 22,
    "g": 155,
@@ -20872,7 +20872,7 @@
   "friendlyName": "1947_Peru",
   "dataName": "1947_PER",
   "flagResource": "nationflags/Peru",
-  "unionTrigger": 3,
+  "unionTrigger": 5,
   "color32": {
    "r": 205,
    "g": 133,
@@ -21023,7 +21023,7 @@
   "dataName": "1947_POL",
   "flagResource": "nationflags/Poland",
   "unionFlagResource": "nationflags/Poland",
-  "unionTrigger": 5,
+  "unionTrigger": 6,
   "color32": {
    "r": 220,
    "g": 20,
@@ -22047,7 +22047,7 @@
   "dataName": "1947_SAU",
   "flagResource": "nationflags/Saudi_Arabia",
   "unionFlagResource": "nationflags/Saudi_Arabia",
-  "unionTrigger": 5,
+  "unionTrigger": 6,
   "color32": {
    "r": 0,
    "g": 108,
@@ -22183,7 +22183,7 @@
   "dataName": "1947_SER",
   "flagResource": "nationflags/Yugoslavia",
   "unionFlagResource": "nationflags/Yugoslavia",
-  "unionTrigger": 3,
+  "unionTrigger": 10,
   "color32": {
    "r": 172,
    "g": 152,
@@ -22740,7 +22740,7 @@
   "dataName": "1947_ZAF",
   "flagResource": "nationflags/South_Africa",
   "unionFlagResource": "nationflags/South_Africa",
-  "unionTrigger": 4,
+  "unionTrigger": 6,
   "color32": {
    "r": 240,
    "g": 128,
@@ -23204,7 +23204,7 @@
   "dataName": "1947_SCA",
   "flagResource": "nationflags/Sweden",
   "unionFlagResource": "nationflags/Sweden",
-  "unionTrigger": 2,
+  "unionTrigger": 4,
   "color32": {
    "r": 227,
    "g": 206,
@@ -23572,7 +23572,7 @@
   "dataName": "1947_THA",
   "flagResource": "nationflags/Thailand",
   "unionFlagResource": "nationflags/Thailand",
-  "unionTrigger": 3,
+  "unionTrigger": 5,
   "color32": {
    "r": 0,
    "g": 46,
@@ -23861,7 +23861,7 @@
   "dataName": "1947_TUR",
   "flagResource": "nationflags/Turkey",
   "unionFlagResource": "nationflags/Turkey",
-  "unionTrigger": 5,
+  "unionTrigger": 6,
   "color32": {
    "r": 178,
    "g": 34,
@@ -24079,7 +24079,7 @@
   "dataName": "1947_GBR",
   "flagResource": "nationflags/United_Kingdom",
   "unionFlagResource": "nationflags/United_Kingdom",
-  "unionTrigger": 3,
+  "unionTrigger": 82,
   "color32": {
    "r": 204,
    "g": 0,
@@ -24176,7 +24176,7 @@
   "dataName": "1947_USA",
   "flagResource": "nationflags/United_States",
   "unionFlagResource": "nationflags/United_States",
-  "unionTrigger": 21,
+  "unionTrigger": 28,
   "color32": {
    "r": 13,
    "g": 89,
