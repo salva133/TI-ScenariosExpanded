@@ -3516,7 +3516,7 @@
    "AND"
   ],
   "referenceAlias": "EUA",
-  "localizationAlias": "EUA",
+  "localizationAlias": "1899_EUA",
   "initialGDP": 198303463543.0,
   "cohesion": 3.5,
   "unrest": 2.5,
@@ -15938,7 +15938,7 @@
    "AND"
   ],
   "referenceAlias": "EUA",
-  "localizationAlias": "EUA",
+  "localizationAlias": "1947_EUA",
   "initialGDP": 355495114613.0,
   "cohesion": 2.5,
   "unrest": 3.5,
