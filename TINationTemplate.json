@@ -3479,7 +3479,7 @@
   "dataName": "1899_EUA",
   "flagResource": "nationflags/France",
   "unionFlagResource": "nationflags/France",
-  "unionTrigger": 11,
+  "unionTrigger": 23,
   "color32": {
    "r": 135,
    "g": 206,
@@ -3516,7 +3516,7 @@
    "AND"
   ],
   "referenceAlias": "EUA",
-  "localizationAlias": "1899_EUA",
+  "localizationAlias": "EUA",
   "initialGDP": 198303463543.0,
   "cohesion": 3.5,
   "unrest": 2.5,
@@ -15901,7 +15901,7 @@
   "dataName": "1947_EUA",
   "flagResource": "nationflags/France",
   "unionFlagResource": "nationflags/France",
-  "unionTrigger": 11,
+  "unionTrigger": 23,
   "color32": {
    "r": 135,
    "g": 206,
@@ -15938,7 +15938,7 @@
    "AND"
   ],
   "referenceAlias": "EUA",
-  "localizationAlias": "1947_EUA",
+  "localizationAlias": "EUA",
   "initialGDP": 355495114613.0,
   "cohesion": 2.5,
   "unrest": 3.5,
