@@ -9278,7 +9278,7 @@
   "dataName": "1899_RUS",
   "flagResource": "nationflags/Russia",
   "unionFlagResource": "nationflags/Russia",
-  "unionTrigger": 25,
+  "unionTrigger": 43,
   "color32": {
    "r": 58,
    "g": 138,
@@ -9313,7 +9313,7 @@
    "RUS"
   ],
   "referenceAlias": "RUS",
-  "localizationAlias": "RUS",
+  "localizationAlias": "1899_RUS",
   "initialGDP": 263264942979.0,
   "cohesion": 2.0,
   "unrest": 3.5,
@@ -21796,7 +21796,7 @@
   "dataName": "1947_RUS",
   "flagResource": "nationflags/USSR",
   "unionFlagResource": "nationflags/USSR",
-  "unionTrigger": 25,
+  "unionTrigger": 45,
   "color32": {
    "r": 145,
    "g": 20,
@@ -21831,7 +21831,7 @@
    "RUS"
   ],
   "referenceAlias": "RUS",
-  "localizationAlias": "RUS",
+  "localizationAlias": "1947_RUS",
   "initialGDP": 929756453604.0,
   "cohesion": 4.0,
   "unrest": 2.0,
